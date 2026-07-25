@@ -1,8 +1,8 @@
 {
-  "version": "0.13.6",
+  "version": "0.14.1",
   "minecraftVersion": "1.21.11",
-  "jarName": "legendsrpg-jei-0.13.6.jar",
-  "downloadUrl": "https://github.com/bostonstuddard/LegendsRPG-JEI-Releases/releases/download/v0.13.6_dev/legendsrpg-jei-0.13.6.jar",
+  "jarName": "legendsrpg-jei-0.14.1.jar",
+  "downloadUrl": "https://github.com/bostonstuddard/LegendsRPG-JEI-Releases/releases/download/v0.14.1_dev/legendsrpg-jei-0.14.1.jar",
   "sha256": "",
-  "releasePage": "https://github.com/bostonstuddard/LegendsRPG-JEI-Releases/releases/tag/v0.13.6_dev"
+  "releasePage": "https://github.com/bostonstuddard/LegendsRPG-JEI-Releases/releases/tag/v0.14.1_dev"
 }
