@@ -1,5 +1,5 @@
 # LegendsJEI
-An optional JEI addon mod that provides compatibility and QOL service for players on LegendsRPG.minehut.gg, integrating the servers custom MMORPG items and trades directly into JEI, and also automatically installing all dependencies and matching the theme of the server.
+A LegendsRPG addon that forks the JEI mod, providing compatibility and QOL service for players on LegendsRPG.minehut.gg, integrating the server's custom MMORPG items and trades directly into JEI, and also automatically installing all dependencies and matching the theme of the server.
 
 Discord:
 https://discord.gg/gu2Hdd2R8X
