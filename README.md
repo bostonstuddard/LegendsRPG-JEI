@@ -1,6 +1,9 @@
 # LegendsRPG-JEI-Releases
 An optional JEI addon mod that provides compatibility and QOL service for players on LegendsRPG.minehut.gg, integrating the servers custom MMORPG items and trades directly into JEI, and also automatically installing all dependencies and matching the theme of the server.
 
+Discord:
+https://discord.gg/gu2Hdd2R8X
+
 Features:
 
 All 700+ LegendsRPG custom items are shown, and all vanilla Minecraft items are disabled:
@@ -15,6 +18,3 @@ Custom EMI-styled crafting tree and custom-made favorites buttons, porting the E
 
 Pinnable recipes, showing you the resources you need for your crafts:
 <img width="1920" height="1009" alt="2026-07-25_02 24 06" src="https://github.com/user-attachments/assets/3ede882a-bc1a-46ca-b952-53ff46a24181" />
-
-Discord:
-https://discord.gg/gu2Hdd2R8X
