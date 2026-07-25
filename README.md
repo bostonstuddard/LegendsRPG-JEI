@@ -18,3 +18,7 @@ Custom EMI-styled crafting tree and custom-made favorites buttons, porting the E
 
 Pinnable recipes, showing you the resources you need for your crafts:
 <img width="1920" height="1009" alt="2026-07-25_02 24 06" src="https://github.com/user-attachments/assets/3ede882a-bc1a-46ca-b952-53ff46a24181" />
+
+AI USAGE DISCLAIMER:
+AI like ChatGPT/Codex/Google AI is heavily used in the fixing and upkeep of this mod, as it is a passion project and meant solely for quality of life. Issues caused unintentionally via AI, including but not limited to system failure, performance issues, etc, are not the fault of the developer, and by using this product you understand and consent to these. No code will be intentionally uploaded with malicious software to intentionally cause harm to the user, and this is not malware.
+The project is checked before each release, no matter what, by the author, and will not be uploaded if system problems arise from the usage of the product.
