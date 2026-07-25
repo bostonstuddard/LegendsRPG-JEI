@@ -1,0 +1,134 @@
+[
+  {
+    "id": "ore_forge_iron_ore_iron_ingot",
+    "index": 1,
+    "oreId": "iron_ore",
+    "ingotId": "iron_ingot",
+    "requiredForgeLevel": 1,
+    "multiplier": 1.0,
+    "baseAmount": 256,
+    "baseTime": 4,
+    "coalCost": 1
+  },
+  {
+    "id": "ore_forge_copper_ore_copper_ingot",
+    "index": 2,
+    "oreId": "copper_ore",
+    "ingotId": "copper_ingot",
+    "requiredForgeLevel": 1,
+    "multiplier": 1.0,
+    "baseAmount": 256,
+    "baseTime": 4,
+    "coalCost": 1
+  },
+  {
+    "id": "ore_forge_tungsten_ore_tungsten_ingot",
+    "index": 3,
+    "oreId": "tungsten_ore",
+    "ingotId": "tungsten_ingot",
+    "requiredForgeLevel": 1,
+    "multiplier": 1.0,
+    "baseAmount": 256,
+    "baseTime": 4,
+    "coalCost": 1
+  },
+  {
+    "id": "ore_forge_cobalt_ore_cobalt_ingot",
+    "index": 4,
+    "oreId": "cobalt_ore",
+    "ingotId": "cobalt_ingot",
+    "requiredForgeLevel": 1,
+    "multiplier": 1.5,
+    "baseAmount": 128,
+    "baseTime": 5,
+    "coalCost": 2
+  },
+  {
+    "id": "ore_forge_gold_ore_gold_ingot",
+    "index": 5,
+    "oreId": "gold_ore",
+    "ingotId": "gold_ingot",
+    "requiredForgeLevel": 1,
+    "multiplier": 1.5,
+    "baseAmount": 128,
+    "baseTime": 5,
+    "coalCost": 2
+  },
+  {
+    "id": "ore_forge_raw_redstone_pure_redstone",
+    "index": 6,
+    "oreId": "raw_redstone",
+    "ingotId": "pure_redstone",
+    "requiredForgeLevel": 1,
+    "multiplier": 2.0,
+    "baseAmount": 128,
+    "baseTime": 6,
+    "coalCost": 3
+  },
+  {
+    "id": "ore_forge_gemstone_ore_gemstone_ingot",
+    "index": 7,
+    "oreId": "gemstone_ore",
+    "ingotId": "gemstone_ingot",
+    "requiredForgeLevel": 1,
+    "multiplier": 2.5,
+    "baseAmount": 64,
+    "baseTime": 7,
+    "coalCost": 3
+  },
+  {
+    "id": "ore_forge_nickel_ore_nickel_ingot",
+    "index": 8,
+    "oreId": "nickel_ore",
+    "ingotId": "nickel_ingot",
+    "requiredForgeLevel": 2,
+    "multiplier": 3.0,
+    "baseAmount": 64,
+    "baseTime": 9,
+    "coalCost": 4
+  },
+  {
+    "id": "ore_forge_lapis_ore_lapis_ingot",
+    "index": 9,
+    "oreId": "lapis_ore",
+    "ingotId": "lapis_ingot",
+    "requiredForgeLevel": 2,
+    "multiplier": 3.0,
+    "baseAmount": 64,
+    "baseTime": 9,
+    "coalCost": 4
+  },
+  {
+    "id": "ore_forge_mithril_ore_mithril_ingot",
+    "index": 10,
+    "oreId": "mithril_ore",
+    "ingotId": "mithril_ingot",
+    "requiredForgeLevel": 3,
+    "multiplier": 3.5,
+    "baseAmount": 64,
+    "baseTime": 11,
+    "coalCost": 5
+  },
+  {
+    "id": "ore_forge_raw_diamond_diamond_ingot",
+    "index": 11,
+    "oreId": "raw_diamond",
+    "ingotId": "diamond_ingot",
+    "requiredForgeLevel": 5,
+    "multiplier": 4.0,
+    "baseAmount": 64,
+    "baseTime": 13,
+    "coalCost": 6
+  },
+  {
+    "id": "ore_forge_infernal_ore_infernal_ingot",
+    "index": 12,
+    "oreId": "infernal_ore",
+    "ingotId": "infernal_ingot",
+    "requiredForgeLevel": 7,
+    "multiplier": 5.0,
+    "baseAmount": 64,
+    "baseTime": 16,
+    "coalCost": 7
+  }
+]

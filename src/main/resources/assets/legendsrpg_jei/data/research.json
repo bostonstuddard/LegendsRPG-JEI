@@ -1,0 +1,1511 @@
+[
+  {
+    "id": "mining_research_1",
+    "tier": 1,
+    "unlocks": [
+      "Gemstone Armor",
+      "Drill Base",
+      "LED"
+    ],
+    "costs": [
+      {
+        "id": "red_research_pack",
+        "count": 8
+      }
+    ],
+    "rawCosts": [
+      {
+        "id": "coal",
+        "count": 128
+      },
+      {
+        "id": "gemstone_ore",
+        "count": 32
+      },
+      {
+        "id": "hardened_stone",
+        "count": 512
+      },
+      {
+        "id": "magical_log",
+        "count": 72
+      },
+      {
+        "id": "raw_redstone",
+        "count": 32
+      }
+    ],
+    "cumulativeCosts": [
+      {
+        "id": "red_research_pack",
+        "count": 8
+      }
+    ],
+    "cumulativeRawCosts": [
+      {
+        "id": "coal",
+        "count": 128
+      },
+      {
+        "id": "gemstone_ore",
+        "count": 32
+      },
+      {
+        "id": "hardened_stone",
+        "count": 512
+      },
+      {
+        "id": "magical_log",
+        "count": 72
+      },
+      {
+        "id": "raw_redstone",
+        "count": 32
+      }
+    ],
+    "steps": [
+      "8x Red Research Pack: 8 Shady Guy Shop batches",
+      "8x Enchanted Hardened Stone: 8 Shady Guy Shop batches",
+      "8x Gemstone Ingot: 2 Forge (Level 25) batches",
+      "8x Pure Redstone: 2 Forge (Level 20) batches",
+      "16x Pure Carbon Mixture: 2 Forge (Level 20) batches",
+      "8x Magical Wood: 8 Crafting batches"
+    ],
+    "cumulativeSteps": [
+      "8x Red Research Pack: 8 Shady Guy Shop batches",
+      "8x Enchanted Hardened Stone: 8 Shady Guy Shop batches",
+      "8x Gemstone Ingot: 2 Forge (Level 25) batches",
+      "8x Pure Redstone: 2 Forge (Level 20) batches",
+      "16x Pure Carbon Mixture: 2 Forge (Level 20) batches",
+      "8x Magical Wood: 8 Crafting batches"
+    ]
+  },
+  {
+    "id": "mining_research_2",
+    "tier": 2,
+    "unlocks": [
+      "Redstone Drill"
+    ],
+    "costs": [
+      {
+        "id": "red_research_pack",
+        "count": 16
+      }
+    ],
+    "rawCosts": [
+      {
+        "id": "coal",
+        "count": 256
+      },
+      {
+        "id": "gemstone_ore",
+        "count": 64
+      },
+      {
+        "id": "hardened_stone",
+        "count": 1024
+      },
+      {
+        "id": "magical_log",
+        "count": 144
+      },
+      {
+        "id": "raw_redstone",
+        "count": 64
+      }
+    ],
+    "cumulativeCosts": [
+      {
+        "id": "red_research_pack",
+        "count": 24
+      }
+    ],
+    "cumulativeRawCosts": [
+      {
+        "id": "coal",
+        "count": 384
+      },
+      {
+        "id": "gemstone_ore",
+        "count": 96
+      },
+      {
+        "id": "hardened_stone",
+        "count": 1536
+      },
+      {
+        "id": "magical_log",
+        "count": 216
+      },
+      {
+        "id": "raw_redstone",
+        "count": 96
+      }
+    ],
+    "steps": [
+      "16x Red Research Pack: 16 Shady Guy Shop batches",
+      "16x Enchanted Hardened Stone: 16 Shady Guy Shop batches",
+      "16x Gemstone Ingot: 4 Forge (Level 25) batches",
+      "16x Pure Redstone: 4 Forge (Level 20) batches",
+      "32x Pure Carbon Mixture: 4 Forge (Level 20) batches",
+      "16x Magical Wood: 16 Crafting batches"
+    ],
+    "cumulativeSteps": [
+      "24x Red Research Pack: 24 Shady Guy Shop batches",
+      "24x Enchanted Hardened Stone: 24 Shady Guy Shop batches",
+      "24x Gemstone Ingot: 6 Forge (Level 25) batches",
+      "24x Pure Redstone: 6 Forge (Level 20) batches",
+      "48x Pure Carbon Mixture: 6 Forge (Level 20) batches",
+      "24x Magical Wood: 24 Crafting batches"
+    ]
+  },
+  {
+    "id": "mining_research_3",
+    "tier": 3,
+    "unlocks": [
+      "Gemstone Drill",
+      "Coalbliterator Drill"
+    ],
+    "costs": [
+      {
+        "id": "red_research_pack",
+        "count": 24
+      }
+    ],
+    "rawCosts": [
+      {
+        "id": "coal",
+        "count": 384
+      },
+      {
+        "id": "gemstone_ore",
+        "count": 96
+      },
+      {
+        "id": "hardened_stone",
+        "count": 1536
+      },
+      {
+        "id": "magical_log",
+        "count": 216
+      },
+      {
+        "id": "raw_redstone",
+        "count": 96
+      }
+    ],
+    "cumulativeCosts": [
+      {
+        "id": "red_research_pack",
+        "count": 48
+      }
+    ],
+    "cumulativeRawCosts": [
+      {
+        "id": "coal",
+        "count": 768
+      },
+      {
+        "id": "gemstone_ore",
+        "count": 192
+      },
+      {
+        "id": "hardened_stone",
+        "count": 3072
+      },
+      {
+        "id": "magical_log",
+        "count": 432
+      },
+      {
+        "id": "raw_redstone",
+        "count": 192
+      }
+    ],
+    "steps": [
+      "24x Red Research Pack: 24 Shady Guy Shop batches",
+      "24x Enchanted Hardened Stone: 24 Shady Guy Shop batches",
+      "24x Gemstone Ingot: 6 Forge (Level 25) batches",
+      "24x Pure Redstone: 6 Forge (Level 20) batches",
+      "48x Pure Carbon Mixture: 6 Forge (Level 20) batches",
+      "24x Magical Wood: 24 Crafting batches"
+    ],
+    "cumulativeSteps": [
+      "48x Red Research Pack: 48 Shady Guy Shop batches",
+      "48x Enchanted Hardened Stone: 48 Shady Guy Shop batches",
+      "48x Gemstone Ingot: 12 Forge (Level 25) batches",
+      "48x Pure Redstone: 12 Forge (Level 20) batches",
+      "96x Pure Carbon Mixture: 12 Forge (Level 20) batches",
+      "48x Magical Wood: 48 Crafting batches"
+    ]
+  },
+  {
+    "id": "mining_research_4",
+    "tier": 4,
+    "unlocks": [
+      "Nickel Armor",
+      "Nickel Drill",
+      "Green Research Pack"
+    ],
+    "costs": [
+      {
+        "id": "red_research_pack",
+        "count": 32
+      }
+    ],
+    "rawCosts": [
+      {
+        "id": "coal",
+        "count": 512
+      },
+      {
+        "id": "gemstone_ore",
+        "count": 128
+      },
+      {
+        "id": "hardened_stone",
+        "count": 2048
+      },
+      {
+        "id": "magical_log",
+        "count": 288
+      },
+      {
+        "id": "raw_redstone",
+        "count": 128
+      }
+    ],
+    "cumulativeCosts": [
+      {
+        "id": "red_research_pack",
+        "count": 80
+      }
+    ],
+    "cumulativeRawCosts": [
+      {
+        "id": "coal",
+        "count": 1280
+      },
+      {
+        "id": "gemstone_ore",
+        "count": 320
+      },
+      {
+        "id": "hardened_stone",
+        "count": 5120
+      },
+      {
+        "id": "magical_log",
+        "count": 720
+      },
+      {
+        "id": "raw_redstone",
+        "count": 320
+      }
+    ],
+    "steps": [
+      "32x Red Research Pack: 32 Shady Guy Shop batches",
+      "32x Enchanted Hardened Stone: 32 Shady Guy Shop batches",
+      "32x Gemstone Ingot: 8 Forge (Level 25) batches",
+      "32x Pure Redstone: 8 Forge (Level 20) batches",
+      "64x Pure Carbon Mixture: 8 Forge (Level 20) batches",
+      "32x Magical Wood: 32 Crafting batches"
+    ],
+    "cumulativeSteps": [
+      "80x Red Research Pack: 80 Shady Guy Shop batches",
+      "80x Enchanted Hardened Stone: 80 Shady Guy Shop batches",
+      "80x Gemstone Ingot: 20 Forge (Level 25) batches",
+      "80x Pure Redstone: 20 Forge (Level 20) batches",
+      "160x Pure Carbon Mixture: 20 Forge (Level 20) batches",
+      "80x Magical Wood: 80 Crafting batches"
+    ]
+  },
+  {
+    "id": "mining_research_5",
+    "tier": 5,
+    "unlocks": [
+      "Lapis Drill",
+      "Advanced Drill Wiring"
+    ],
+    "costs": [
+      {
+        "id": "red_research_pack",
+        "count": 40
+      },
+      {
+        "id": "green_research_pack",
+        "count": 5
+      }
+    ],
+    "rawCosts": [
+      {
+        "id": "coal",
+        "count": 640
+      },
+      {
+        "id": "gemstone_ore",
+        "count": 160
+      },
+      {
+        "id": "green_research_pack",
+        "count": 5
+      },
+      {
+        "id": "hardened_stone",
+        "count": 2560
+      },
+      {
+        "id": "magical_log",
+        "count": 360
+      },
+      {
+        "id": "raw_redstone",
+        "count": 160
+      }
+    ],
+    "cumulativeCosts": [
+      {
+        "id": "red_research_pack",
+        "count": 120
+      },
+      {
+        "id": "green_research_pack",
+        "count": 5
+      }
+    ],
+    "cumulativeRawCosts": [
+      {
+        "id": "coal",
+        "count": 1920
+      },
+      {
+        "id": "gemstone_ore",
+        "count": 480
+      },
+      {
+        "id": "green_research_pack",
+        "count": 5
+      },
+      {
+        "id": "hardened_stone",
+        "count": 7680
+      },
+      {
+        "id": "magical_log",
+        "count": 1080
+      },
+      {
+        "id": "raw_redstone",
+        "count": 480
+      }
+    ],
+    "steps": [
+      "40x Red Research Pack: 40 Shady Guy Shop batches",
+      "40x Enchanted Hardened Stone: 40 Shady Guy Shop batches",
+      "40x Gemstone Ingot: 10 Forge (Level 25) batches",
+      "40x Pure Redstone: 10 Forge (Level 20) batches",
+      "80x Pure Carbon Mixture: 10 Forge (Level 20) batches",
+      "40x Magical Wood: 40 Crafting batches"
+    ],
+    "cumulativeSteps": [
+      "120x Red Research Pack: 120 Shady Guy Shop batches",
+      "120x Enchanted Hardened Stone: 120 Shady Guy Shop batches",
+      "120x Gemstone Ingot: 30 Forge (Level 25) batches",
+      "120x Pure Redstone: 30 Forge (Level 20) batches",
+      "240x Pure Carbon Mixture: 30 Forge (Level 20) batches",
+      "120x Magical Wood: 120 Crafting batches"
+    ]
+  },
+  {
+    "id": "mining_research_6",
+    "tier": 6,
+    "unlocks": [
+      "Enchanted Drill Base",
+      "Advanced Mining Scroll"
+    ],
+    "costs": [
+      {
+        "id": "red_research_pack",
+        "count": 48
+      },
+      {
+        "id": "green_research_pack",
+        "count": 10
+      }
+    ],
+    "rawCosts": [
+      {
+        "id": "coal",
+        "count": 768
+      },
+      {
+        "id": "gemstone_ore",
+        "count": 192
+      },
+      {
+        "id": "green_research_pack",
+        "count": 10
+      },
+      {
+        "id": "hardened_stone",
+        "count": 3072
+      },
+      {
+        "id": "magical_log",
+        "count": 432
+      },
+      {
+        "id": "raw_redstone",
+        "count": 192
+      }
+    ],
+    "cumulativeCosts": [
+      {
+        "id": "red_research_pack",
+        "count": 168
+      },
+      {
+        "id": "green_research_pack",
+        "count": 15
+      }
+    ],
+    "cumulativeRawCosts": [
+      {
+        "id": "coal",
+        "count": 2688
+      },
+      {
+        "id": "gemstone_ore",
+        "count": 672
+      },
+      {
+        "id": "green_research_pack",
+        "count": 15
+      },
+      {
+        "id": "hardened_stone",
+        "count": 10752
+      },
+      {
+        "id": "magical_log",
+        "count": 1512
+      },
+      {
+        "id": "raw_redstone",
+        "count": 672
+      }
+    ],
+    "steps": [
+      "48x Red Research Pack: 48 Shady Guy Shop batches",
+      "48x Enchanted Hardened Stone: 48 Shady Guy Shop batches",
+      "48x Gemstone Ingot: 12 Forge (Level 25) batches",
+      "48x Pure Redstone: 12 Forge (Level 20) batches",
+      "96x Pure Carbon Mixture: 12 Forge (Level 20) batches",
+      "48x Magical Wood: 48 Crafting batches"
+    ],
+    "cumulativeSteps": [
+      "168x Red Research Pack: 168 Shady Guy Shop batches",
+      "168x Enchanted Hardened Stone: 168 Shady Guy Shop batches",
+      "168x Gemstone Ingot: 42 Forge (Level 25) batches",
+      "168x Pure Redstone: 42 Forge (Level 20) batches",
+      "336x Pure Carbon Mixture: 42 Forge (Level 20) batches",
+      "168x Magical Wood: 168 Crafting batches"
+    ]
+  },
+  {
+    "id": "mining_research_7",
+    "tier": 7,
+    "unlocks": [
+      "Lapis Armor"
+    ],
+    "costs": [
+      {
+        "id": "red_research_pack",
+        "count": 56
+      },
+      {
+        "id": "green_research_pack",
+        "count": 15
+      }
+    ],
+    "rawCosts": [
+      {
+        "id": "coal",
+        "count": 896
+      },
+      {
+        "id": "gemstone_ore",
+        "count": 224
+      },
+      {
+        "id": "green_research_pack",
+        "count": 15
+      },
+      {
+        "id": "hardened_stone",
+        "count": 3584
+      },
+      {
+        "id": "magical_log",
+        "count": 504
+      },
+      {
+        "id": "raw_redstone",
+        "count": 224
+      }
+    ],
+    "cumulativeCosts": [
+      {
+        "id": "red_research_pack",
+        "count": 224
+      },
+      {
+        "id": "green_research_pack",
+        "count": 30
+      }
+    ],
+    "cumulativeRawCosts": [
+      {
+        "id": "coal",
+        "count": 3584
+      },
+      {
+        "id": "gemstone_ore",
+        "count": 896
+      },
+      {
+        "id": "green_research_pack",
+        "count": 30
+      },
+      {
+        "id": "hardened_stone",
+        "count": 14336
+      },
+      {
+        "id": "magical_log",
+        "count": 2016
+      },
+      {
+        "id": "raw_redstone",
+        "count": 896
+      }
+    ],
+    "steps": [
+      "56x Red Research Pack: 56 Shady Guy Shop batches",
+      "56x Enchanted Hardened Stone: 56 Shady Guy Shop batches",
+      "56x Gemstone Ingot: 14 Forge (Level 25) batches",
+      "56x Pure Redstone: 14 Forge (Level 20) batches",
+      "112x Pure Carbon Mixture: 14 Forge (Level 20) batches",
+      "56x Magical Wood: 56 Crafting batches"
+    ],
+    "cumulativeSteps": [
+      "224x Red Research Pack: 224 Shady Guy Shop batches",
+      "224x Enchanted Hardened Stone: 224 Shady Guy Shop batches",
+      "224x Gemstone Ingot: 56 Forge (Level 25) batches",
+      "224x Pure Redstone: 56 Forge (Level 20) batches",
+      "448x Pure Carbon Mixture: 56 Forge (Level 20) batches",
+      "224x Magical Wood: 224 Crafting batches"
+    ]
+  },
+  {
+    "id": "mining_research_8",
+    "tier": 8,
+    "unlocks": [
+      "Mithril Drill"
+    ],
+    "costs": [
+      {
+        "id": "red_research_pack",
+        "count": 64
+      },
+      {
+        "id": "green_research_pack",
+        "count": 20
+      }
+    ],
+    "rawCosts": [
+      {
+        "id": "coal",
+        "count": 1024
+      },
+      {
+        "id": "gemstone_ore",
+        "count": 256
+      },
+      {
+        "id": "green_research_pack",
+        "count": 20
+      },
+      {
+        "id": "hardened_stone",
+        "count": 4096
+      },
+      {
+        "id": "magical_log",
+        "count": 576
+      },
+      {
+        "id": "raw_redstone",
+        "count": 256
+      }
+    ],
+    "cumulativeCosts": [
+      {
+        "id": "red_research_pack",
+        "count": 288
+      },
+      {
+        "id": "green_research_pack",
+        "count": 50
+      }
+    ],
+    "cumulativeRawCosts": [
+      {
+        "id": "coal",
+        "count": 4608
+      },
+      {
+        "id": "gemstone_ore",
+        "count": 1152
+      },
+      {
+        "id": "green_research_pack",
+        "count": 50
+      },
+      {
+        "id": "hardened_stone",
+        "count": 18432
+      },
+      {
+        "id": "magical_log",
+        "count": 2592
+      },
+      {
+        "id": "raw_redstone",
+        "count": 1152
+      }
+    ],
+    "steps": [
+      "64x Red Research Pack: 64 Shady Guy Shop batches",
+      "64x Enchanted Hardened Stone: 64 Shady Guy Shop batches",
+      "64x Gemstone Ingot: 16 Forge (Level 25) batches",
+      "64x Pure Redstone: 16 Forge (Level 20) batches",
+      "128x Pure Carbon Mixture: 16 Forge (Level 20) batches",
+      "64x Magical Wood: 64 Crafting batches"
+    ],
+    "cumulativeSteps": [
+      "288x Red Research Pack: 288 Shady Guy Shop batches",
+      "288x Enchanted Hardened Stone: 288 Shady Guy Shop batches",
+      "288x Gemstone Ingot: 72 Forge (Level 25) batches",
+      "288x Pure Redstone: 72 Forge (Level 20) batches",
+      "576x Pure Carbon Mixture: 72 Forge (Level 20) batches",
+      "288x Magical Wood: 288 Crafting batches"
+    ]
+  },
+  {
+    "id": "mining_research_9",
+    "tier": 9,
+    "unlocks": [
+      "Diamond Drill"
+    ],
+    "costs": [
+      {
+        "id": "red_research_pack",
+        "count": 72
+      },
+      {
+        "id": "green_research_pack",
+        "count": 25
+      }
+    ],
+    "rawCosts": [
+      {
+        "id": "coal",
+        "count": 1152
+      },
+      {
+        "id": "gemstone_ore",
+        "count": 288
+      },
+      {
+        "id": "green_research_pack",
+        "count": 25
+      },
+      {
+        "id": "hardened_stone",
+        "count": 4608
+      },
+      {
+        "id": "magical_log",
+        "count": 648
+      },
+      {
+        "id": "raw_redstone",
+        "count": 288
+      }
+    ],
+    "cumulativeCosts": [
+      {
+        "id": "red_research_pack",
+        "count": 360
+      },
+      {
+        "id": "green_research_pack",
+        "count": 75
+      }
+    ],
+    "cumulativeRawCosts": [
+      {
+        "id": "coal",
+        "count": 5760
+      },
+      {
+        "id": "gemstone_ore",
+        "count": 1440
+      },
+      {
+        "id": "green_research_pack",
+        "count": 75
+      },
+      {
+        "id": "hardened_stone",
+        "count": 23040
+      },
+      {
+        "id": "magical_log",
+        "count": 3240
+      },
+      {
+        "id": "raw_redstone",
+        "count": 1440
+      }
+    ],
+    "steps": [
+      "72x Red Research Pack: 72 Shady Guy Shop batches",
+      "72x Enchanted Hardened Stone: 72 Shady Guy Shop batches",
+      "72x Gemstone Ingot: 18 Forge (Level 25) batches",
+      "72x Pure Redstone: 18 Forge (Level 20) batches",
+      "144x Pure Carbon Mixture: 18 Forge (Level 20) batches",
+      "72x Magical Wood: 72 Crafting batches"
+    ],
+    "cumulativeSteps": [
+      "360x Red Research Pack: 360 Shady Guy Shop batches",
+      "360x Enchanted Hardened Stone: 360 Shady Guy Shop batches",
+      "360x Gemstone Ingot: 90 Forge (Level 25) batches",
+      "360x Pure Redstone: 90 Forge (Level 20) batches",
+      "720x Pure Carbon Mixture: 90 Forge (Level 20) batches",
+      "360x Magical Wood: 360 Crafting batches"
+    ]
+  },
+  {
+    "id": "mining_research_10",
+    "tier": 10,
+    "unlocks": [
+      "Mithril Armor"
+    ],
+    "costs": [
+      {
+        "id": "red_research_pack",
+        "count": 80
+      },
+      {
+        "id": "green_research_pack",
+        "count": 30
+      }
+    ],
+    "rawCosts": [
+      {
+        "id": "coal",
+        "count": 1280
+      },
+      {
+        "id": "gemstone_ore",
+        "count": 320
+      },
+      {
+        "id": "green_research_pack",
+        "count": 30
+      },
+      {
+        "id": "hardened_stone",
+        "count": 5120
+      },
+      {
+        "id": "magical_log",
+        "count": 720
+      },
+      {
+        "id": "raw_redstone",
+        "count": 320
+      }
+    ],
+    "cumulativeCosts": [
+      {
+        "id": "red_research_pack",
+        "count": 440
+      },
+      {
+        "id": "green_research_pack",
+        "count": 105
+      }
+    ],
+    "cumulativeRawCosts": [
+      {
+        "id": "coal",
+        "count": 7040
+      },
+      {
+        "id": "gemstone_ore",
+        "count": 1760
+      },
+      {
+        "id": "green_research_pack",
+        "count": 105
+      },
+      {
+        "id": "hardened_stone",
+        "count": 28160
+      },
+      {
+        "id": "magical_log",
+        "count": 3960
+      },
+      {
+        "id": "raw_redstone",
+        "count": 1760
+      }
+    ],
+    "steps": [
+      "80x Red Research Pack: 80 Shady Guy Shop batches",
+      "80x Enchanted Hardened Stone: 80 Shady Guy Shop batches",
+      "80x Gemstone Ingot: 20 Forge (Level 25) batches",
+      "80x Pure Redstone: 20 Forge (Level 20) batches",
+      "160x Pure Carbon Mixture: 20 Forge (Level 20) batches",
+      "80x Magical Wood: 80 Crafting batches"
+    ],
+    "cumulativeSteps": [
+      "440x Red Research Pack: 440 Shady Guy Shop batches",
+      "440x Enchanted Hardened Stone: 440 Shady Guy Shop batches",
+      "440x Gemstone Ingot: 110 Forge (Level 25) batches",
+      "440x Pure Redstone: 110 Forge (Level 20) batches",
+      "880x Pure Carbon Mixture: 110 Forge (Level 20) batches",
+      "440x Magical Wood: 440 Crafting batches"
+    ]
+  },
+  {
+    "id": "mining_research_11",
+    "tier": 11,
+    "unlocks": [
+      "+1 Forge Slot"
+    ],
+    "costs": [
+      {
+        "id": "red_research_pack",
+        "count": 88
+      },
+      {
+        "id": "green_research_pack",
+        "count": 35
+      }
+    ],
+    "rawCosts": [
+      {
+        "id": "coal",
+        "count": 1408
+      },
+      {
+        "id": "gemstone_ore",
+        "count": 352
+      },
+      {
+        "id": "green_research_pack",
+        "count": 35
+      },
+      {
+        "id": "hardened_stone",
+        "count": 5632
+      },
+      {
+        "id": "magical_log",
+        "count": 792
+      },
+      {
+        "id": "raw_redstone",
+        "count": 352
+      }
+    ],
+    "cumulativeCosts": [
+      {
+        "id": "red_research_pack",
+        "count": 528
+      },
+      {
+        "id": "green_research_pack",
+        "count": 140
+      }
+    ],
+    "cumulativeRawCosts": [
+      {
+        "id": "coal",
+        "count": 8448
+      },
+      {
+        "id": "gemstone_ore",
+        "count": 2112
+      },
+      {
+        "id": "green_research_pack",
+        "count": 140
+      },
+      {
+        "id": "hardened_stone",
+        "count": 33792
+      },
+      {
+        "id": "magical_log",
+        "count": 4752
+      },
+      {
+        "id": "raw_redstone",
+        "count": 2112
+      }
+    ],
+    "steps": [
+      "88x Red Research Pack: 88 Shady Guy Shop batches",
+      "88x Enchanted Hardened Stone: 88 Shady Guy Shop batches",
+      "88x Gemstone Ingot: 22 Forge (Level 25) batches",
+      "88x Pure Redstone: 22 Forge (Level 20) batches",
+      "176x Pure Carbon Mixture: 22 Forge (Level 20) batches",
+      "88x Magical Wood: 88 Crafting batches"
+    ],
+    "cumulativeSteps": [
+      "528x Red Research Pack: 528 Shady Guy Shop batches",
+      "528x Enchanted Hardened Stone: 528 Shady Guy Shop batches",
+      "528x Gemstone Ingot: 132 Forge (Level 25) batches",
+      "528x Pure Redstone: 132 Forge (Level 20) batches",
+      "1056x Pure Carbon Mixture: 132 Forge (Level 20) batches",
+      "528x Magical Wood: 528 Crafting batches"
+    ]
+  },
+  {
+    "id": "mining_research_12",
+    "tier": 12,
+    "unlocks": [
+      "Overly Plated Drill"
+    ],
+    "costs": [
+      {
+        "id": "red_research_pack",
+        "count": 96
+      },
+      {
+        "id": "green_research_pack",
+        "count": 40
+      }
+    ],
+    "rawCosts": [
+      {
+        "id": "coal",
+        "count": 1536
+      },
+      {
+        "id": "gemstone_ore",
+        "count": 384
+      },
+      {
+        "id": "green_research_pack",
+        "count": 40
+      },
+      {
+        "id": "hardened_stone",
+        "count": 6144
+      },
+      {
+        "id": "magical_log",
+        "count": 864
+      },
+      {
+        "id": "raw_redstone",
+        "count": 384
+      }
+    ],
+    "cumulativeCosts": [
+      {
+        "id": "red_research_pack",
+        "count": 624
+      },
+      {
+        "id": "green_research_pack",
+        "count": 180
+      }
+    ],
+    "cumulativeRawCosts": [
+      {
+        "id": "coal",
+        "count": 9984
+      },
+      {
+        "id": "gemstone_ore",
+        "count": 2496
+      },
+      {
+        "id": "green_research_pack",
+        "count": 180
+      },
+      {
+        "id": "hardened_stone",
+        "count": 39936
+      },
+      {
+        "id": "magical_log",
+        "count": 5616
+      },
+      {
+        "id": "raw_redstone",
+        "count": 2496
+      }
+    ],
+    "steps": [
+      "96x Red Research Pack: 96 Shady Guy Shop batches",
+      "96x Enchanted Hardened Stone: 96 Shady Guy Shop batches",
+      "96x Gemstone Ingot: 24 Forge (Level 25) batches",
+      "96x Pure Redstone: 24 Forge (Level 20) batches",
+      "192x Pure Carbon Mixture: 24 Forge (Level 20) batches",
+      "96x Magical Wood: 96 Crafting batches"
+    ],
+    "cumulativeSteps": [
+      "624x Red Research Pack: 624 Shady Guy Shop batches",
+      "624x Enchanted Hardened Stone: 624 Shady Guy Shop batches",
+      "624x Gemstone Ingot: 156 Forge (Level 25) batches",
+      "624x Pure Redstone: 156 Forge (Level 20) batches",
+      "1248x Pure Carbon Mixture: 156 Forge (Level 20) batches",
+      "624x Magical Wood: 624 Crafting batches"
+    ]
+  },
+  {
+    "id": "mining_research_13",
+    "tier": 13,
+    "unlocks": [
+      "Diamond Armor",
+      "Blue Research Pack"
+    ],
+    "costs": [
+      {
+        "id": "red_research_pack",
+        "count": 104
+      },
+      {
+        "id": "green_research_pack",
+        "count": 45
+      }
+    ],
+    "rawCosts": [
+      {
+        "id": "coal",
+        "count": 1664
+      },
+      {
+        "id": "gemstone_ore",
+        "count": 416
+      },
+      {
+        "id": "green_research_pack",
+        "count": 45
+      },
+      {
+        "id": "hardened_stone",
+        "count": 6656
+      },
+      {
+        "id": "magical_log",
+        "count": 936
+      },
+      {
+        "id": "raw_redstone",
+        "count": 416
+      }
+    ],
+    "cumulativeCosts": [
+      {
+        "id": "red_research_pack",
+        "count": 728
+      },
+      {
+        "id": "green_research_pack",
+        "count": 225
+      }
+    ],
+    "cumulativeRawCosts": [
+      {
+        "id": "coal",
+        "count": 11648
+      },
+      {
+        "id": "gemstone_ore",
+        "count": 2912
+      },
+      {
+        "id": "green_research_pack",
+        "count": 225
+      },
+      {
+        "id": "hardened_stone",
+        "count": 46592
+      },
+      {
+        "id": "magical_log",
+        "count": 6552
+      },
+      {
+        "id": "raw_redstone",
+        "count": 2912
+      }
+    ],
+    "steps": [
+      "104x Red Research Pack: 104 Shady Guy Shop batches",
+      "104x Enchanted Hardened Stone: 104 Shady Guy Shop batches",
+      "104x Gemstone Ingot: 26 Forge (Level 25) batches",
+      "104x Pure Redstone: 26 Forge (Level 20) batches",
+      "208x Pure Carbon Mixture: 26 Forge (Level 20) batches",
+      "104x Magical Wood: 104 Crafting batches"
+    ],
+    "cumulativeSteps": [
+      "728x Red Research Pack: 728 Shady Guy Shop batches",
+      "728x Enchanted Hardened Stone: 728 Shady Guy Shop batches",
+      "728x Gemstone Ingot: 182 Forge (Level 25) batches",
+      "728x Pure Redstone: 182 Forge (Level 20) batches",
+      "1456x Pure Carbon Mixture: 182 Forge (Level 20) batches",
+      "728x Magical Wood: 728 Crafting batches"
+    ]
+  },
+  {
+    "id": "mining_research_14",
+    "tier": 14,
+    "unlocks": [
+      "Infernal Pickaxe",
+      "Moltenfernal Mixture"
+    ],
+    "costs": [
+      {
+        "id": "green_research_pack",
+        "count": 50
+      },
+      {
+        "id": "blue_research_pack",
+        "count": 4
+      }
+    ],
+    "rawCosts": [
+      {
+        "id": "blue_research_pack",
+        "count": 4
+      },
+      {
+        "id": "coal",
+        "count": 10432
+      },
+      {
+        "id": "gemstone_ore",
+        "count": 208
+      },
+      {
+        "id": "hardened_stone",
+        "count": 41600
+      },
+      {
+        "id": "lapis_ore",
+        "count": 2400
+      },
+      {
+        "id": "magical_log",
+        "count": 5868
+      },
+      {
+        "id": "raw_redstone",
+        "count": 208
+      }
+    ],
+    "cumulativeCosts": [
+      {
+        "id": "red_research_pack",
+        "count": 728
+      },
+      {
+        "id": "green_research_pack",
+        "count": 275
+      },
+      {
+        "id": "blue_research_pack",
+        "count": 4
+      }
+    ],
+    "cumulativeRawCosts": [
+      {
+        "id": "blue_research_pack",
+        "count": 4
+      },
+      {
+        "id": "coal",
+        "count": 11648
+      },
+      {
+        "id": "gemstone_ore",
+        "count": 2912
+      },
+      {
+        "id": "green_research_pack",
+        "count": 275
+      },
+      {
+        "id": "hardened_stone",
+        "count": 46592
+      },
+      {
+        "id": "magical_log",
+        "count": 6552
+      },
+      {
+        "id": "raw_redstone",
+        "count": 2912
+      }
+    ],
+    "steps": [
+      "50x Green Research Pack: 50 Shady Guy Shop batches",
+      "50x Red Research Pack: 50 Shady Guy Shop batches",
+      "400x Lapis Ingot: 100 Forge (Level 31) batches",
+      "650x Enchanted Hardened Stone: 650 Shady Guy Shop batches",
+      "50x Gemstone Ingot: 13 Forge (Level 25) batches (2 extra produced)",
+      "50x Pure Redstone: 13 Forge (Level 20) batches (2 extra produced)",
+      "1304x Pure Carbon Mixture: 163 Forge (Level 20) batches",
+      "652x Magical Wood: 652 Crafting batches"
+    ],
+    "cumulativeSteps": [
+      "728x Red Research Pack: 728 Shady Guy Shop batches",
+      "728x Enchanted Hardened Stone: 728 Shady Guy Shop batches",
+      "728x Gemstone Ingot: 182 Forge (Level 25) batches",
+      "728x Pure Redstone: 182 Forge (Level 20) batches",
+      "1456x Pure Carbon Mixture: 182 Forge (Level 20) batches",
+      "728x Magical Wood: 728 Crafting batches"
+    ]
+  },
+  {
+    "id": "mining_research_15",
+    "tier": 15,
+    "unlocks": [
+      "Infernal Drill"
+    ],
+    "costs": [
+      {
+        "id": "green_research_pack",
+        "count": 55
+      },
+      {
+        "id": "blue_research_pack",
+        "count": 8
+      }
+    ],
+    "rawCosts": [
+      {
+        "id": "blue_research_pack",
+        "count": 8
+      },
+      {
+        "id": "coal",
+        "count": 11456
+      },
+      {
+        "id": "gemstone_ore",
+        "count": 224
+      },
+      {
+        "id": "hardened_stone",
+        "count": 45760
+      },
+      {
+        "id": "lapis_ore",
+        "count": 2640
+      },
+      {
+        "id": "magical_log",
+        "count": 6444
+      },
+      {
+        "id": "raw_redstone",
+        "count": 224
+      }
+    ],
+    "cumulativeCosts": [
+      {
+        "id": "red_research_pack",
+        "count": 728
+      },
+      {
+        "id": "green_research_pack",
+        "count": 330
+      },
+      {
+        "id": "blue_research_pack",
+        "count": 12
+      }
+    ],
+    "cumulativeRawCosts": [
+      {
+        "id": "blue_research_pack",
+        "count": 12
+      },
+      {
+        "id": "coal",
+        "count": 11648
+      },
+      {
+        "id": "gemstone_ore",
+        "count": 2912
+      },
+      {
+        "id": "green_research_pack",
+        "count": 330
+      },
+      {
+        "id": "hardened_stone",
+        "count": 46592
+      },
+      {
+        "id": "magical_log",
+        "count": 6552
+      },
+      {
+        "id": "raw_redstone",
+        "count": 2912
+      }
+    ],
+    "steps": [
+      "55x Green Research Pack: 55 Shady Guy Shop batches",
+      "55x Red Research Pack: 55 Shady Guy Shop batches",
+      "440x Lapis Ingot: 110 Forge (Level 31) batches",
+      "715x Enchanted Hardened Stone: 715 Shady Guy Shop batches",
+      "55x Gemstone Ingot: 14 Forge (Level 25) batches (1 extra produced)",
+      "55x Pure Redstone: 14 Forge (Level 20) batches (1 extra produced)",
+      "1432x Pure Carbon Mixture: 179 Forge (Level 20) batches",
+      "716x Magical Wood: 716 Crafting batches"
+    ],
+    "cumulativeSteps": [
+      "728x Red Research Pack: 728 Shady Guy Shop batches",
+      "728x Enchanted Hardened Stone: 728 Shady Guy Shop batches",
+      "728x Gemstone Ingot: 182 Forge (Level 25) batches",
+      "728x Pure Redstone: 182 Forge (Level 20) batches",
+      "1456x Pure Carbon Mixture: 182 Forge (Level 20) batches",
+      "728x Magical Wood: 728 Crafting batches"
+    ]
+  },
+  {
+    "id": "mining_research_16",
+    "tier": 16,
+    "unlocks": [
+      "Infernal Armor",
+      "Advanced Mining Cape",
+      "Advanced Smithing Cape"
+    ],
+    "costs": [
+      {
+        "id": "green_research_pack",
+        "count": 60
+      },
+      {
+        "id": "blue_research_pack",
+        "count": 12
+      }
+    ],
+    "rawCosts": [
+      {
+        "id": "blue_research_pack",
+        "count": 12
+      },
+      {
+        "id": "coal",
+        "count": 12480
+      },
+      {
+        "id": "gemstone_ore",
+        "count": 240
+      },
+      {
+        "id": "hardened_stone",
+        "count": 49920
+      },
+      {
+        "id": "lapis_ore",
+        "count": 2880
+      },
+      {
+        "id": "magical_log",
+        "count": 7020
+      },
+      {
+        "id": "raw_redstone",
+        "count": 240
+      }
+    ],
+    "cumulativeCosts": [
+      {
+        "id": "red_research_pack",
+        "count": 728
+      },
+      {
+        "id": "green_research_pack",
+        "count": 390
+      },
+      {
+        "id": "blue_research_pack",
+        "count": 24
+      }
+    ],
+    "cumulativeRawCosts": [
+      {
+        "id": "blue_research_pack",
+        "count": 24
+      },
+      {
+        "id": "coal",
+        "count": 11648
+      },
+      {
+        "id": "gemstone_ore",
+        "count": 2912
+      },
+      {
+        "id": "green_research_pack",
+        "count": 390
+      },
+      {
+        "id": "hardened_stone",
+        "count": 46592
+      },
+      {
+        "id": "magical_log",
+        "count": 6552
+      },
+      {
+        "id": "raw_redstone",
+        "count": 2912
+      }
+    ],
+    "steps": [
+      "60x Green Research Pack: 60 Shady Guy Shop batches",
+      "60x Red Research Pack: 60 Shady Guy Shop batches",
+      "480x Lapis Ingot: 120 Forge (Level 31) batches",
+      "780x Enchanted Hardened Stone: 780 Shady Guy Shop batches",
+      "60x Gemstone Ingot: 15 Forge (Level 25) batches",
+      "60x Pure Redstone: 15 Forge (Level 20) batches",
+      "1560x Pure Carbon Mixture: 195 Forge (Level 20) batches",
+      "780x Magical Wood: 780 Crafting batches"
+    ],
+    "cumulativeSteps": [
+      "728x Red Research Pack: 728 Shady Guy Shop batches",
+      "728x Enchanted Hardened Stone: 728 Shady Guy Shop batches",
+      "728x Gemstone Ingot: 182 Forge (Level 25) batches",
+      "728x Pure Redstone: 182 Forge (Level 20) batches",
+      "1456x Pure Carbon Mixture: 182 Forge (Level 20) batches",
+      "728x Magical Wood: 728 Crafting batches"
+    ]
+  }
+]

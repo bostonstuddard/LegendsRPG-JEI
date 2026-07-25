@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "legendsrpg_jei",
+  "version": "${version}",
+  "name": "LegendsRPG",
+  "description": "Client-only LegendsRPG item, shop, Smithing, Ore Forge, research, treasure, and acquisition viewer with JEI bundled inside.",
+  "authors": [
+    "LegendsRPG"
+  ],
+  "license": "All-Rights-Reserved",
+  "environment": "client",
+  "entrypoints": {
+    "preLaunch": [
+      "com.legendsrpg.jei.bootstrap.LegendsPreLaunch"
+    ],
+    "client": [
+      "com.legendsrpg.jei.LegendsRpgJeiClient"
+    ],
+    "jei_mod_plugin": [
+      "com.legendsrpg.jei.LegendsRpgJeiPlugin"
+    ],
+    "modmenu": [
+      "com.legendsrpg.jei.client.LegendsModMenuIntegration"
+    ]
+  },
+  "jars": [
+    {
+      "file": "META-INF/jars/jei-1.21.11-fabric-27.17.0.51.jar"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "minecraft": "1.21.11",
+    "java": ">=21",
+    "jei": ">=27.17.0.51 <28",
+    "fabric-api": ">=0.141.3"
+  },
+  "breaks": {
+    "roughlyenoughitems": "*",
+    "rei": "*",
+    "emi": "*",
+    "notenoughitems": "*",
+    "neid": "*"
+  },
+  "icon": "assets/legendsrpg_jei/icon.png",
+  "mixins": [
+    "legendsrpg_jei.mixins.json"
+  ],
+  "suggests": {
+    "modmenu": ">=17.0.0"
+  }
+}

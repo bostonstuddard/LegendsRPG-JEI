@@ -1,0 +1,7802 @@
+[
+  {
+    "id": "???_brain",
+    "output": {
+      "id": "???_brain",
+      "count": 1
+    },
+    "methods": [
+      "Quest Reward: Mythron"
+    ]
+  },
+  {
+    "id": "???_plans",
+    "output": {
+      "id": "???_plans",
+      "count": 1
+    },
+    "methods": [
+      "Quest Reward: Mythron"
+    ]
+  },
+  {
+    "id": "a_medallion_of_war",
+    "output": {
+      "id": "a_medallion_of_war",
+      "count": 1
+    },
+    "methods": [
+      "Quest Reward: Lonely Fisherman"
+    ]
+  },
+  {
+    "id": "abyssal_bait",
+    "output": {
+      "id": "abyssal_bait",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Sab"
+    ]
+  },
+  {
+    "id": "abyssal_boots",
+    "output": {
+      "id": "abyssal_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Instability"
+    ]
+  },
+  {
+    "id": "abyssal_chestplate",
+    "output": {
+      "id": "abyssal_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Instability",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "abyssal_fishing_rod",
+    "output": {
+      "id": "abyssal_fishing_rod",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Instability",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "abyssal_helmet",
+    "output": {
+      "id": "abyssal_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Instability"
+    ]
+  },
+  {
+    "id": "abyssal_leggings",
+    "output": {
+      "id": "abyssal_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Instability",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "abyssalfish",
+    "output": {
+      "id": "abyssalfish",
+      "count": 1
+    },
+    "methods": [
+      "Mob Drop: Cavernous Lurker",
+      "Fishing: Fishing",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "advanced_drill_wiring",
+    "output": {
+      "id": "advanced_drill_wiring",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Shady Guy",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "advanced_mining_cape",
+    "output": {
+      "id": "advanced_mining_cape",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Shady Guy"
+    ]
+  },
+  {
+    "id": "advanced_mining_scroll",
+    "output": {
+      "id": "advanced_mining_scroll",
+      "count": 1
+    },
+    "methods": [
+      "Shop: They Respawn",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "advanced_potion_of_fishing",
+    "output": {
+      "id": "advanced_potion_of_fishing",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Ryan"
+    ]
+  },
+  {
+    "id": "advanced_potion_of_resistance",
+    "output": {
+      "id": "advanced_potion_of_resistance",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Ryan"
+    ]
+  },
+  {
+    "id": "advanced_potion_of_speed",
+    "output": {
+      "id": "advanced_potion_of_speed",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Ryan"
+    ]
+  },
+  {
+    "id": "advanced_smithing_cape",
+    "output": {
+      "id": "advanced_smithing_cape",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Shady Guy"
+    ]
+  },
+  {
+    "id": "alpha_bread",
+    "output": {
+      "id": "alpha_bread",
+      "count": 1
+    },
+    "methods": [
+      "Quest Reward: Nick"
+    ]
+  },
+  {
+    "id": "amalgamated_axe",
+    "output": {
+      "id": "amalgamated_axe",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Micheal",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "anchor_bait",
+    "output": {
+      "id": "anchor_bait",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Sab"
+    ]
+  },
+  {
+    "id": "angler_bait",
+    "output": {
+      "id": "angler_bait",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Sab"
+    ]
+  },
+  {
+    "id": "angler_fishing_rod",
+    "output": {
+      "id": "angler_fishing_rod",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Instability",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "anglerfish",
+    "output": {
+      "id": "anglerfish",
+      "count": 1
+    },
+    "methods": [
+      "Mob Drop: Cavernous Lurker",
+      "Fishing: Fishing",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "animated_aurora_dye",
+    "output": {
+      "id": "animated_aurora_dye",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Katelin"
+    ]
+  },
+  {
+    "id": "animated_christmas_dye",
+    "output": {
+      "id": "animated_christmas_dye",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Katelin"
+    ]
+  },
+  {
+    "id": "animated_fire_dye",
+    "output": {
+      "id": "animated_fire_dye",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Katelin"
+    ]
+  },
+  {
+    "id": "animated_greenblue_flash_dye",
+    "output": {
+      "id": "animated_greenblue_flash_dye",
+      "count": 1
+    },
+    "methods": []
+  },
+  {
+    "id": "animated_halloween_dye",
+    "output": {
+      "id": "animated_halloween_dye",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Katelin"
+    ]
+  },
+  {
+    "id": "animated_july_4th_2026_dye",
+    "output": {
+      "id": "animated_july_4th_2026_dye",
+      "count": 1
+    },
+    "methods": [
+      "Package Reward: July 4th Bundle"
+    ]
+  },
+  {
+    "id": "animated_ocean_dye",
+    "output": {
+      "id": "animated_ocean_dye",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Katelin"
+    ]
+  },
+  {
+    "id": "animated_purple_dye",
+    "output": {
+      "id": "animated_purple_dye",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Katelin"
+    ]
+  },
+  {
+    "id": "arachnid_boots",
+    "output": {
+      "id": "arachnid_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Spider Altar",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "arachnid_chestplate",
+    "output": {
+      "id": "arachnid_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Spider Altar",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "arachnid_eye",
+    "output": {
+      "id": "arachnid_eye",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Spider Altar",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "arachnid_fang",
+    "output": {
+      "id": "arachnid_fang",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Spider Altar",
+      "Mob Drop: Arachnid Hybrid",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "arachnid_helmet",
+    "output": {
+      "id": "arachnid_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Spider Altar",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "arachnid_leggings",
+    "output": {
+      "id": "arachnid_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Spider Altar",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "arachnid_shortbow",
+    "output": {
+      "id": "arachnid_shortbow",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Spider Altar",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "ascension_rope",
+    "output": {
+      "id": "ascension_rope",
+      "count": 1
+    },
+    "methods": [
+      "Shop: They Respawn"
+    ]
+  },
+  {
+    "id": "axe_polish",
+    "output": {
+      "id": "axe_polish",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Ashysomm",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "azalea_clippers",
+    "output": {
+      "id": "azalea_clippers",
+      "count": 1
+    },
+    "methods": []
+  },
+  {
+    "id": "azalea_petals",
+    "output": {
+      "id": "azalea_petals",
+      "count": 1
+    },
+    "methods": [
+      "Gathering: Flower Clippers"
+    ]
+  },
+  {
+    "id": "bag_with_a_coin",
+    "output": {
+      "id": "bag_with_a_coin",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Costen Exchange"
+    ]
+  },
+  {
+    "id": "bark_boots",
+    "output": {
+      "id": "bark_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Manuel"
+    ]
+  },
+  {
+    "id": "bark_chestplate",
+    "output": {
+      "id": "bark_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Manuel",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "bark_helmet",
+    "output": {
+      "id": "bark_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Manuel"
+    ]
+  },
+  {
+    "id": "bark_pants",
+    "output": {
+      "id": "bark_pants",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Manuel"
+    ]
+  },
+  {
+    "id": "basic_apiary",
+    "output": {
+      "id": "basic_apiary",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Kimi",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "basic_drill",
+    "output": {
+      "id": "basic_drill",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Shady Guy",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "beautiful_apiary",
+    "output": {
+      "id": "beautiful_apiary",
+      "count": 1
+    },
+    "methods": [
+      "Coming Soon: Kimi's Greenhouse"
+    ]
+  },
+  {
+    "id": "big_stack_of_coins",
+    "output": {
+      "id": "big_stack_of_coins",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Costen Exchange"
+    ]
+  },
+  {
+    "id": "black_dye",
+    "output": {
+      "id": "black_dye",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Katelin"
+    ]
+  },
+  {
+    "id": "black_hole_of_coins",
+    "output": {
+      "id": "black_hole_of_coins",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Costen Exchange"
+    ]
+  },
+  {
+    "id": "blob_bait",
+    "output": {
+      "id": "blob_bait",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Sab"
+    ]
+  },
+  {
+    "id": "blob_fishing_rod",
+    "output": {
+      "id": "blob_fishing_rod",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Instability",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "blobfish",
+    "output": {
+      "id": "blobfish",
+      "count": 1
+    },
+    "methods": [
+      "Mob Drop: Cavernous Lurker",
+      "Fishing: Fishing",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "block_of_coal",
+    "output": {
+      "id": "block_of_coal",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Daily Reward: Daily Rewards",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "block_of_cobalt",
+    "output": {
+      "id": "block_of_cobalt",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Daily Reward: Daily Rewards",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "block_of_steel",
+    "output": {
+      "id": "block_of_steel",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Daily Reward: Daily Rewards",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "blood_infused_speedy_sword",
+    "output": {
+      "id": "blood_infused_speedy_sword",
+      "count": 1
+    },
+    "methods": [
+      "Shop: H3xKnight",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "blood_soaked_shortbow",
+    "output": {
+      "id": "blood_soaked_shortbow",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Costen Guard"
+    ]
+  },
+  {
+    "id": "blood_soaked_sword",
+    "output": {
+      "id": "blood_soaked_sword",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Costen Guard"
+    ]
+  },
+  {
+    "id": "blood_soaked_wand",
+    "output": {
+      "id": "blood_soaked_wand",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Costen Guard"
+    ]
+  },
+  {
+    "id": "bloodied_papers",
+    "output": {
+      "id": "bloodied_papers",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Titanbo"
+    ]
+  },
+  {
+    "id": "bloody_fish_bait",
+    "output": {
+      "id": "bloody_fish_bait",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Sab"
+    ]
+  },
+  {
+    "id": "bloody_fish_skin_boots",
+    "output": {
+      "id": "bloody_fish_skin_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Nile",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "bloody_fish_skin_chestplate",
+    "output": {
+      "id": "bloody_fish_skin_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Nile",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "bloody_fish_skin_helmet",
+    "output": {
+      "id": "bloody_fish_skin_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Nile",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "bloody_fish_skin_leggings",
+    "output": {
+      "id": "bloody_fish_skin_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Nile",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "bloody_fishing_rod",
+    "output": {
+      "id": "bloody_fishing_rod",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Mongrael"
+    ]
+  },
+  {
+    "id": "bloody_talisman",
+    "output": {
+      "id": "bloody_talisman",
+      "count": 1
+    },
+    "methods": [
+      "Boss Drop: Ancient Colossal",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "blue_research_pack",
+    "output": {
+      "id": "blue_research_pack",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Shady Guy",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "boring_fishing_rod",
+    "output": {
+      "id": "boring_fishing_rod",
+      "count": 1
+    },
+    "methods": [
+      "Quest Reward: Shelly"
+    ]
+  },
+  {
+    "id": "broken_axe",
+    "output": {
+      "id": "broken_axe",
+      "count": 1
+    },
+    "methods": [
+      "Quest Reward: Onyx"
+    ]
+  },
+  {
+    "id": "broken_dagger",
+    "output": {
+      "id": "broken_dagger",
+      "count": 1
+    },
+    "methods": [
+      "Quest Reward: Nicole"
+    ]
+  },
+  {
+    "id": "broken_pickaxe",
+    "output": {
+      "id": "broken_pickaxe",
+      "count": 1
+    },
+    "methods": [
+      "Quest Reward: Onyx"
+    ]
+  },
+  {
+    "id": "broken_royal_gold",
+    "output": {
+      "id": "broken_royal_gold",
+      "count": 1
+    },
+    "methods": [
+      "Mining Treasure Chest"
+    ]
+  },
+  {
+    "id": "brood_egg",
+    "output": {
+      "id": "brood_egg",
+      "count": 1
+    },
+    "methods": [
+      "Mob Drop: Brood Spider"
+    ]
+  },
+  {
+    "id": "bubble_wand",
+    "output": {
+      "id": "bubble_wand",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Faniel",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "bucket_of_raw_carp",
+    "output": {
+      "id": "bucket_of_raw_carp",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "bucket_of_raw_chub",
+    "output": {
+      "id": "bucket_of_raw_chub",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "bucket_of_raw_cod",
+    "output": {
+      "id": "bucket_of_raw_cod",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "bucket_of_raw_herring",
+    "output": {
+      "id": "bucket_of_raw_herring",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "bucket_of_shrimp",
+    "output": {
+      "id": "bucket_of_shrimp",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "bucket_of_sunfish",
+    "output": {
+      "id": "bucket_of_sunfish",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "bucket_of_vampire_squid",
+    "output": {
+      "id": "bucket_of_vampire_squid",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "candy_cane",
+    "output": {
+      "id": "candy_cane",
+      "count": 1
+    },
+    "methods": [
+      "Gift Reward: Present"
+    ]
+  },
+  {
+    "id": "carp_bait",
+    "output": {
+      "id": "carp_bait",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Sab"
+    ]
+  },
+  {
+    "id": "carp_fishing_rod",
+    "output": {
+      "id": "carp_fishing_rod",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Mongrael",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "chain_strap",
+    "output": {
+      "id": "chain_strap",
+      "count": 1
+    },
+    "methods": [
+      "Quest Reward: Nick"
+    ]
+  },
+  {
+    "id": "cheat_sheet",
+    "output": {
+      "id": "cheat_sheet",
+      "count": 1
+    },
+    "methods": [
+      "Quest Reward: Mythron"
+    ]
+  },
+  {
+    "id": "chub_bait",
+    "output": {
+      "id": "chub_bait",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Sab"
+    ]
+  },
+  {
+    "id": "chub_fishing_rod",
+    "output": {
+      "id": "chub_fishing_rod",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Mongrael",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "clock_boots",
+    "output": {
+      "id": "clock_boots",
+      "count": 1
+    },
+    "methods": [
+      "Dungeon Reward: Time Keeper Chest"
+    ]
+  },
+  {
+    "id": "clock_chestplate",
+    "output": {
+      "id": "clock_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Dungeon Reward: Time Keeper Chest"
+    ]
+  },
+  {
+    "id": "clock_helmet",
+    "output": {
+      "id": "clock_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Dungeon Reward: Time Keeper Chest"
+    ]
+  },
+  {
+    "id": "clock_leggings",
+    "output": {
+      "id": "clock_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Dungeon Reward: Time Keeper Chest"
+    ]
+  },
+  {
+    "id": "clock_shortbow",
+    "output": {
+      "id": "clock_shortbow",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Faniel",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "clockpiece",
+    "output": {
+      "id": "clockpiece",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Faniel",
+      "Dungeon Reward: Time Keeper Chest"
+    ]
+  },
+  {
+    "id": "coal",
+    "output": {
+      "id": "coal",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Mob Drop: Goblin Mage",
+      "Mob Drop: Goblin Warrior",
+      "Mining: Mining",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "coal_boots",
+    "output": {
+      "id": "coal_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Manuel"
+    ]
+  },
+  {
+    "id": "coal_chestplate",
+    "output": {
+      "id": "coal_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Manuel"
+    ]
+  },
+  {
+    "id": "coal_compressor",
+    "output": {
+      "id": "coal_compressor",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "coal_helmet",
+    "output": {
+      "id": "coal_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Manuel"
+    ]
+  },
+  {
+    "id": "coal_leggings",
+    "output": {
+      "id": "coal_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Manuel"
+    ]
+  },
+  {
+    "id": "coalbliterator_drill",
+    "output": {
+      "id": "coalbliterator_drill",
+      "count": 1
+    },
+    "methods": [
+      "Shop: They Respawn",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "cobalt_boots",
+    "output": {
+      "id": "cobalt_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Manuel"
+    ]
+  },
+  {
+    "id": "cobalt_chestplate",
+    "output": {
+      "id": "cobalt_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Manuel",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "cobalt_helmet",
+    "output": {
+      "id": "cobalt_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Manuel"
+    ]
+  },
+  {
+    "id": "cobalt_ingot",
+    "output": {
+      "id": "cobalt_ingot",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Smithing: Level 12",
+      "Ore Forge: Forge Level 1",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "cobalt_leggings",
+    "output": {
+      "id": "cobalt_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Manuel",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "cobalt_ore",
+    "output": {
+      "id": "cobalt_ore",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Mining: Mining",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "cobalt_pickaxe",
+    "output": {
+      "id": "cobalt_pickaxe",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "cobalt_sack",
+    "output": {
+      "id": "cobalt_sack",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "cobalt_shortbow",
+    "output": {
+      "id": "cobalt_shortbow",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Hawn",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "cod_bait",
+    "output": {
+      "id": "cod_bait",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Sab"
+    ]
+  },
+  {
+    "id": "cod_fishing_rod",
+    "output": {
+      "id": "cod_fishing_rod",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Mongrael"
+    ]
+  },
+  {
+    "id": "compact_deepslate",
+    "output": {
+      "id": "compact_deepslate",
+      "count": 1
+    },
+    "methods": [
+      "Mining: Mining"
+    ]
+  },
+  {
+    "id": "compass_of_the_abyss",
+    "output": {
+      "id": "compass_of_the_abyss",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Instability",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "compressed_ice",
+    "output": {
+      "id": "compressed_ice",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "compressed_snowballs",
+    "output": {
+      "id": "compressed_snowballs",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "contained_goblin_soul",
+    "output": {
+      "id": "contained_goblin_soul",
+      "count": 1
+    },
+    "methods": [
+      "Shop: H3xKnight",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "contained_vampiric_soul",
+    "output": {
+      "id": "contained_vampiric_soul",
+      "count": 1
+    },
+    "methods": [
+      "Shop: H3xKnight"
+    ]
+  },
+  {
+    "id": "copper_block",
+    "output": {
+      "id": "copper_block",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Daily Reward: Daily Rewards",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "copper_boots",
+    "output": {
+      "id": "copper_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Manuel"
+    ]
+  },
+  {
+    "id": "copper_chestplate",
+    "output": {
+      "id": "copper_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Manuel",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "copper_helmet",
+    "output": {
+      "id": "copper_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Manuel"
+    ]
+  },
+  {
+    "id": "copper_ingot",
+    "output": {
+      "id": "copper_ingot",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Smithing: Level 0",
+      "Ore Forge: Forge Level 1",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "copper_leggings",
+    "output": {
+      "id": "copper_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Manuel",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "copper_ore",
+    "output": {
+      "id": "copper_ore",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Mob Drop: Goblin Mage",
+      "Mining: Mining",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "copper_pickaxe",
+    "output": {
+      "id": "copper_pickaxe",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx"
+    ]
+  },
+  {
+    "id": "copper_sack",
+    "output": {
+      "id": "copper_sack",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "copper_shortbow",
+    "output": {
+      "id": "copper_shortbow",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Hawn",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "coreinfused_pickaxe",
+    "output": {
+      "id": "coreinfused_pickaxe",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx"
+    ]
+  },
+  {
+    "id": "corrupt_block",
+    "output": {
+      "id": "corrupt_block",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "corrupt_boots",
+    "output": {
+      "id": "corrupt_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Costen Guard"
+    ]
+  },
+  {
+    "id": "corrupt_chestplate",
+    "output": {
+      "id": "corrupt_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Costen Guard",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "corrupt_fragment",
+    "output": {
+      "id": "corrupt_fragment",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Boss Drop: Astral Being",
+      "Container Reward: Corrupt Rift Expert Bag",
+      "Daily Reward: Daily Rewards",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "corrupt_helmet",
+    "output": {
+      "id": "corrupt_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Costen Guard"
+    ]
+  },
+  {
+    "id": "corrupt_leggings",
+    "output": {
+      "id": "corrupt_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Costen Guard"
+    ]
+  },
+  {
+    "id": "corrupt_nature_wand",
+    "output": {
+      "id": "corrupt_nature_wand",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Cryptkeep",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "corrupt_rift_expert_bag",
+    "output": {
+      "id": "corrupt_rift_expert_bag",
+      "count": 1
+    },
+    "methods": [
+      "Dungeon Reward: Corrupt Rift"
+    ]
+  },
+  {
+    "id": "crimson_apiary",
+    "output": {
+      "id": "crimson_apiary",
+      "count": 1
+    },
+    "methods": [
+      "Coming Soon: Kimi's Greenhouse"
+    ]
+  },
+  {
+    "id": "critter_lasso",
+    "output": {
+      "id": "critter_lasso",
+      "count": 1
+    },
+    "methods": []
+  },
+  {
+    "id": "cursed_wand",
+    "output": {
+      "id": "cursed_wand",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Spider Altar",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "dandelion_petals",
+    "output": {
+      "id": "dandelion_petals",
+      "count": 1
+    },
+    "methods": [
+      "Gathering: Flower Clippers"
+    ]
+  },
+  {
+    "id": "dark_oak_bark",
+    "output": {
+      "id": "dark_oak_bark",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Micheal",
+      "Foraging: Foraging",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "dark_oak_boots",
+    "output": {
+      "id": "dark_oak_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Micheal",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "dark_oak_chestplate",
+    "output": {
+      "id": "dark_oak_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Micheal",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "dark_oak_helmet",
+    "output": {
+      "id": "dark_oak_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Micheal",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "dark_oak_leggings",
+    "output": {
+      "id": "dark_oak_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Micheal",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "dark_oak_log",
+    "output": {
+      "id": "dark_oak_log",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Foraging: Dark Oak Trees",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "dark_oak_planks",
+    "output": {
+      "id": "dark_oak_planks",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "dark_oak_refined_axe",
+    "output": {
+      "id": "dark_oak_refined_axe",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Micheal",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "dark_oak_singularity",
+    "output": {
+      "id": "dark_oak_singularity",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Micheal",
+      "Foraging: Dark Oak Trees",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "dark_oak_singularity_axe",
+    "output": {
+      "id": "dark_oak_singularity_axe",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Micheal",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "dark_oak_wood",
+    "output": {
+      "id": "dark_oak_wood",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Foraging: Dark Oak Trees",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "dark_obelisk",
+    "output": {
+      "id": "dark_obelisk",
+      "count": 1
+    },
+    "methods": [
+      "Mob Drop: Cavernous Lurker",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "decent_mining_boots",
+    "output": {
+      "id": "decent_mining_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "decent_mining_chestplate",
+    "output": {
+      "id": "decent_mining_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "decent_mining_helmet",
+    "output": {
+      "id": "decent_mining_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "decent_mining_leggings",
+    "output": {
+      "id": "decent_mining_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "depth_block",
+    "output": {
+      "id": "depth_block",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "depth_fragment",
+    "output": {
+      "id": "depth_fragment",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Mob Drop: Skeleton King",
+      "Dungeon Reward: Keran",
+      "Daily Reward: Daily Rewards",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "depth_strider_ii_book",
+    "output": {
+      "id": "depth_strider_ii_book",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Faniel"
+    ]
+  },
+  {
+    "id": "developers_scroll",
+    "output": {
+      "id": "developers_scroll",
+      "count": 1
+    },
+    "methods": [
+      "Shop: The Hunt",
+      "Quest Reward: Jeremy"
+    ]
+  },
+  {
+    "id": "diamond_block",
+    "output": {
+      "id": "diamond_block",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "diamond_boots",
+    "output": {
+      "id": "diamond_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: John",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "diamond_chestplate",
+    "output": {
+      "id": "diamond_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: John",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "diamond_drill",
+    "output": {
+      "id": "diamond_drill",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Shady Guy",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "diamond_helmet",
+    "output": {
+      "id": "diamond_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: John",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "diamond_ingot",
+    "output": {
+      "id": "diamond_ingot",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Daily Reward: Daily Rewards",
+      "Smithing: Level 38",
+      "Ore Forge: Forge Level 5",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "diamond_leggings",
+    "output": {
+      "id": "diamond_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: John",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "diamond_sack",
+    "output": {
+      "id": "diamond_sack",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "domain_wand",
+    "output": {
+      "id": "domain_wand",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Faniel",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "doombringer",
+    "output": {
+      "id": "doombringer",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Titanbo",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "dream_bait",
+    "output": {
+      "id": "dream_bait",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Sab"
+    ]
+  },
+  {
+    "id": "dress_pants",
+    "output": {
+      "id": "dress_pants",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Curator",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "drill_base",
+    "output": {
+      "id": "drill_base",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Shady Guy",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "drill_wiring",
+    "output": {
+      "id": "drill_wiring",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Shady Guy",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "elite_mining_boots",
+    "output": {
+      "id": "elite_mining_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "elite_mining_chestplate",
+    "output": {
+      "id": "elite_mining_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "elite_mining_helmet",
+    "output": {
+      "id": "elite_mining_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "elite_mining_leggings",
+    "output": {
+      "id": "elite_mining_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "enchanted_coal_block",
+    "output": {
+      "id": "enchanted_coal_block",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Shady Guy",
+      "Daily Reward: Daily Rewards",
+      "Mining Treasure Chest",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "enchanted_compact_deepslate",
+    "output": {
+      "id": "enchanted_compact_deepslate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Shady Guy",
+      "Daily Reward: Daily Rewards",
+      "Mining Treasure Chest"
+    ]
+  },
+  {
+    "id": "enchanted_dark_oak_axe",
+    "output": {
+      "id": "enchanted_dark_oak_axe",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Micheal"
+    ]
+  },
+  {
+    "id": "enchanted_dark_oak_wood",
+    "output": {
+      "id": "enchanted_dark_oak_wood",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Shop: Micheal",
+      "Foraging: Dark Oak Trees",
+      "Daily Reward: Daily Rewards",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "enchanted_drill_base",
+    "output": {
+      "id": "enchanted_drill_base",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Shady Guy",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "enchanted_hardened_stone",
+    "output": {
+      "id": "enchanted_hardened_stone",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Shady Guy",
+      "Daily Reward: Daily Rewards",
+      "Mining Treasure Chest"
+    ]
+  },
+  {
+    "id": "enchanted_magical_wood",
+    "output": {
+      "id": "enchanted_magical_wood",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Shop: Jack",
+      "Foraging: Magical Trees",
+      "Daily Reward: Daily Rewards",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "enchanted_pale_oak_wood",
+    "output": {
+      "id": "enchanted_pale_oak_wood",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Shop: Karla",
+      "Foraging: Pale Oak Trees",
+      "Daily Reward: Daily Rewards",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "enchanted_spruce_wood",
+    "output": {
+      "id": "enchanted_spruce_wood",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Shop: Ashysomm",
+      "Foraging: Spruce Trees",
+      "Daily Reward: Daily Rewards",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "enchanted_stone_tablet",
+    "output": {
+      "id": "enchanted_stone_tablet",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Daily Reward: Daily Rewards",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "enchanted_vampiric_tooth",
+    "output": {
+      "id": "enchanted_vampiric_tooth",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Daily Reward: Daily Rewards",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "energetic_core",
+    "output": {
+      "id": "energetic_core",
+      "count": 1
+    },
+    "methods": [
+      "Shop: H3xKnight",
+      "Mob Drop: Energetic Vampire",
+      "Daily Reward: Daily Rewards",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "energetic_hollow_wand",
+    "output": {
+      "id": "energetic_hollow_wand",
+      "count": 1
+    },
+    "methods": [
+      "Shop: H3xKnight"
+    ]
+  },
+  {
+    "id": "energetic_vampiric_boots",
+    "output": {
+      "id": "energetic_vampiric_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: H3xKnight"
+    ]
+  },
+  {
+    "id": "energetic_vampiric_chestplate",
+    "output": {
+      "id": "energetic_vampiric_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: H3xKnight"
+    ]
+  },
+  {
+    "id": "energetic_vampiric_dagger",
+    "output": {
+      "id": "energetic_vampiric_dagger",
+      "count": 1
+    },
+    "methods": [
+      "Shop: H3xKnight"
+    ]
+  },
+  {
+    "id": "energetic_vampiric_helmet",
+    "output": {
+      "id": "energetic_vampiric_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: H3xKnight"
+    ]
+  },
+  {
+    "id": "energetic_vampiric_leggings",
+    "output": {
+      "id": "energetic_vampiric_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: H3xKnight"
+    ]
+  },
+  {
+    "id": "energetic_vampiric_shortbow",
+    "output": {
+      "id": "energetic_vampiric_shortbow",
+      "count": 1
+    },
+    "methods": [
+      "Shop: H3xKnight"
+    ]
+  },
+  {
+    "id": "energetic_vampiric_staff",
+    "output": {
+      "id": "energetic_vampiric_staff",
+      "count": 1
+    },
+    "methods": [
+      "Shop: H3xKnight"
+    ]
+  },
+  {
+    "id": "engine_coolant",
+    "output": {
+      "id": "engine_coolant",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Frozen Chad"
+    ]
+  },
+  {
+    "id": "enhanced_pale_axe",
+    "output": {
+      "id": "enhanced_pale_axe",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Karla"
+    ]
+  },
+  {
+    "id": "enhanced_stone_axe",
+    "output": {
+      "id": "enhanced_stone_axe",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Micheal",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "enriched_fossilized_flesh",
+    "output": {
+      "id": "enriched_fossilized_flesh",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Cryptkeep",
+      "Mob Drop: Cryptking",
+      "Daily Reward: Daily Rewards",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "error_cape",
+    "output": {
+      "id": "error_cape",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx"
+    ]
+  },
+  {
+    "id": "error_cube",
+    "output": {
+      "id": "error_cube",
+      "count": 1
+    },
+    "methods": [
+      "Quest Reward: Imkas"
+    ]
+  },
+  {
+    "id": "exquisite_cube",
+    "output": {
+      "id": "exquisite_cube",
+      "count": 1
+    },
+    "methods": []
+  },
+  {
+    "id": "fallen_godly_boots",
+    "output": {
+      "id": "fallen_godly_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Titanbo"
+    ]
+  },
+  {
+    "id": "fallen_godly_breastmail",
+    "output": {
+      "id": "fallen_godly_breastmail",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Titanbo"
+    ]
+  },
+  {
+    "id": "fallen_godly_helm",
+    "output": {
+      "id": "fallen_godly_helm",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Titanbo"
+    ]
+  },
+  {
+    "id": "fallen_godly_legs",
+    "output": {
+      "id": "fallen_godly_legs",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Titanbo"
+    ]
+  },
+  {
+    "id": "fiery_shard",
+    "output": {
+      "id": "fiery_shard",
+      "count": 1
+    },
+    "methods": [
+      "Mining: Mining",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "fish_skin_boots",
+    "output": {
+      "id": "fish_skin_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Nile",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "fish_skin_chestplate",
+    "output": {
+      "id": "fish_skin_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Nile",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "fish_skin_helmet",
+    "output": {
+      "id": "fish_skin_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Nile",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "fish_skin_leggings",
+    "output": {
+      "id": "fish_skin_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Nile",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "fishermans_boots",
+    "output": {
+      "id": "fishermans_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Nile"
+    ]
+  },
+  {
+    "id": "fishermans_cap",
+    "output": {
+      "id": "fishermans_cap",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Nile"
+    ]
+  },
+  {
+    "id": "fishermans_pants",
+    "output": {
+      "id": "fishermans_pants",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Nile"
+    ]
+  },
+  {
+    "id": "fishermans_top",
+    "output": {
+      "id": "fishermans_top",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Nile"
+    ]
+  },
+  {
+    "id": "fishing_cape",
+    "output": {
+      "id": "fishing_cape",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Instability",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "flamin_hot_boots",
+    "output": {
+      "id": "flamin_hot_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Being of Flames",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "flamin_hot_chestplate",
+    "output": {
+      "id": "flamin_hot_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Being of Flames",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "flamin_hot_helmet",
+    "output": {
+      "id": "flamin_hot_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Being of Flames",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "flamin_hot_leggings",
+    "output": {
+      "id": "flamin_hot_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Being of Flames",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "flower_clippers",
+    "output": {
+      "id": "flower_clippers",
+      "count": 1
+    },
+    "methods": []
+  },
+  {
+    "id": "foraging_cape",
+    "output": {
+      "id": "foraging_cape",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Jack"
+    ]
+  },
+  {
+    "id": "foraging_master_boots",
+    "output": {
+      "id": "foraging_master_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Jack"
+    ]
+  },
+  {
+    "id": "foraging_master_helmet",
+    "output": {
+      "id": "foraging_master_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Jack"
+    ]
+  },
+  {
+    "id": "foraging_master_leggings",
+    "output": {
+      "id": "foraging_master_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Jack"
+    ]
+  },
+  {
+    "id": "forgotten_sword",
+    "output": {
+      "id": "forgotten_sword",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Emilia"
+    ]
+  },
+  {
+    "id": "formal_overcoat",
+    "output": {
+      "id": "formal_overcoat",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Curator",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "fossilized_flesh",
+    "output": {
+      "id": "fossilized_flesh",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Cryptkeep",
+      "Mob Drop: Crypt Walker",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "fossilized_shortbow",
+    "output": {
+      "id": "fossilized_shortbow",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Cryptkeep"
+    ]
+  },
+  {
+    "id": "fossilized_sword",
+    "output": {
+      "id": "fossilized_sword",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Cryptkeep"
+    ]
+  },
+  {
+    "id": "fossilized_wand",
+    "output": {
+      "id": "fossilized_wand",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Cryptkeep"
+    ]
+  },
+  {
+    "id": "fractured_blade",
+    "output": {
+      "id": "fractured_blade",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Faniel",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "fractured_handle",
+    "output": {
+      "id": "fractured_handle",
+      "count": 1
+    },
+    "methods": [
+      "Mob Drop: Skeleton King"
+    ]
+  },
+  {
+    "id": "fractured_shaft",
+    "output": {
+      "id": "fractured_shaft",
+      "count": 1
+    },
+    "methods": [
+      "Mob Drop: Skeleton King"
+    ]
+  },
+  {
+    "id": "fragment_of_the_abyss",
+    "output": {
+      "id": "fragment_of_the_abyss",
+      "count": 1
+    },
+    "methods": [
+      "Mob Drop: Abyssal Guardian",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "fragmented_bait",
+    "output": {
+      "id": "fragmented_bait",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Sab"
+    ]
+  },
+  {
+    "id": "fragmented_boots",
+    "output": {
+      "id": "fragmented_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Instability"
+    ]
+  },
+  {
+    "id": "fragmented_fishing_rod",
+    "output": {
+      "id": "fragmented_fishing_rod",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Instability",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "fragmented_helmet",
+    "output": {
+      "id": "fragmented_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Instability"
+    ]
+  },
+  {
+    "id": "fragmented_leggings",
+    "output": {
+      "id": "fragmented_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Instability",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "frostbitten_boots",
+    "output": {
+      "id": "frostbitten_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Cryptkeep"
+    ]
+  },
+  {
+    "id": "frostbitten_chestplate",
+    "output": {
+      "id": "frostbitten_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Cryptkeep"
+    ]
+  },
+  {
+    "id": "frostbitten_helm",
+    "output": {
+      "id": "frostbitten_helm",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Cryptkeep"
+    ]
+  },
+  {
+    "id": "frostbitten_leggings",
+    "output": {
+      "id": "frostbitten_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Cryptkeep"
+    ]
+  },
+  {
+    "id": "frosted_over_dagger",
+    "output": {
+      "id": "frosted_over_dagger",
+      "count": 1
+    },
+    "methods": [
+      "Container Reward: Corrupt Rift Expert Bag"
+    ]
+  },
+  {
+    "id": "game_breaker",
+    "output": {
+      "id": "game_breaker",
+      "count": 1
+    },
+    "methods": []
+  },
+  {
+    "id": "gemstone_block",
+    "output": {
+      "id": "gemstone_block",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "gemstone_boots",
+    "output": {
+      "id": "gemstone_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: John",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "gemstone_chestplate",
+    "output": {
+      "id": "gemstone_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: John",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "gemstone_drill",
+    "output": {
+      "id": "gemstone_drill",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Shady Guy",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "gemstone_helmet",
+    "output": {
+      "id": "gemstone_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: John",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "gemstone_ingot",
+    "output": {
+      "id": "gemstone_ingot",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Daily Reward: Daily Rewards",
+      "Smithing: Level 25",
+      "Ore Forge: Forge Level 1",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "gemstone_leggings",
+    "output": {
+      "id": "gemstone_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: John",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "gemstone_ore",
+    "output": {
+      "id": "gemstone_ore",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Mining: Mining",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "gemstone_pickaxe",
+    "output": {
+      "id": "gemstone_pickaxe",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Shady Guy",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "gemstone_sack",
+    "output": {
+      "id": "gemstone_sack",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "gill_splashed_tider",
+    "output": {
+      "id": "gill_splashed_tider",
+      "count": 1
+    },
+    "methods": [
+      "Fishing: Fishing",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "glass_of_ale",
+    "output": {
+      "id": "glass_of_ale",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Ryan"
+    ]
+  },
+  {
+    "id": "glowing_dark_oak_boots",
+    "output": {
+      "id": "glowing_dark_oak_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Micheal",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "glowing_dark_oak_chestplate",
+    "output": {
+      "id": "glowing_dark_oak_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Micheal",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "glowing_dark_oak_helmet",
+    "output": {
+      "id": "glowing_dark_oak_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Micheal",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "glowing_dark_oak_leggings",
+    "output": {
+      "id": "glowing_dark_oak_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Micheal",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "glowing_spruce_boots",
+    "output": {
+      "id": "glowing_spruce_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Ashysomm"
+    ]
+  },
+  {
+    "id": "glowing_spruce_chestplate",
+    "output": {
+      "id": "glowing_spruce_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Ashysomm",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "glowing_spruce_helmet",
+    "output": {
+      "id": "glowing_spruce_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Ashysomm"
+    ]
+  },
+  {
+    "id": "glowing_spruce_leggings",
+    "output": {
+      "id": "glowing_spruce_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Ashysomm",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "goblin_iron",
+    "output": {
+      "id": "goblin_iron",
+      "count": 1
+    },
+    "methods": [
+      "Mob Drop: Goblin Warrior",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "goblin_iron_boots",
+    "output": {
+      "id": "goblin_iron_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Delilah"
+    ]
+  },
+  {
+    "id": "goblin_iron_chestplate",
+    "output": {
+      "id": "goblin_iron_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Delilah"
+    ]
+  },
+  {
+    "id": "goblin_iron_fishing_rod",
+    "output": {
+      "id": "goblin_iron_fishing_rod",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Mongrael"
+    ]
+  },
+  {
+    "id": "goblin_iron_helmet",
+    "output": {
+      "id": "goblin_iron_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Delilah"
+    ]
+  },
+  {
+    "id": "goblin_iron_leggings",
+    "output": {
+      "id": "goblin_iron_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Delilah"
+    ]
+  },
+  {
+    "id": "goblin_soul",
+    "output": {
+      "id": "goblin_soul",
+      "count": 1
+    },
+    "methods": [
+      "Mob Drop: Goblin Mage",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "goblin_soul_axe",
+    "output": {
+      "id": "goblin_soul_axe",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Hawn"
+    ]
+  },
+  {
+    "id": "goblin_soul_boots",
+    "output": {
+      "id": "goblin_soul_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Delilah"
+    ]
+  },
+  {
+    "id": "goblin_soul_chestplate",
+    "output": {
+      "id": "goblin_soul_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Delilah"
+    ]
+  },
+  {
+    "id": "goblin_soul_dagger",
+    "output": {
+      "id": "goblin_soul_dagger",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Hawn"
+    ]
+  },
+  {
+    "id": "goblin_soul_helmet",
+    "output": {
+      "id": "goblin_soul_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Delilah"
+    ]
+  },
+  {
+    "id": "goblin_soul_leggings",
+    "output": {
+      "id": "goblin_soul_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Delilah"
+    ]
+  },
+  {
+    "id": "goblin_soul_shortbow",
+    "output": {
+      "id": "goblin_soul_shortbow",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Hawn"
+    ]
+  },
+  {
+    "id": "goblin_soul_sword",
+    "output": {
+      "id": "goblin_soul_sword",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Hawn"
+    ]
+  },
+  {
+    "id": "goblin_soul_wand",
+    "output": {
+      "id": "goblin_soul_wand",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Hawn"
+    ]
+  },
+  {
+    "id": "godly_fragment",
+    "output": {
+      "id": "godly_fragment",
+      "count": 1
+    },
+    "methods": [
+      "Boss Drop: Ancient Colossal",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "godly_healing_wand",
+    "output": {
+      "id": "godly_healing_wand",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Titanbo"
+    ]
+  },
+  {
+    "id": "godly_hollow_wand",
+    "output": {
+      "id": "godly_hollow_wand",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Titanbo"
+    ]
+  },
+  {
+    "id": "godly_mining_boots",
+    "output": {
+      "id": "godly_mining_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "godly_mining_chestplate",
+    "output": {
+      "id": "godly_mining_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "godly_mining_helmet",
+    "output": {
+      "id": "godly_mining_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "godly_mining_leggings",
+    "output": {
+      "id": "godly_mining_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "godly_wand",
+    "output": {
+      "id": "godly_wand",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Titanbo",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "gold_block",
+    "output": {
+      "id": "gold_block",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Daily Reward: Daily Rewards",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "gold_boots",
+    "output": {
+      "id": "gold_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Manuel"
+    ]
+  },
+  {
+    "id": "gold_chestplate",
+    "output": {
+      "id": "gold_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Manuel",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "gold_helmet",
+    "output": {
+      "id": "gold_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Manuel"
+    ]
+  },
+  {
+    "id": "gold_ingot",
+    "output": {
+      "id": "gold_ingot",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Smithing: Level 12",
+      "Ore Forge: Forge Level 1",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "gold_leggings",
+    "output": {
+      "id": "gold_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Manuel",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "gold_ore",
+    "output": {
+      "id": "gold_ore",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Mining: Mining",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "gold_pickaxe",
+    "output": {
+      "id": "gold_pickaxe",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "gold_sack",
+    "output": {
+      "id": "gold_sack",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "gold_sword",
+    "output": {
+      "id": "gold_sword",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Hawn",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "golden_scroll",
+    "output": {
+      "id": "golden_scroll",
+      "count": 1
+    },
+    "methods": []
+  },
+  {
+    "id": "greater_potion_of_healing",
+    "output": {
+      "id": "greater_potion_of_healing",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Ryan"
+    ]
+  },
+  {
+    "id": "green_research_pack",
+    "output": {
+      "id": "green_research_pack",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Shady Guy",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "hallucinogenic_bait",
+    "output": {
+      "id": "hallucinogenic_bait",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Sab"
+    ]
+  },
+  {
+    "id": "hallucinogenic_boots",
+    "output": {
+      "id": "hallucinogenic_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Fisherman Kent",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "hallucinogenic_chestplate",
+    "output": {
+      "id": "hallucinogenic_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Fisherman Kent",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "hallucinogenic_core",
+    "output": {
+      "id": "hallucinogenic_core",
+      "count": 1
+    },
+    "methods": [
+      "Mob Drop: Hallucinogenic Nightmare",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "hallucinogenic_fishing_rod",
+    "output": {
+      "id": "hallucinogenic_fishing_rod",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Fisherman Kent",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "hallucinogenic_helmet",
+    "output": {
+      "id": "hallucinogenic_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Fisherman Kent",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "hallucinogenic_leggings",
+    "output": {
+      "id": "hallucinogenic_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Fisherman Kent",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "hardened_stone",
+    "output": {
+      "id": "hardened_stone",
+      "count": 1
+    },
+    "methods": [
+      "Mining: Mining"
+    ]
+  },
+  {
+    "id": "haste_augment",
+    "output": {
+      "id": "haste_augment",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Ashysomm"
+    ]
+  },
+  {
+    "id": "heavy_fishing_hook",
+    "output": {
+      "id": "heavy_fishing_hook",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Mongrael",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "herring_bait",
+    "output": {
+      "id": "herring_bait",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Sab"
+    ]
+  },
+  {
+    "id": "herring_fishing_rod",
+    "output": {
+      "id": "herring_fishing_rod",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Mongrael",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "hollow_wand",
+    "output": {
+      "id": "hollow_wand",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Cryptkeep",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "honey_jar",
+    "output": {
+      "id": "honey_jar",
+      "count": 1
+    },
+    "methods": [
+      "Apiary: Kimi's Apiary"
+    ]
+  },
+  {
+    "id": "ice_bait",
+    "output": {
+      "id": "ice_bait",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Sab"
+    ]
+  },
+  {
+    "id": "ice_shortbow",
+    "output": {
+      "id": "ice_shortbow",
+      "count": 1
+    },
+    "methods": [
+      "Gift Reward: Present"
+    ]
+  },
+  {
+    "id": "ice_wand",
+    "output": {
+      "id": "ice_wand",
+      "count": 1
+    },
+    "methods": [
+      "Gift Reward: Present"
+    ]
+  },
+  {
+    "id": "icicle_boots",
+    "output": {
+      "id": "icicle_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Frozen Chad",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "icicle_helmet",
+    "output": {
+      "id": "icicle_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Frozen Chad",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "icicle_leggings",
+    "output": {
+      "id": "icicle_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Frozen Chad",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "imperials_bandana",
+    "output": {
+      "id": "imperials_bandana",
+      "count": 1
+    },
+    "methods": [
+      "Quest Reward: Griffith"
+    ]
+  },
+  {
+    "id": "infernal_block",
+    "output": {
+      "id": "infernal_block",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "infernal_boots",
+    "output": {
+      "id": "infernal_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: John",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "infernal_chestplate",
+    "output": {
+      "id": "infernal_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: John",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "infernal_drill",
+    "output": {
+      "id": "infernal_drill",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Shady Guy",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "infernal_helmet",
+    "output": {
+      "id": "infernal_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: John",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "infernal_ingot",
+    "output": {
+      "id": "infernal_ingot",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Daily Reward: Daily Rewards",
+      "Smithing: Level 44",
+      "Ore Forge: Forge Level 7",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "infernal_leggings",
+    "output": {
+      "id": "infernal_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: John",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "infernal_ore",
+    "output": {
+      "id": "infernal_ore",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Mining: Mining",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "infernal_pickaxe",
+    "output": {
+      "id": "infernal_pickaxe",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Shady Guy",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "infernal_sack",
+    "output": {
+      "id": "infernal_sack",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "infinistack_of_coins",
+    "output": {
+      "id": "infinistack_of_coins",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Costen Exchange"
+    ]
+  },
+  {
+    "id": "infinity_wand",
+    "output": {
+      "id": "infinity_wand",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Spider Altar"
+    ]
+  },
+  {
+    "id": "insane_mining_boots",
+    "output": {
+      "id": "insane_mining_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "insane_mining_chestplate",
+    "output": {
+      "id": "insane_mining_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "insane_mining_helmet",
+    "output": {
+      "id": "insane_mining_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "insane_mining_leggings",
+    "output": {
+      "id": "insane_mining_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "intricate_mining_boots",
+    "output": {
+      "id": "intricate_mining_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "intricate_mining_chestplate",
+    "output": {
+      "id": "intricate_mining_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "intricate_mining_helmet",
+    "output": {
+      "id": "intricate_mining_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "intricate_mining_leggings",
+    "output": {
+      "id": "intricate_mining_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "iqtzs_house_papers",
+    "output": {
+      "id": "iqtzs_house_papers",
+      "count": 1
+    },
+    "methods": [
+      "Quest Reward: Ryan"
+    ]
+  },
+  {
+    "id": "iron_block",
+    "output": {
+      "id": "iron_block",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Daily Reward: Daily Rewards",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "iron_boots",
+    "output": {
+      "id": "iron_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Manuel"
+    ]
+  },
+  {
+    "id": "iron_chestplate",
+    "output": {
+      "id": "iron_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Manuel",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "iron_helmet",
+    "output": {
+      "id": "iron_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Manuel"
+    ]
+  },
+  {
+    "id": "iron_ingot",
+    "output": {
+      "id": "iron_ingot",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Smithing: Level 0",
+      "Ore Forge: Forge Level 1",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "iron_leggings",
+    "output": {
+      "id": "iron_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Manuel",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "iron_ore",
+    "output": {
+      "id": "iron_ore",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Mob Drop: Goblin Warrior",
+      "Mining: Mining",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "iron_pickaxe",
+    "output": {
+      "id": "iron_pickaxe",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "iron_sack",
+    "output": {
+      "id": "iron_sack",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "iron_sword",
+    "output": {
+      "id": "iron_sword",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Hawn",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "iron_weighted_shortbow",
+    "output": {
+      "id": "iron_weighted_shortbow",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Hawn"
+    ]
+  },
+  {
+    "id": "iron_weighted_sword",
+    "output": {
+      "id": "iron_weighted_sword",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Hawn"
+    ]
+  },
+  {
+    "id": "iron_weighted_wand",
+    "output": {
+      "id": "iron_weighted_wand",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Hawn"
+    ]
+  },
+  {
+    "id": "jelly_fishing_rod",
+    "output": {
+      "id": "jelly_fishing_rod",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Instability",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "jellyfish",
+    "output": {
+      "id": "jellyfish",
+      "count": 1
+    },
+    "methods": [
+      "Mob Drop: Cavernous Lurker",
+      "Fishing: Fishing",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "jellyfish_bait",
+    "output": {
+      "id": "jellyfish_bait",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Sab"
+    ]
+  },
+  {
+    "id": "jellyfish_boots",
+    "output": {
+      "id": "jellyfish_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Instability"
+    ]
+  },
+  {
+    "id": "jellyfish_chestplate",
+    "output": {
+      "id": "jellyfish_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Instability",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "jellyfish_helmet",
+    "output": {
+      "id": "jellyfish_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Instability",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "jellyfish_leggings",
+    "output": {
+      "id": "jellyfish_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Instability",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "knitted_white_wool",
+    "output": {
+      "id": "knitted_white_wool",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "lapis_block",
+    "output": {
+      "id": "lapis_block",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "lapis_boots",
+    "output": {
+      "id": "lapis_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: John",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "lapis_chestplate",
+    "output": {
+      "id": "lapis_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: John",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "lapis_drill",
+    "output": {
+      "id": "lapis_drill",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Shady Guy",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "lapis_helmet",
+    "output": {
+      "id": "lapis_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: John",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "lapis_ingot",
+    "output": {
+      "id": "lapis_ingot",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Daily Reward: Daily Rewards",
+      "Smithing: Level 31",
+      "Ore Forge: Forge Level 2",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "lapis_leggings",
+    "output": {
+      "id": "lapis_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: John",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "lapis_ore",
+    "output": {
+      "id": "lapis_ore",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Mining: Mining",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "lapis_sack",
+    "output": {
+      "id": "lapis_sack",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "leaflet_boots",
+    "output": {
+      "id": "leaflet_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Delilah"
+    ]
+  },
+  {
+    "id": "leaflet_chestplate",
+    "output": {
+      "id": "leaflet_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Delilah"
+    ]
+  },
+  {
+    "id": "leaflet_head",
+    "output": {
+      "id": "leaflet_head",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Hawn",
+      "Mob Drop: Leaflet Zombie"
+    ]
+  },
+  {
+    "id": "leaflet_helmet",
+    "output": {
+      "id": "leaflet_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Delilah"
+    ]
+  },
+  {
+    "id": "leaflet_leggings",
+    "output": {
+      "id": "leaflet_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Delilah"
+    ]
+  },
+  {
+    "id": "leaflet_shortbow",
+    "output": {
+      "id": "leaflet_shortbow",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Hawn",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "leaflet_sword",
+    "output": {
+      "id": "leaflet_sword",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Hawn",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "leather_dress_shoes",
+    "output": {
+      "id": "leather_dress_shoes",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Curator",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "leather_handle",
+    "output": {
+      "id": "leather_handle",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Hawn"
+    ]
+  },
+  {
+    "id": "led",
+    "output": {
+      "id": "led",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Shady Guy",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "light_mining_boots",
+    "output": {
+      "id": "light_mining_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx"
+    ]
+  },
+  {
+    "id": "light_mining_chestplate",
+    "output": {
+      "id": "light_mining_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx"
+    ]
+  },
+  {
+    "id": "light_mining_helmet",
+    "output": {
+      "id": "light_mining_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx"
+    ]
+  },
+  {
+    "id": "light_mining_leggings",
+    "output": {
+      "id": "light_mining_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx"
+    ]
+  },
+  {
+    "id": "long_lost_fragment",
+    "output": {
+      "id": "long_lost_fragment",
+      "count": 1
+    },
+    "methods": [
+      "Secret Discovery: Orchestrated Dance"
+    ]
+  },
+  {
+    "id": "lost_dream_bait",
+    "output": {
+      "id": "lost_dream_bait",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Sab"
+    ]
+  },
+  {
+    "id": "lucky_fish_skin_boots",
+    "output": {
+      "id": "lucky_fish_skin_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Nile"
+    ]
+  },
+  {
+    "id": "lucky_fish_skin_chestplate",
+    "output": {
+      "id": "lucky_fish_skin_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Nile",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "lucky_fish_skin_helmet",
+    "output": {
+      "id": "lucky_fish_skin_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Nile",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "lucky_fish_skin_leggings",
+    "output": {
+      "id": "lucky_fish_skin_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Nile",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "magic_bark",
+    "output": {
+      "id": "magic_bark",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Jack",
+      "Foraging: Foraging",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "magical_augment",
+    "output": {
+      "id": "magical_augment",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Jack"
+    ]
+  },
+  {
+    "id": "magical_axe",
+    "output": {
+      "id": "magical_axe",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Jack",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "magical_chestplate",
+    "output": {
+      "id": "magical_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Boss Drop: Undead Bandit"
+    ]
+  },
+  {
+    "id": "magical_compressor",
+    "output": {
+      "id": "magical_compressor",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Jack"
+    ]
+  },
+  {
+    "id": "magical_log",
+    "output": {
+      "id": "magical_log",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Foraging: Magical Trees",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "magical_pale_boots",
+    "output": {
+      "id": "magical_pale_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Natea",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "magical_pale_chestplate",
+    "output": {
+      "id": "magical_pale_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Natea",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "magical_pale_helmet",
+    "output": {
+      "id": "magical_pale_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Natea",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "magical_pale_leggings",
+    "output": {
+      "id": "magical_pale_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Natea",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "magical_phone",
+    "output": {
+      "id": "magical_phone",
+      "count": 1
+    },
+    "methods": [
+      "Quest Reward: Jeremiah"
+    ]
+  },
+  {
+    "id": "magical_planks",
+    "output": {
+      "id": "magical_planks",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "magical_singularity",
+    "output": {
+      "id": "magical_singularity",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Jack",
+      "Foraging: Magical Trees",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "magical_wood",
+    "output": {
+      "id": "magical_wood",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Foraging: Magical Trees",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "medicore_mining_boots",
+    "output": {
+      "id": "medicore_mining_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "medicore_mining_chestplate",
+    "output": {
+      "id": "medicore_mining_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "medicore_mining_helmet",
+    "output": {
+      "id": "medicore_mining_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "medicore_mining_leggings",
+    "output": {
+      "id": "medicore_mining_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "mining_cape",
+    "output": {
+      "id": "mining_cape",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx"
+    ]
+  },
+  {
+    "id": "mining_scroll",
+    "output": {
+      "id": "mining_scroll",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx"
+    ]
+  },
+  {
+    "id": "mithril_block",
+    "output": {
+      "id": "mithril_block",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "mithril_boots",
+    "output": {
+      "id": "mithril_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: John",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "mithril_chestplate",
+    "output": {
+      "id": "mithril_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: John",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "mithril_drill",
+    "output": {
+      "id": "mithril_drill",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Shady Guy",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "mithril_helmet",
+    "output": {
+      "id": "mithril_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: John",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "mithril_ingot",
+    "output": {
+      "id": "mithril_ingot",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Daily Reward: Daily Rewards",
+      "Smithing: Level 36",
+      "Ore Forge: Forge Level 3",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "mithril_leggings",
+    "output": {
+      "id": "mithril_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: John",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "mithril_ore",
+    "output": {
+      "id": "mithril_ore",
+      "count": 1
+    },
+    "methods": [
+      "Mining: Mining"
+    ]
+  },
+  {
+    "id": "mithril_sack",
+    "output": {
+      "id": "mithril_sack",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "molten_shard",
+    "output": {
+      "id": "molten_shard",
+      "count": 1
+    },
+    "methods": [
+      "Mining: Mining",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "moltenfernal_mixture",
+    "output": {
+      "id": "moltenfernal_mixture",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Shady Guy"
+    ]
+  },
+  {
+    "id": "moltenfernal_sack",
+    "output": {
+      "id": "moltenfernal_sack",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "moss_infested_pale_sword",
+    "output": {
+      "id": "moss_infested_pale_sword",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Natea"
+    ]
+  },
+  {
+    "id": "moss_infested_swamp_bait",
+    "output": {
+      "id": "moss_infested_swamp_bait",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Sab"
+    ]
+  },
+  {
+    "id": "mossy_lakegrass",
+    "output": {
+      "id": "mossy_lakegrass",
+      "count": 1
+    },
+    "methods": [
+      "Mob Drop: Mossy Strider",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "multifunctional_compressor",
+    "output": {
+      "id": "multifunctional_compressor",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Micheal"
+    ]
+  },
+  {
+    "id": "murky_swimmer",
+    "output": {
+      "id": "murky_swimmer",
+      "count": 1
+    },
+    "methods": [
+      "Fishing: Fishing",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "murky_water_vines",
+    "output": {
+      "id": "murky_water_vines",
+      "count": 1
+    },
+    "methods": [
+      "Fishing: Fishing",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "mutton_block",
+    "output": {
+      "id": "mutton_block",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "mutton_club",
+    "output": {
+      "id": "mutton_club",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Hawn"
+    ]
+  },
+  {
+    "id": "mystical_apiary",
+    "output": {
+      "id": "mystical_apiary",
+      "count": 1
+    },
+    "methods": [
+      "Coming Soon: Kimi's Greenhouse"
+    ]
+  },
+  {
+    "id": "mythrons_deciphered_clue",
+    "output": {
+      "id": "mythrons_deciphered_clue",
+      "count": 1
+    },
+    "methods": [
+      "Quest Reward: Mythron"
+    ]
+  },
+  {
+    "id": "nature_wand",
+    "output": {
+      "id": "nature_wand",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Hawn",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "nickel_block",
+    "output": {
+      "id": "nickel_block",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "nickel_boots",
+    "output": {
+      "id": "nickel_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: John",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "nickel_chestplate",
+    "output": {
+      "id": "nickel_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: John",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "nickel_drill",
+    "output": {
+      "id": "nickel_drill",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Shady Guy",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "nickel_helmet",
+    "output": {
+      "id": "nickel_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: John",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "nickel_ingot",
+    "output": {
+      "id": "nickel_ingot",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Daily Reward: Daily Rewards",
+      "Smithing: Level 28",
+      "Ore Forge: Forge Level 2",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "nickel_leggings",
+    "output": {
+      "id": "nickel_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: John",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "nickel_ore",
+    "output": {
+      "id": "nickel_ore",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Mining: Mining",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "nickel_sack",
+    "output": {
+      "id": "nickel_sack",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "old_pants",
+    "output": {
+      "id": "old_pants",
+      "count": 1
+    },
+    "methods": [
+      "Quest Reward: Nicole"
+    ]
+  },
+  {
+    "id": "old_silk",
+    "output": {
+      "id": "old_silk",
+      "count": 1
+    },
+    "methods": [
+      "Boss Drop: Arachnid Hybrid"
+    ]
+  },
+  {
+    "id": "oozing_apiary",
+    "output": {
+      "id": "oozing_apiary",
+      "count": 1
+    },
+    "methods": [
+      "Coming Soon: Kimi's Greenhouse"
+    ]
+  },
+  {
+    "id": "overly_plated_drill",
+    "output": {
+      "id": "overly_plated_drill",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Shady Guy",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "padded_goblin_boots",
+    "output": {
+      "id": "padded_goblin_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Delilah"
+    ]
+  },
+  {
+    "id": "padded_goblin_chestplate",
+    "output": {
+      "id": "padded_goblin_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Delilah"
+    ]
+  },
+  {
+    "id": "padded_goblin_helmet",
+    "output": {
+      "id": "padded_goblin_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Delilah"
+    ]
+  },
+  {
+    "id": "padded_goblin_leggings",
+    "output": {
+      "id": "padded_goblin_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Delilah"
+    ]
+  },
+  {
+    "id": "pale_dream_fish",
+    "output": {
+      "id": "pale_dream_fish",
+      "count": 1
+    },
+    "methods": [
+      "Fishing: Fishing",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "pale_fishing_rod",
+    "output": {
+      "id": "pale_fishing_rod",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Fisherman Kent",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "pale_frog",
+    "output": {
+      "id": "pale_frog",
+      "count": 1
+    },
+    "methods": []
+  },
+  {
+    "id": "pale_greatsword",
+    "output": {
+      "id": "pale_greatsword",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Natea",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "pale_heart",
+    "output": {
+      "id": "pale_heart",
+      "count": 1
+    },
+    "methods": [
+      "Mob Drop: Pale Infested Zombie",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "pale_magic_axe",
+    "output": {
+      "id": "pale_magic_axe",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Karla",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "pale_mossy_bone",
+    "output": {
+      "id": "pale_mossy_bone",
+      "count": 1
+    },
+    "methods": [
+      "Mob Drop: Ancient Pale Skeleton",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "pale_oak_bark",
+    "output": {
+      "id": "pale_oak_bark",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Karla",
+      "Foraging: Foraging",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "pale_oak_boots",
+    "output": {
+      "id": "pale_oak_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Karla"
+    ]
+  },
+  {
+    "id": "pale_oak_chestplate",
+    "output": {
+      "id": "pale_oak_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Karla"
+    ]
+  },
+  {
+    "id": "pale_oak_compressor",
+    "output": {
+      "id": "pale_oak_compressor",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Karla"
+    ]
+  },
+  {
+    "id": "pale_oak_helmet",
+    "output": {
+      "id": "pale_oak_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Karla"
+    ]
+  },
+  {
+    "id": "pale_oak_leggings",
+    "output": {
+      "id": "pale_oak_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Karla"
+    ]
+  },
+  {
+    "id": "pale_oak_log",
+    "output": {
+      "id": "pale_oak_log",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Foraging: Pale Oak Trees",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "pale_oak_planks",
+    "output": {
+      "id": "pale_oak_planks",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "pale_oak_singularity",
+    "output": {
+      "id": "pale_oak_singularity",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Karla",
+      "Foraging: Pale Oak Trees",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "pale_oak_wood",
+    "output": {
+      "id": "pale_oak_wood",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Foraging: Pale Oak Trees",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "pale_ray_fish",
+    "output": {
+      "id": "pale_ray_fish",
+      "count": 1
+    },
+    "methods": [
+      "Fishing: Fishing",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "pale_skeletal_boots",
+    "output": {
+      "id": "pale_skeletal_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Natea",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "pale_skeletal_chestplate",
+    "output": {
+      "id": "pale_skeletal_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Natea",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "pale_skeletal_helmet",
+    "output": {
+      "id": "pale_skeletal_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Natea",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "pale_skeletal_leggings",
+    "output": {
+      "id": "pale_skeletal_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Natea",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "pale_vines",
+    "output": {
+      "id": "pale_vines",
+      "count": 1
+    },
+    "methods": [
+      "Mob Drop: Pale Infested Zombie",
+      "Mob Drop: Ancient Pale Skeleton",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "pale_water_orb",
+    "output": {
+      "id": "pale_water_orb",
+      "count": 1
+    },
+    "methods": [
+      "Fishing: Fishing",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "perfected_pale_oak_compressor",
+    "output": {
+      "id": "perfected_pale_oak_compressor",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Karla"
+    ]
+  },
+  {
+    "id": "pickaxe/drill_polish",
+    "output": {
+      "id": "pickaxe/drill_polish",
+      "count": 1
+    },
+    "methods": [
+      "Shop: They Respawn",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "pickled_repellant",
+    "output": {
+      "id": "pickled_repellant",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Mongrael"
+    ]
+  },
+  {
+    "id": "pig_hide_boots",
+    "output": {
+      "id": "pig_hide_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Delilah"
+    ]
+  },
+  {
+    "id": "pig_hide_chestplate",
+    "output": {
+      "id": "pig_hide_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Delilah"
+    ]
+  },
+  {
+    "id": "pig_hide_helmet",
+    "output": {
+      "id": "pig_hide_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Delilah"
+    ]
+  },
+  {
+    "id": "pig_hide_leggings",
+    "output": {
+      "id": "pig_hide_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Delilah"
+    ]
+  },
+  {
+    "id": "pig_leather",
+    "output": {
+      "id": "pig_leather",
+      "count": 1
+    },
+    "methods": [
+      "Mob Drop: Runt Pig"
+    ]
+  },
+  {
+    "id": "pig_shortbow",
+    "output": {
+      "id": "pig_shortbow",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Hawn"
+    ]
+  },
+  {
+    "id": "pig_sword",
+    "output": {
+      "id": "pig_sword",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Hawn"
+    ]
+  },
+  {
+    "id": "poppy_petals",
+    "output": {
+      "id": "poppy_petals",
+      "count": 1
+    },
+    "methods": []
+  },
+  {
+    "id": "pot_of_coins",
+    "output": {
+      "id": "pot_of_coins",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Costen Exchange"
+    ]
+  },
+  {
+    "id": "potion_of_felling",
+    "output": {
+      "id": "potion_of_felling",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Ryan"
+    ]
+  },
+  {
+    "id": "potion_of_fishing",
+    "output": {
+      "id": "potion_of_fishing",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Ryan"
+    ]
+  },
+  {
+    "id": "potion_of_foraging",
+    "output": {
+      "id": "potion_of_foraging",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Ryan"
+    ]
+  },
+  {
+    "id": "potion_of_healing",
+    "output": {
+      "id": "potion_of_healing",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Ryan"
+    ]
+  },
+  {
+    "id": "potion_of_mining",
+    "output": {
+      "id": "potion_of_mining",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Ryan"
+    ]
+  },
+  {
+    "id": "potion_of_resistance",
+    "output": {
+      "id": "potion_of_resistance",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Ryan",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "potion_of_speed",
+    "output": {
+      "id": "potion_of_speed",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Ryan"
+    ]
+  },
+  {
+    "id": "potion_of_strength",
+    "output": {
+      "id": "potion_of_strength",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Ryan"
+    ]
+  },
+  {
+    "id": "present",
+    "output": {
+      "id": "present",
+      "count": 1
+    },
+    "methods": [
+      "Mob Drop: Ice Skater",
+      "Mob Drop: Underwater Krampus",
+      "Fishing: Fishing"
+    ]
+  },
+  {
+    "id": "proficiently_frozen_melon",
+    "output": {
+      "id": "proficiently_frozen_melon",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Frozen Chad",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "proficiently_terrestrial_melon",
+    "output": {
+      "id": "proficiently_terrestrial_melon",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Frozen Chad",
+      "Mob Drop: Ice Skater",
+      "Mob Drop: Underwater Krampus",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "pure_carbon_mixture",
+    "output": {
+      "id": "pure_carbon_mixture",
+      "count": 1
+    },
+    "methods": [
+      "Daily Reward: Daily Rewards",
+      "Smithing: Level 20"
+    ]
+  },
+  {
+    "id": "pure_redstone",
+    "output": {
+      "id": "pure_redstone",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Daily Reward: Daily Rewards",
+      "Smithing: Level 20",
+      "Ore Forge: Forge Level 1",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "pure_redstone_block",
+    "output": {
+      "id": "pure_redstone_block",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "quest_tracker",
+    "output": {
+      "id": "quest_tracker",
+      "count": 1
+    },
+    "methods": [
+      "Quest Reward: Hawn"
+    ]
+  },
+  {
+    "id": "rare_fish_skin_boots",
+    "output": {
+      "id": "rare_fish_skin_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Nile",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "rare_fish_skin_chestplate",
+    "output": {
+      "id": "rare_fish_skin_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Nile",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "rare_fish_skin_helmet",
+    "output": {
+      "id": "rare_fish_skin_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Nile",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "rare_fish_skin_leggings",
+    "output": {
+      "id": "rare_fish_skin_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Nile",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "raw_carp",
+    "output": {
+      "id": "raw_carp",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Mob Drop: Mossy Strider",
+      "Fishing: Fishing",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "raw_chub",
+    "output": {
+      "id": "raw_chub",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Mob Drop: Mossy Strider",
+      "Fishing: Fishing",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "raw_cobalt_block",
+    "output": {
+      "id": "raw_cobalt_block",
+      "count": 1
+    },
+    "methods": [
+      "Crafting"
+    ]
+  },
+  {
+    "id": "raw_cod",
+    "output": {
+      "id": "raw_cod",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Mob Drop: Mossy Strider",
+      "Fishing: Fishing",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "raw_copper_block",
+    "output": {
+      "id": "raw_copper_block",
+      "count": 1
+    },
+    "methods": [
+      "Crafting"
+    ]
+  },
+  {
+    "id": "raw_diamond",
+    "output": {
+      "id": "raw_diamond",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Mining: Mining",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "raw_diamond_block",
+    "output": {
+      "id": "raw_diamond_block",
+      "count": 1
+    },
+    "methods": [
+      "Crafting"
+    ]
+  },
+  {
+    "id": "raw_gemstone_block",
+    "output": {
+      "id": "raw_gemstone_block",
+      "count": 1
+    },
+    "methods": [
+      "Crafting"
+    ]
+  },
+  {
+    "id": "raw_gold_block",
+    "output": {
+      "id": "raw_gold_block",
+      "count": 1
+    },
+    "methods": [
+      "Crafting"
+    ]
+  },
+  {
+    "id": "raw_herring",
+    "output": {
+      "id": "raw_herring",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Mob Drop: Mossy Strider",
+      "Mob Drop: River Feeder",
+      "Fishing: Fishing",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "raw_infernal_block",
+    "output": {
+      "id": "raw_infernal_block",
+      "count": 1
+    },
+    "methods": [
+      "Crafting"
+    ]
+  },
+  {
+    "id": "raw_iron_block",
+    "output": {
+      "id": "raw_iron_block",
+      "count": 1
+    },
+    "methods": [
+      "Crafting"
+    ]
+  },
+  {
+    "id": "raw_lapis_block",
+    "output": {
+      "id": "raw_lapis_block",
+      "count": 1
+    },
+    "methods": [
+      "Crafting"
+    ]
+  },
+  {
+    "id": "raw_mithril_block",
+    "output": {
+      "id": "raw_mithril_block",
+      "count": 1
+    },
+    "methods": []
+  },
+  {
+    "id": "raw_mutton",
+    "output": {
+      "id": "raw_mutton",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Mob Drop: Wild Sheep",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "raw_nickel_block",
+    "output": {
+      "id": "raw_nickel_block",
+      "count": 1
+    },
+    "methods": [
+      "Crafting"
+    ]
+  },
+  {
+    "id": "raw_porkchop",
+    "output": {
+      "id": "raw_porkchop",
+      "count": 1
+    },
+    "methods": [
+      "Mob Drop: Runt Pig"
+    ]
+  },
+  {
+    "id": "raw_redstone",
+    "output": {
+      "id": "raw_redstone",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Mining: Mining",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "raw_redstone_block",
+    "output": {
+      "id": "raw_redstone_block",
+      "count": 1
+    },
+    "methods": [
+      "Crafting"
+    ]
+  },
+  {
+    "id": "raw_tungsten_block",
+    "output": {
+      "id": "raw_tungsten_block",
+      "count": 1
+    },
+    "methods": [
+      "Crafting"
+    ]
+  },
+  {
+    "id": "red_herring",
+    "output": {
+      "id": "red_herring",
+      "count": 1
+    },
+    "methods": []
+  },
+  {
+    "id": "red_research_pack",
+    "output": {
+      "id": "red_research_pack",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Shady Guy",
+      "Mining Treasure Chest",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "redstone_boots",
+    "output": {
+      "id": "redstone_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: John",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "redstone_chestplate",
+    "output": {
+      "id": "redstone_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: John",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "redstone_drill",
+    "output": {
+      "id": "redstone_drill",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Shady Guy",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "redstone_helmet",
+    "output": {
+      "id": "redstone_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: John",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "redstone_leggings",
+    "output": {
+      "id": "redstone_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: John",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "redstone_pickaxe",
+    "output": {
+      "id": "redstone_pickaxe",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Shady Guy",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "redstone_sack",
+    "output": {
+      "id": "redstone_sack",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "refined_pale_oak_boots",
+    "output": {
+      "id": "refined_pale_oak_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Karla"
+    ]
+  },
+  {
+    "id": "refined_pale_oak_chestplate",
+    "output": {
+      "id": "refined_pale_oak_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Karla"
+    ]
+  },
+  {
+    "id": "refined_pale_oak_helmet",
+    "output": {
+      "id": "refined_pale_oak_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Karla"
+    ]
+  },
+  {
+    "id": "refined_pale_oak_leggings",
+    "output": {
+      "id": "refined_pale_oak_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Karla"
+    ]
+  },
+  {
+    "id": "refinement_crystal",
+    "output": {
+      "id": "refinement_crystal",
+      "count": 1
+    },
+    "methods": [
+      "Shop: They Respawn",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "refractal_bait",
+    "output": {
+      "id": "refractal_bait",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Sab"
+    ]
+  },
+  {
+    "id": "refractal_boots",
+    "output": {
+      "id": "refractal_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Nile"
+    ]
+  },
+  {
+    "id": "refractal_chestplate",
+    "output": {
+      "id": "refractal_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Nile"
+    ]
+  },
+  {
+    "id": "refractal_fishing_rod",
+    "output": {
+      "id": "refractal_fishing_rod",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Mongrael",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "refractal_helmet",
+    "output": {
+      "id": "refractal_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Nile"
+    ]
+  },
+  {
+    "id": "refractal_leggings",
+    "output": {
+      "id": "refractal_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Nile"
+    ]
+  },
+  {
+    "id": "refractal_light",
+    "output": {
+      "id": "refractal_light",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "refractal_shard",
+    "output": {
+      "id": "refractal_shard",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Mob Drop: Refractal Champion",
+      "Daily Reward: Daily Rewards",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "refractal_shortbow",
+    "output": {
+      "id": "refractal_shortbow",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Mongrael"
+    ]
+  },
+  {
+    "id": "refractal_wand",
+    "output": {
+      "id": "refractal_wand",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Mongrael"
+    ]
+  },
+  {
+    "id": "reinforced_apiary",
+    "output": {
+      "id": "reinforced_apiary",
+      "count": 1
+    },
+    "methods": [
+      "Coming Soon: Kimi's Greenhouse"
+    ]
+  },
+  {
+    "id": "rekindled_shortbow",
+    "output": {
+      "id": "rekindled_shortbow",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Hawn"
+    ]
+  },
+  {
+    "id": "rekindled_sword",
+    "output": {
+      "id": "rekindled_sword",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Hawn"
+    ]
+  },
+  {
+    "id": "rekindled_wand",
+    "output": {
+      "id": "rekindled_wand",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Hawn"
+    ]
+  },
+  {
+    "id": "riptide_bait",
+    "output": {
+      "id": "riptide_bait",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Sab"
+    ]
+  },
+  {
+    "id": "riptide_boots",
+    "output": {
+      "id": "riptide_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Nile"
+    ]
+  },
+  {
+    "id": "riptide_chestplate",
+    "output": {
+      "id": "riptide_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Nile"
+    ]
+  },
+  {
+    "id": "riptide_fishing_rod",
+    "output": {
+      "id": "riptide_fishing_rod",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Mongrael",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "riptide_helmet",
+    "output": {
+      "id": "riptide_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Nile"
+    ]
+  },
+  {
+    "id": "riptide_leggings",
+    "output": {
+      "id": "riptide_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Nile"
+    ]
+  },
+  {
+    "id": "riptide_prism",
+    "output": {
+      "id": "riptide_prism",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "riptide_scale",
+    "output": {
+      "id": "riptide_scale",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Mob Drop: Riptide Walker",
+      "Daily Reward: Daily Rewards",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "riptide_shortbow",
+    "output": {
+      "id": "riptide_shortbow",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Mongrael"
+    ]
+  },
+  {
+    "id": "riverbed_material",
+    "output": {
+      "id": "riverbed_material",
+      "count": 1
+    },
+    "methods": [
+      "Mob Drop: River Feeder",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "rough_pale_sword",
+    "output": {
+      "id": "rough_pale_sword",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Natea",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "rough_stone_axe",
+    "output": {
+      "id": "rough_stone_axe",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Ashysomm"
+    ]
+  },
+  {
+    "id": "rough_wooden_axe",
+    "output": {
+      "id": "rough_wooden_axe",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Ashysomm",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "royal_boots",
+    "output": {
+      "id": "royal_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Cryptkeep",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "royal_chestplate",
+    "output": {
+      "id": "royal_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Cryptkeep",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "royal_crown",
+    "output": {
+      "id": "royal_crown",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Cryptkeep",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "royal_gem",
+    "output": {
+      "id": "royal_gem",
+      "count": 1
+    },
+    "methods": [
+      "Mob Drop: Cryptking"
+    ]
+  },
+  {
+    "id": "royal_gold",
+    "output": {
+      "id": "royal_gold",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Noblequeen",
+      "Daily Reward: Daily Rewards",
+      "Used for an elevator upgrade",
+      "Use 5 Royal Gold to complete the Shattered Locket"
+    ]
+  },
+  {
+    "id": "royal_leggings",
+    "output": {
+      "id": "royal_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Cryptkeep",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "royal_miners_crown",
+    "output": {
+      "id": "royal_miners_crown",
+      "count": 1
+    },
+    "methods": [
+      "Quest Reward: Noblequeen"
+    ]
+  },
+  {
+    "id": "ruined_plating",
+    "output": {
+      "id": "ruined_plating",
+      "count": 1
+    },
+    "methods": [
+      "Mob Drop: Wandering Golem",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "rusty_anchor",
+    "output": {
+      "id": "rusty_anchor",
+      "count": 1
+    },
+    "methods": [
+      "Fishing: Fishing"
+    ]
+  },
+  {
+    "id": "santa_hat",
+    "output": {
+      "id": "santa_hat",
+      "count": 1
+    },
+    "methods": [
+      "Fishing: Fishing",
+      "Gift Reward: Present"
+    ]
+  },
+  {
+    "id": "sea_pickle",
+    "output": {
+      "id": "sea_pickle",
+      "count": 1
+    },
+    "methods": [
+      "Mob Drop: River Feeder"
+    ]
+  },
+  {
+    "id": "sentient_beating_heart_of_coins",
+    "output": {
+      "id": "sentient_beating_heart_of_coins",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Costen Exchange"
+    ]
+  },
+  {
+    "id": "sentient_eye_of_coins",
+    "output": {
+      "id": "sentient_eye_of_coins",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Costen Exchange"
+    ]
+  },
+  {
+    "id": "shattered_locket",
+    "output": {
+      "id": "shattered_locket",
+      "count": 1
+    },
+    "methods": [
+      "Daily Reward: Daily Rewards",
+      "Mining Treasure Chest"
+    ]
+  },
+  {
+    "id": "shrimp",
+    "output": {
+      "id": "shrimp",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Fishing: Fishing",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "shrimp_bait",
+    "output": {
+      "id": "shrimp_bait",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Sab"
+    ]
+  },
+  {
+    "id": "singularity_dark_oak_boots",
+    "output": {
+      "id": "singularity_dark_oak_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Micheal"
+    ]
+  },
+  {
+    "id": "singularity_dark_oak_chestplate",
+    "output": {
+      "id": "singularity_dark_oak_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Micheal"
+    ]
+  },
+  {
+    "id": "singularity_dark_oak_helmet",
+    "output": {
+      "id": "singularity_dark_oak_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Micheal"
+    ]
+  },
+  {
+    "id": "singularity_dark_oak_leggings",
+    "output": {
+      "id": "singularity_dark_oak_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Micheal"
+    ]
+  },
+  {
+    "id": "singularity_spruce_boots",
+    "output": {
+      "id": "singularity_spruce_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Ashysomm",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "singularity_spruce_chestplate",
+    "output": {
+      "id": "singularity_spruce_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Ashysomm",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "singularity_spruce_helmet",
+    "output": {
+      "id": "singularity_spruce_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Ashysomm",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "singularity_spruce_leggings",
+    "output": {
+      "id": "singularity_spruce_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Ashysomm",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "size_two_fish",
+    "output": {
+      "id": "size_two_fish",
+      "count": 1
+    },
+    "methods": [
+      "Fishing: Fishing"
+    ]
+  },
+  {
+    "id": "skeleton_king_key",
+    "output": {
+      "id": "skeleton_king_key",
+      "count": 1
+    },
+    "methods": [
+      "Dungeon Reward: Time Keeper Chest"
+    ]
+  },
+  {
+    "id": "smithing_cape",
+    "output": {
+      "id": "smithing_cape",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx"
+    ]
+  },
+  {
+    "id": "smithing_scroll",
+    "output": {
+      "id": "smithing_scroll",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "snow_bait",
+    "output": {
+      "id": "snow_bait",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Sab"
+    ]
+  },
+  {
+    "id": "snowball",
+    "output": {
+      "id": "snowball",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Mob Drop: Ice Skater",
+      "Mob Drop: Underwater Krampus",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "solid_ice",
+    "output": {
+      "id": "solid_ice",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Mob Drop: Underwater Krampus",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "soul_infused_clock_boots",
+    "output": {
+      "id": "soul_infused_clock_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Faniel"
+    ]
+  },
+  {
+    "id": "soul_infused_clock_chestplate",
+    "output": {
+      "id": "soul_infused_clock_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Faniel",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "soul_infused_clock_helmet",
+    "output": {
+      "id": "soul_infused_clock_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Faniel",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "soul_infused_clock_leggings",
+    "output": {
+      "id": "soul_infused_clock_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Faniel",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "soul_infused_clock_shortbow",
+    "output": {
+      "id": "soul_infused_clock_shortbow",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Faniel",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "soul_string",
+    "output": {
+      "id": "soul_string",
+      "count": 1
+    },
+    "methods": [
+      "Mob Drop: Arachnid Minion",
+      "Mob Drop: Arachnid Hybrid",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "speedy_sword",
+    "output": {
+      "id": "speedy_sword",
+      "count": 1
+    },
+    "methods": [
+      "Quest Reward: Jeremiah"
+    ]
+  },
+  {
+    "id": "spruce_apiary",
+    "output": {
+      "id": "spruce_apiary",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Kimi",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "spruce_bark",
+    "output": {
+      "id": "spruce_bark",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Ashysomm",
+      "Foraging: Foraging",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "spruce_boots",
+    "output": {
+      "id": "spruce_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Ashysomm"
+    ]
+  },
+  {
+    "id": "spruce_chestplate",
+    "output": {
+      "id": "spruce_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Ashysomm"
+    ]
+  },
+  {
+    "id": "spruce_compressor",
+    "output": {
+      "id": "spruce_compressor",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Ashysomm"
+    ]
+  },
+  {
+    "id": "spruce_helmet",
+    "output": {
+      "id": "spruce_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Ashysomm"
+    ]
+  },
+  {
+    "id": "spruce_leggings",
+    "output": {
+      "id": "spruce_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Ashysomm"
+    ]
+  },
+  {
+    "id": "spruce_log",
+    "output": {
+      "id": "spruce_log",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Foraging: Spruce Trees",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "spruce_planks",
+    "output": {
+      "id": "spruce_planks",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "spruce_singularity",
+    "output": {
+      "id": "spruce_singularity",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Ashysomm",
+      "Foraging: Spruce Trees",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "spruce_wood",
+    "output": {
+      "id": "spruce_wood",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Foraging: Spruce Trees",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "spunup_string",
+    "output": {
+      "id": "spunup_string",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Spider Altar",
+      "Daily Reward: Daily Rewards",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "stack_of_coins",
+    "output": {
+      "id": "stack_of_coins",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Costen Exchange",
+      "Fishing: Fishing"
+    ]
+  },
+  {
+    "id": "steel",
+    "output": {
+      "id": "steel",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Smithing: Level 0",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "steel_sack",
+    "output": {
+      "id": "steel_sack",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "steelrefined_pickaxe",
+    "output": {
+      "id": "steelrefined_pickaxe",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "stinger_boots",
+    "output": {
+      "id": "stinger_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Fisherman Kent",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "stinger_chestplate",
+    "output": {
+      "id": "stinger_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Fisherman Kent",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "stinger_fishing_rod",
+    "output": {
+      "id": "stinger_fishing_rod",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Fisherman Kent",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "stinger_helmet",
+    "output": {
+      "id": "stinger_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Fisherman Kent",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "stinger_leggings",
+    "output": {
+      "id": "stinger_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Fisherman Kent",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "stone",
+    "output": {
+      "id": "stone",
+      "count": 1
+    },
+    "methods": []
+  },
+  {
+    "id": "stone_axe",
+    "output": {
+      "id": "stone_axe",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Ashysomm"
+    ]
+  },
+  {
+    "id": "stone_boots",
+    "output": {
+      "id": "stone_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Manuel"
+    ]
+  },
+  {
+    "id": "stone_chestplate",
+    "output": {
+      "id": "stone_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Manuel"
+    ]
+  },
+  {
+    "id": "stone_chunk",
+    "output": {
+      "id": "stone_chunk",
+      "count": 1
+    },
+    "methods": [
+      "Mining: Mining"
+    ]
+  },
+  {
+    "id": "stone_compressor",
+    "output": {
+      "id": "stone_compressor",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "stone_helmet",
+    "output": {
+      "id": "stone_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Manuel"
+    ]
+  },
+  {
+    "id": "stone_leggings",
+    "output": {
+      "id": "stone_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Manuel"
+    ]
+  },
+  {
+    "id": "stone_pickaxe",
+    "output": {
+      "id": "stone_pickaxe",
+      "count": 1
+    },
+    "methods": [
+      "Quest Reward: Onyx"
+    ]
+  },
+  {
+    "id": "stone_slab",
+    "output": {
+      "id": "stone_slab",
+      "count": 1
+    },
+    "methods": []
+  },
+  {
+    "id": "stone_spear",
+    "output": {
+      "id": "stone_spear",
+      "count": 1
+    },
+    "methods": [
+      "Mob Drop: Cave Dweller"
+    ]
+  },
+  {
+    "id": "stone_tablet",
+    "output": {
+      "id": "stone_tablet",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Mob Drop: Cave Dweller",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "sunfish",
+    "output": {
+      "id": "sunfish",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Mob Drop: River Feeder",
+      "Fishing: Fishing",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "sunfish_bait",
+    "output": {
+      "id": "sunfish_bait",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Sab"
+    ]
+  },
+  {
+    "id": "sunfish_fishing_rod",
+    "output": {
+      "id": "sunfish_fishing_rod",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Mongrael",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "supreme_eye",
+    "output": {
+      "id": "supreme_eye",
+      "count": 1
+    },
+    "methods": []
+  },
+  {
+    "id": "supreme_star",
+    "output": {
+      "id": "supreme_star",
+      "count": 1
+    },
+    "methods": []
+  },
+  {
+    "id": "surpremely_mystical_ore",
+    "output": {
+      "id": "surpremely_mystical_ore",
+      "count": 1
+    },
+    "methods": []
+  },
+  {
+    "id": "swamp_bait",
+    "output": {
+      "id": "swamp_bait",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Sab"
+    ]
+  },
+  {
+    "id": "table_of_supreme_knowledge",
+    "output": {
+      "id": "table_of_supreme_knowledge",
+      "count": 1
+    },
+    "methods": [
+      "Quest Reward: Founder"
+    ]
+  },
+  {
+    "id": "talisman_infused_shortbow",
+    "output": {
+      "id": "talisman_infused_shortbow",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Titanbo",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "the_holy_helmet",
+    "output": {
+      "id": "the_holy_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Secret Discovery: Holy Message"
+    ]
+  },
+  {
+    "id": "the_hunt_ii_shard",
+    "output": {
+      "id": "the_hunt_ii_shard",
+      "count": 1
+    },
+    "methods": [
+      "Shop: The Hunt",
+      "Quest Reward: Titanbo"
+    ]
+  },
+  {
+    "id": "the_sting",
+    "output": {
+      "id": "the_sting",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Spider Altar",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "the_supreme_final_item",
+    "output": {
+      "id": "the_supreme_final_item",
+      "count": 1
+    },
+    "methods": [
+      "Quest Reward: Costengatekeeper"
+    ]
+  },
+  {
+    "id": "time_keeper_key",
+    "output": {
+      "id": "time_keeper_key",
+      "count": 1
+    },
+    "methods": [
+      "Boss Drop: Clockwork Boss"
+    ]
+  },
+  {
+    "id": "titanic_stack_of_coins",
+    "output": {
+      "id": "titanic_stack_of_coins",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Costen Exchange"
+    ]
+  },
+  {
+    "id": "tome_of_the_sea",
+    "output": {
+      "id": "tome_of_the_sea",
+      "count": 1
+    },
+    "methods": [
+      "Fishing: Fishing",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "toxin_boots",
+    "output": {
+      "id": "toxin_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Spider Altar",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "toxin_chestplate",
+    "output": {
+      "id": "toxin_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Spider Altar",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "toxin_helmet",
+    "output": {
+      "id": "toxin_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Spider Altar",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "toxin_leggings",
+    "output": {
+      "id": "toxin_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Spider Altar",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "tungsten_block",
+    "output": {
+      "id": "tungsten_block",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Daily Reward: Daily Rewards",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "tungsten_ingot",
+    "output": {
+      "id": "tungsten_ingot",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Smithing: Level 5",
+      "Ore Forge: Forge Level 1",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "tungsten_ore",
+    "output": {
+      "id": "tungsten_ore",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Mining: Mining",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "tungsten_pickaxe",
+    "output": {
+      "id": "tungsten_pickaxe",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "tungsten_sack",
+    "output": {
+      "id": "tungsten_sack",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Onyx",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "tuxedo_top",
+    "output": {
+      "id": "tuxedo_top",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Curator",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "twig",
+    "output": {
+      "id": "twig",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "twine",
+    "output": {
+      "id": "twine",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Foraging: Foraging",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "twine_web",
+    "output": {
+      "id": "twine_web",
+      "count": 1
+    },
+    "methods": [
+      "Crafting"
+    ]
+  },
+  {
+    "id": "unbreakable_underwater_abyss_key",
+    "output": {
+      "id": "unbreakable_underwater_abyss_key",
+      "count": 1
+    },
+    "methods": [
+      "Disabled Recipe: Legacy Crafting"
+    ]
+  },
+  {
+    "id": "undead_bandit_mage_boots",
+    "output": {
+      "id": "undead_bandit_mage_boots",
+      "count": 1
+    },
+    "methods": [
+      "Boss Drop: Undead Bandit"
+    ]
+  },
+  {
+    "id": "undead_bandit_mage_helmet",
+    "output": {
+      "id": "undead_bandit_mage_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Boss Drop: Undead Bandit"
+    ]
+  },
+  {
+    "id": "underwater_abyss_key",
+    "output": {
+      "id": "underwater_abyss_key",
+      "count": 1
+    },
+    "methods": [
+      "Disabled Recipe: Legacy Crafting"
+    ]
+  },
+  {
+    "id": "underwater_soul",
+    "output": {
+      "id": "underwater_soul",
+      "count": 1
+    },
+    "methods": [
+      "Mob Drop: Underwater Dweller",
+      "Mob Drop: Skeleton King",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "unspindled_string",
+    "output": {
+      "id": "unspindled_string",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Spider Altar",
+      "Mob Drop: Brood Spider",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "used_and_worn_down_bow",
+    "output": {
+      "id": "used_and_worn_down_bow",
+      "count": 1
+    },
+    "methods": [
+      "Quest Reward: Costenguard"
+    ]
+  },
+  {
+    "id": "vampire_squid",
+    "output": {
+      "id": "vampire_squid",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Mob Drop: River Feeder",
+      "Fishing: Fishing",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "vampiric_boots",
+    "output": {
+      "id": "vampiric_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: H3xKnight",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "vampiric_chestplate",
+    "output": {
+      "id": "vampiric_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: H3xKnight",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "vampiric_dagger",
+    "output": {
+      "id": "vampiric_dagger",
+      "count": 1
+    },
+    "methods": [
+      "Shop: H3xKnight",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "vampiric_helmet",
+    "output": {
+      "id": "vampiric_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: H3xKnight",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "vampiric_leggings",
+    "output": {
+      "id": "vampiric_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: H3xKnight",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "vampiric_shortbow",
+    "output": {
+      "id": "vampiric_shortbow",
+      "count": 1
+    },
+    "methods": [
+      "Shop: H3xKnight",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "vampiric_soul",
+    "output": {
+      "id": "vampiric_soul",
+      "count": 1
+    },
+    "methods": [
+      "Shop: H3xKnight",
+      "Mob Drop: Energetic Vampire",
+      "Daily Reward: Daily Rewards",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "vampiric_staff",
+    "output": {
+      "id": "vampiric_staff",
+      "count": 1
+    },
+    "methods": [
+      "Shop: H3xKnight",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "vampiric_tooth",
+    "output": {
+      "id": "vampiric_tooth",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Mob Drop: Energetic Vampire",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "vanilla_iron_pickaxe?",
+    "output": {
+      "id": "vanilla_iron_pickaxe?",
+      "count": 1
+    },
+    "methods": [
+      "Mining Treasure Chest"
+    ]
+  },
+  {
+    "id": "vial_of_frost",
+    "output": {
+      "id": "vial_of_frost",
+      "count": 1
+    },
+    "methods": [
+      "Mob Drop: Crypt Walker",
+      "Mob Drop: Cryptking",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "vision_boots",
+    "output": {
+      "id": "vision_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Fisherman Kent",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "vision_chestplate",
+    "output": {
+      "id": "vision_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Fisherman Kent",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "vision_helmet",
+    "output": {
+      "id": "vision_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Fisherman Kent",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "vision_leggings",
+    "output": {
+      "id": "vision_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Fisherman Kent",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "void_bait",
+    "output": {
+      "id": "void_bait",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Sab"
+    ]
+  },
+  {
+    "id": "waterfury_shortbow",
+    "output": {
+      "id": "waterfury_shortbow",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Cryptkeep",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "waterfury_sword",
+    "output": {
+      "id": "waterfury_sword",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Cryptkeep",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "waterfury_wand",
+    "output": {
+      "id": "waterfury_wand",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Cryptkeep",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "weapon_plating",
+    "output": {
+      "id": "weapon_plating",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Mob Drop: Wandering Golem",
+      "Daily Reward: Daily Rewards",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "white_wool",
+    "output": {
+      "id": "white_wool",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Mob Drop: Wild Sheep",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "winter_holly",
+    "output": {
+      "id": "winter_holly",
+      "count": 1
+    },
+    "methods": [
+      "Gift Reward: Present",
+      "Event Reward: Negative Claus"
+    ]
+  },
+  {
+    "id": "wood_sheet",
+    "output": {
+      "id": "wood_sheet",
+      "count": 1
+    },
+    "methods": [
+      "Crafting",
+      "Foraging: Foraging",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "wooden_axe",
+    "output": {
+      "id": "wooden_axe",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Ashysomm"
+    ]
+  },
+  {
+    "id": "wooden_boots",
+    "output": {
+      "id": "wooden_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Delilah"
+    ]
+  },
+  {
+    "id": "wooden_chestplate",
+    "output": {
+      "id": "wooden_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Delilah",
+      "Raw resource breakdown available"
+    ]
+  },
+  {
+    "id": "wooden_heart",
+    "output": {
+      "id": "wooden_heart",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Hawn",
+      "Mob Drop: Wooden Zombie"
+    ]
+  },
+  {
+    "id": "wooden_helmet",
+    "output": {
+      "id": "wooden_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Delilah"
+    ]
+  },
+  {
+    "id": "wooden_leggings",
+    "output": {
+      "id": "wooden_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Delilah"
+    ]
+  },
+  {
+    "id": "wooden_shortbow",
+    "output": {
+      "id": "wooden_shortbow",
+      "count": 1
+    },
+    "methods": [
+      "Quest Reward: Thalia"
+    ]
+  },
+  {
+    "id": "wooden_wand",
+    "output": {
+      "id": "wooden_wand",
+      "count": 1
+    },
+    "methods": [
+      "Boss Drop: Undead Bandit"
+    ]
+  },
+  {
+    "id": "wool_boots",
+    "output": {
+      "id": "wool_boots",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Delilah"
+    ]
+  },
+  {
+    "id": "wool_chestplate",
+    "output": {
+      "id": "wool_chestplate",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Delilah"
+    ]
+  },
+  {
+    "id": "wool_helmet",
+    "output": {
+      "id": "wool_helmet",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Delilah"
+    ]
+  },
+  {
+    "id": "wool_leggings",
+    "output": {
+      "id": "wool_leggings",
+      "count": 1
+    },
+    "methods": [
+      "Shop: Delilah"
+    ]
+  },
+  {
+    "id": "xp_booster__t1",
+    "output": {
+      "id": "xp_booster__t1",
+      "count": 1
+    },
+    "methods": [
+      "Event Reward: Daily Rewards",
+      "Daily Reward: Daily Rewards"
+    ]
+  },
+  {
+    "id": "xp_booster__t2",
+    "output": {
+      "id": "xp_booster__t2",
+      "count": 1
+    },
+    "methods": []
+  },
+  {
+    "id": "xp_booster__t3",
+    "output": {
+      "id": "xp_booster__t3",
+      "count": 1
+    },
+    "methods": [
+      "Package Reward: July 4th Bundle"
+    ]
+  },
+  {
+    "id": "xp_booster__t4",
+    "output": {
+      "id": "xp_booster__t4",
+      "count": 1
+    },
+    "methods": []
+  },
+  {
+    "id": "xp_lamp",
+    "output": {
+      "id": "xp_lamp",
+      "count": 1
+    },
+    "methods": [
+      "Quest Reward: Iqtz"
+    ]
+  }
+]

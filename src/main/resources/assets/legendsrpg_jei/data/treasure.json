@@ -1,0 +1,148 @@
+[
+  {
+    "id": "mining_treasure_vanilla_iron_pickaxe?_33",
+    "chestName": "Mining Treasure Chest",
+    "area": "Uncharted Mines, Deepslate Mines, Mystical Cavern, The Undergrove, Ruined Mines, Far Mines",
+    "spawnText": "Found while mining Hardened Stone or Deepslate",
+    "dropChance": "0.01%",
+    "pity": 0,
+    "notes": [
+      "Treasure chests spawn while mining in the listed mining regions.",
+      "Base spawn chance: 0.75% from Hardened Stone and 1.25% from Deepslate.",
+      "Spawn pity increases while a chest has not appeared.",
+      "Expert + Ironman profiles add four total RNG Meter progress per opened chest."
+    ],
+    "output": {
+      "id": "vanilla_iron_pickaxe?",
+      "count": 1
+    }
+  },
+  {
+    "id": "mining_treasure_enchanted_hardened_stone_37",
+    "chestName": "Mining Treasure Chest",
+    "area": "Uncharted Mines, Deepslate Mines, Mystical Cavern, The Undergrove, Ruined Mines, Far Mines",
+    "spawnText": "Found while mining Hardened Stone or Deepslate",
+    "dropChance": "30% base chance",
+    "pity": 0,
+    "notes": [
+      "Treasure chests spawn while mining in the listed mining regions.",
+      "Base spawn chance: 0.75% from Hardened Stone and 1.25% from Deepslate.",
+      "Spawn pity increases while a chest has not appeared.",
+      "Expert + Ironman profiles add four total RNG Meter progress per opened chest."
+    ],
+    "output": {
+      "id": "enchanted_hardened_stone",
+      "count": 8
+    }
+  },
+  {
+    "id": "mining_treasure_enchanted_coal_block_40",
+    "chestName": "Mining Treasure Chest",
+    "area": "Uncharted Mines, Deepslate Mines, Mystical Cavern, The Undergrove, Ruined Mines, Far Mines",
+    "spawnText": "Found while mining Hardened Stone or Deepslate",
+    "dropChance": "20% base chance",
+    "pity": 0,
+    "notes": [
+      "Treasure chests spawn while mining in the listed mining regions.",
+      "Base spawn chance: 0.75% from Hardened Stone and 1.25% from Deepslate.",
+      "Spawn pity increases while a chest has not appeared.",
+      "Expert + Ironman profiles add four total RNG Meter progress per opened chest."
+    ],
+    "output": {
+      "id": "enchanted_coal_block",
+      "count": 8
+    }
+  },
+  {
+    "id": "mining_treasure_enchanted_compact_deepslate_43",
+    "chestName": "Mining Treasure Chest",
+    "area": "Uncharted Mines, Deepslate Mines, Mystical Cavern, The Undergrove, Ruined Mines, Far Mines",
+    "spawnText": "Found while mining Hardened Stone or Deepslate",
+    "dropChance": "32.5% base chance",
+    "pity": 0,
+    "notes": [
+      "Treasure chests spawn while mining in the listed mining regions.",
+      "Base spawn chance: 0.75% from Hardened Stone and 1.25% from Deepslate.",
+      "Spawn pity increases while a chest has not appeared.",
+      "Expert + Ironman profiles add four total RNG Meter progress per opened chest."
+    ],
+    "output": {
+      "id": "enchanted_compact_deepslate",
+      "count": 6
+    }
+  },
+  {
+    "id": "mining_treasure_enchanted_compact_deepslate_46",
+    "chestName": "Mining Treasure Chest",
+    "area": "Uncharted Mines, Deepslate Mines, Mystical Cavern, The Undergrove, Ruined Mines, Far Mines",
+    "spawnText": "Found while mining Hardened Stone or Deepslate",
+    "dropChance": "10% base chance",
+    "pity": 0,
+    "notes": [
+      "Treasure chests spawn while mining in the listed mining regions.",
+      "Base spawn chance: 0.75% from Hardened Stone and 1.25% from Deepslate.",
+      "Spawn pity increases while a chest has not appeared.",
+      "Expert + Ironman profiles add four total RNG Meter progress per opened chest."
+    ],
+    "output": {
+      "id": "enchanted_compact_deepslate",
+      "count": 8
+    }
+  },
+  {
+    "id": "mining_treasure_red_research_pack_50",
+    "chestName": "Mining Treasure Chest",
+    "area": "Uncharted Mines, Deepslate Mines, Mystical Cavern, The Undergrove, Ruined Mines, Far Mines",
+    "spawnText": "Found while mining Hardened Stone or Deepslate",
+    "dropChance": "6.25% base chance",
+    "pity": 0,
+    "notes": [
+      "Treasure chests spawn while mining in the listed mining regions.",
+      "Base spawn chance: 0.75% from Hardened Stone and 1.25% from Deepslate.",
+      "Spawn pity increases while a chest has not appeared.",
+      "Expert + Ironman profiles add four total RNG Meter progress per opened chest."
+    ],
+    "output": {
+      "id": "red_research_pack",
+      "count": 6
+    }
+  },
+  {
+    "id": "mining_treasure_broken_royal_gold_53",
+    "chestName": "Mining Treasure Chest",
+    "area": "Uncharted Mines, Deepslate Mines, Mystical Cavern, The Undergrove, Ruined Mines, Far Mines",
+    "spawnText": "Found while mining Hardened Stone or Deepslate",
+    "dropChance": "1.2% base chance",
+    "pity": 0,
+    "notes": [
+      "Treasure chests spawn while mining in the listed mining regions.",
+      "Base spawn chance: 0.75% from Hardened Stone and 1.25% from Deepslate.",
+      "Spawn pity increases while a chest has not appeared.",
+      "Expert + Ironman profiles add four total RNG Meter progress per opened chest."
+    ],
+    "output": {
+      "id": "broken_royal_gold",
+      "count": 1
+    }
+  },
+  {
+    "id": "mining_treasure_shattered_locket_57",
+    "chestName": "Mining Treasure Chest",
+    "area": "Uncharted Mines, Deepslate Mines, Mystical Cavern, The Undergrove, Ruined Mines, Far Mines",
+    "spawnText": "Found while mining Hardened Stone or Deepslate",
+    "dropChance": "0.05% base chance; increased by the RNG Meter",
+    "pity": 1250,
+    "notes": [
+      "Treasure chests spawn while mining in the listed mining regions.",
+      "Base spawn chance: 0.75% from Hardened Stone and 1.25% from Deepslate.",
+      "Spawn pity increases while a chest has not appeared.",
+      "Expert + Ironman profiles add four total RNG Meter progress per opened chest.",
+      "Guaranteed at 1,250 RNG Meter progress.",
+      "The RNG Meter resets when a Shattered Locket drops."
+    ],
+    "output": {
+      "id": "shattered_locket",
+      "count": 1
+    }
+  }
+]

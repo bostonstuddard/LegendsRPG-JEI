@@ -1,0 +1,326 @@
+[
+  {
+    "id": "forge_1_iron_ingot",
+    "selection": 1,
+    "name": "Iron Ore",
+    "level": 0,
+    "smeltingTime": 1.5,
+    "smithingTimeReduction": 2.5,
+    "inputs": [
+      {
+        "id": "coal",
+        "count": 8
+      },
+      {
+        "id": "iron_ore",
+        "count": 4
+      }
+    ],
+    "output": {
+      "id": "iron_ingot",
+      "count": 4
+    }
+  },
+  {
+    "id": "forge_2_copper_ingot",
+    "selection": 2,
+    "name": "Copper Ore",
+    "level": 0,
+    "smeltingTime": 1.5,
+    "smithingTimeReduction": 2.5,
+    "inputs": [
+      {
+        "id": "coal",
+        "count": 8
+      },
+      {
+        "id": "copper_ore",
+        "count": 4
+      }
+    ],
+    "output": {
+      "id": "copper_ingot",
+      "count": 4
+    }
+  },
+  {
+    "id": "forge_3_steel",
+    "selection": 3,
+    "name": "Steel",
+    "level": 0,
+    "smeltingTime": 3.0,
+    "smithingTimeReduction": 5.0,
+    "inputs": [
+      {
+        "id": "coal",
+        "count": 16
+      },
+      {
+        "id": "iron_ingot",
+        "count": 4
+      },
+      {
+        "id": "copper_ingot",
+        "count": 4
+      }
+    ],
+    "output": {
+      "id": "steel",
+      "count": 4
+    }
+  },
+  {
+    "id": "forge_4_tungsten_ingot",
+    "selection": 4,
+    "name": "Tungsten Ore",
+    "level": 5,
+    "smeltingTime": 4.0,
+    "smithingTimeReduction": 7.5,
+    "inputs": [
+      {
+        "id": "coal",
+        "count": 16
+      },
+      {
+        "id": "tungsten_ore",
+        "count": 8
+      }
+    ],
+    "output": {
+      "id": "tungsten_ingot",
+      "count": 4
+    }
+  },
+  {
+    "id": "forge_5_cobalt_ingot",
+    "selection": 5,
+    "name": "Cobalt Ore",
+    "level": 12,
+    "smeltingTime": 5.0,
+    "smithingTimeReduction": 9.0,
+    "inputs": [
+      {
+        "id": "coal",
+        "count": 32
+      },
+      {
+        "id": "cobalt_ore",
+        "count": 8
+      }
+    ],
+    "output": {
+      "id": "cobalt_ingot",
+      "count": 4
+    }
+  },
+  {
+    "id": "forge_6_gold_ingot",
+    "selection": 6,
+    "name": "Gold Ore",
+    "level": 12,
+    "smeltingTime": 5.0,
+    "smithingTimeReduction": 9.0,
+    "inputs": [
+      {
+        "id": "coal",
+        "count": 32
+      },
+      {
+        "id": "gold_ore",
+        "count": 8
+      }
+    ],
+    "output": {
+      "id": "gold_ingot",
+      "count": 4
+    }
+  },
+  {
+    "id": "forge_7_pure_carbon_mixture",
+    "selection": 7,
+    "name": "Pure Carbon Mixture",
+    "level": 20,
+    "smeltingTime": 3.5,
+    "smithingTimeReduction": 10.0,
+    "inputs": [
+      {
+        "id": "coal",
+        "count": 64
+      },
+      {
+        "id": "magical_wood",
+        "count": 4
+      }
+    ],
+    "output": {
+      "id": "pure_carbon_mixture",
+      "count": 8
+    }
+  },
+  {
+    "id": "forge_8_pure_redstone",
+    "selection": 8,
+    "name": "Pure Redstone",
+    "level": 20,
+    "smeltingTime": 6.5,
+    "smithingTimeReduction": 15.0,
+    "inputs": [
+      {
+        "id": "pure_carbon_mixture",
+        "count": 4
+      },
+      {
+        "id": "raw_redstone",
+        "count": 16
+      }
+    ],
+    "output": {
+      "id": "pure_redstone",
+      "count": 4
+    }
+  },
+  {
+    "id": "forge_9_gemstone_ingot",
+    "selection": 9,
+    "name": "Gemstone Ingot",
+    "level": 25,
+    "smeltingTime": 8.0,
+    "smithingTimeReduction": 20.0,
+    "inputs": [
+      {
+        "id": "pure_carbon_mixture",
+        "count": 4
+      },
+      {
+        "id": "gemstone_ore",
+        "count": 16
+      }
+    ],
+    "output": {
+      "id": "gemstone_ingot",
+      "count": 4
+    }
+  },
+  {
+    "id": "forge_10_nickel_ingot",
+    "selection": 10,
+    "name": "Nickel Ingot",
+    "level": 28,
+    "smeltingTime": 10.0,
+    "smithingTimeReduction": 25.0,
+    "inputs": [
+      {
+        "id": "pure_carbon_mixture",
+        "count": 8
+      },
+      {
+        "id": "nickel_ore",
+        "count": 24
+      }
+    ],
+    "output": {
+      "id": "nickel_ingot",
+      "count": 4
+    }
+  },
+  {
+    "id": "forge_11_lapis_ingot",
+    "selection": 11,
+    "name": "Lapis Ingot",
+    "level": 31,
+    "smeltingTime": 12.0,
+    "smithingTimeReduction": 30.0,
+    "inputs": [
+      {
+        "id": "pure_carbon_mixture",
+        "count": 12
+      },
+      {
+        "id": "lapis_ore",
+        "count": 24
+      }
+    ],
+    "output": {
+      "id": "lapis_ingot",
+      "count": 4
+    }
+  },
+  {
+    "id": "forge_12_mithril_ingot",
+    "selection": 12,
+    "name": "Mithril Ingot",
+    "level": 36,
+    "smeltingTime": 15.0,
+    "smithingTimeReduction": 35.0,
+    "inputs": [
+      {
+        "id": "pure_carbon_mixture",
+        "count": 12
+      },
+      {
+        "id": "enchanted_coal_block",
+        "count": 4
+      },
+      {
+        "id": "mithril_ore",
+        "count": 24
+      }
+    ],
+    "output": {
+      "id": "mithril_ingot",
+      "count": 4
+    }
+  },
+  {
+    "id": "forge_13_diamond_ingot",
+    "selection": 13,
+    "name": "Diamond Ingot",
+    "level": 38,
+    "smeltingTime": 18.0,
+    "smithingTimeReduction": 40.0,
+    "inputs": [
+      {
+        "id": "pure_carbon_mixture",
+        "count": 16
+      },
+      {
+        "id": "enchanted_coal_block",
+        "count": 8
+      },
+      {
+        "id": "raw_diamond",
+        "count": 32
+      }
+    ],
+    "output": {
+      "id": "diamond_ingot",
+      "count": 4
+    }
+  },
+  {
+    "id": "forge_14_infernal_ingot",
+    "selection": 14,
+    "name": "Infernal Ingot",
+    "level": 44,
+    "smeltingTime": 23.0,
+    "smithingTimeReduction": 50.0,
+    "inputs": [
+      {
+        "id": "pure_carbon_mixture",
+        "count": 32
+      },
+      {
+        "id": "enchanted_coal_block",
+        "count": 20
+      },
+      {
+        "id": "infernal_ore",
+        "count": 48
+      }
+    ],
+    "output": {
+      "id": "infernal_ingot",
+      "count": 4
+    }
+  }
+]

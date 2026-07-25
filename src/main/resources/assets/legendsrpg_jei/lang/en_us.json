@@ -1,0 +1,7 @@
+{
+  "key.legendsrpg_jei.settings": "Open LegendsRPG JEI Settings",
+  "key.legendsrpg_jei.toggle_exact_pinned": "Invert Pinned Amount Formatting",
+  "key.category.legendsrpg_jei.settings": "LegendsRPG JEI",
+  "key.categories.legendsrpg_jei.settings": "LegendsRPG JEI",
+  "text.legendsrpg_jei.bundle": "Includes JEI and Fabric API"
+}
