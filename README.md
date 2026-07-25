@@ -14,7 +14,7 @@ Custom EMI-styled crafting tree and custom-made favorites buttons, porting the E
 <img width="1882" height="981" alt="image" src="https://github.com/user-attachments/assets/4a4dc700-0ec5-4411-a27c-7f7a1c4d8624" />
 
 Pinnable recipes, showing you the resources you need for your crafts:
-<img width="1920" height="1009" alt="2026-06-08_20 32 59" src="https://github.com/user-attachments/assets/ba7dda7d-ef34-4511-a4bd-4ff5598d5c12" />
+<img width="1920" height="1009" alt="2026-07-25_02 24 06" src="https://github.com/user-attachments/assets/3ede882a-bc1a-46ca-b952-53ff46a24181" />
 
 Discord:
 https://discord.gg/gu2Hdd2R8X
