@@ -1,0 +1,3759 @@
+[
+  {
+    "id": "mining_stone_chunk_263",
+    "type": "Mining",
+    "source": "Mining",
+    "detail": "Break: Stone",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:iron_pickaxe",
+    "notes": [
+      "Affected by Mining Fortune"
+    ],
+    "output": {
+      "id": "stone_chunk",
+      "count": 1
+    }
+  },
+  {
+    "id": "mining_hardened_stone_287",
+    "type": "Mining",
+    "source": "Mining",
+    "detail": "Break: Nether Gold Ore, Tuff, Light Gray Concrete",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:iron_pickaxe",
+    "notes": [
+      "Affected by Mining Fortune"
+    ],
+    "output": {
+      "id": "hardened_stone",
+      "count": 1
+    }
+  },
+  {
+    "id": "mining_compact_deepslate_310",
+    "type": "Mining",
+    "source": "Mining",
+    "detail": "Break: Cobbled Deepslate, Smooth Basalt, Gray Concrete",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:iron_pickaxe",
+    "notes": [
+      "Affected by Mining Fortune"
+    ],
+    "output": {
+      "id": "compact_deepslate",
+      "count": 1
+    }
+  },
+  {
+    "id": "mining_coal_319",
+    "type": "Mining",
+    "source": "Mining",
+    "detail": "Break: Coal Ore",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:iron_pickaxe",
+    "notes": [
+      "Affected by Mining Fortune"
+    ],
+    "output": {
+      "id": "coal",
+      "count": 1
+    }
+  },
+  {
+    "id": "mining_iron_ore_328",
+    "type": "Mining",
+    "source": "Mining",
+    "detail": "Break: Iron Ore",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:iron_pickaxe",
+    "notes": [
+      "Affected by Mining Fortune"
+    ],
+    "output": {
+      "id": "iron_ore",
+      "count": 1
+    }
+  },
+  {
+    "id": "mining_copper_ore_337",
+    "type": "Mining",
+    "source": "Mining",
+    "detail": "Break: Copper Ore",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:iron_pickaxe",
+    "notes": [
+      "Affected by Mining Fortune"
+    ],
+    "output": {
+      "id": "copper_ore",
+      "count": 1
+    }
+  },
+  {
+    "id": "mining_tungsten_ore_346",
+    "type": "Mining",
+    "source": "Mining",
+    "detail": "Break: Deepslate Copper Ore",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:iron_pickaxe",
+    "notes": [
+      "Affected by Mining Fortune"
+    ],
+    "output": {
+      "id": "tungsten_ore",
+      "count": 1
+    }
+  },
+  {
+    "id": "mining_cobalt_ore_355",
+    "type": "Mining",
+    "source": "Mining",
+    "detail": "Break: Deepslate Coal Ore",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:iron_pickaxe",
+    "notes": [
+      "Affected by Mining Fortune"
+    ],
+    "output": {
+      "id": "cobalt_ore",
+      "count": 1
+    }
+  },
+  {
+    "id": "mining_gold_ore_364",
+    "type": "Mining",
+    "source": "Mining",
+    "detail": "Break: Gold Ore",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:iron_pickaxe",
+    "notes": [
+      "Affected by Mining Fortune"
+    ],
+    "output": {
+      "id": "gold_ore",
+      "count": 1
+    }
+  },
+  {
+    "id": "mining_raw_redstone_373",
+    "type": "Mining",
+    "source": "Mining",
+    "detail": "Break: Redstone Ore",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:iron_pickaxe",
+    "notes": [
+      "Affected by Mining Fortune"
+    ],
+    "output": {
+      "id": "raw_redstone",
+      "count": 1
+    }
+  },
+  {
+    "id": "mining_gemstone_ore_385",
+    "type": "Mining",
+    "source": "Mining",
+    "detail": "Break: Block Of Amethyst",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:iron_pickaxe",
+    "notes": [
+      "Affected by Mining Fortune"
+    ],
+    "output": {
+      "id": "gemstone_ore",
+      "count": 1
+    }
+  },
+  {
+    "id": "mining_nickel_ore_397",
+    "type": "Mining",
+    "source": "Mining",
+    "detail": "Break: Deepslate Iron Ore",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:iron_pickaxe",
+    "notes": [
+      "Affected by Mining Fortune"
+    ],
+    "output": {
+      "id": "nickel_ore",
+      "count": 1
+    }
+  },
+  {
+    "id": "mining_lapis_ore_409",
+    "type": "Mining",
+    "source": "Mining",
+    "detail": "Break: Lapis Ore",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:iron_pickaxe",
+    "notes": [
+      "Affected by Mining Fortune"
+    ],
+    "output": {
+      "id": "lapis_ore",
+      "count": 1
+    }
+  },
+  {
+    "id": "mining_mithril_ore_421",
+    "type": "Mining",
+    "source": "Mining",
+    "detail": "Break: Deepslate Diamond Ore",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:iron_pickaxe",
+    "notes": [
+      "Affected by Mining Fortune"
+    ],
+    "output": {
+      "id": "mithril_ore",
+      "count": 1
+    }
+  },
+  {
+    "id": "mining_raw_diamond_433",
+    "type": "Mining",
+    "source": "Mining",
+    "detail": "Break: Diamond Ore",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:iron_pickaxe",
+    "notes": [
+      "Affected by Mining Fortune"
+    ],
+    "output": {
+      "id": "raw_diamond",
+      "count": 1
+    }
+  },
+  {
+    "id": "mining_infernal_ore_445",
+    "type": "Mining",
+    "source": "Mining",
+    "detail": "Break: Deepslate Lapis Ore",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:iron_pickaxe",
+    "notes": [
+      "Affected by Mining Fortune"
+    ],
+    "output": {
+      "id": "infernal_ore",
+      "count": 1
+    }
+  },
+  {
+    "id": "mining_fiery_shard_457",
+    "type": "Mining",
+    "source": "Mining",
+    "detail": "Break: Orange Stained Glass",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:iron_pickaxe",
+    "notes": [
+      "Affected by Mining Fortune"
+    ],
+    "output": {
+      "id": "fiery_shard",
+      "count": 1
+    }
+  },
+  {
+    "id": "mining_molten_shard_469",
+    "type": "Mining",
+    "source": "Mining",
+    "detail": "Break: Red Stained Glass",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:iron_pickaxe",
+    "notes": [
+      "Affected by Mining Fortune"
+    ],
+    "output": {
+      "id": "molten_shard",
+      "count": 1
+    }
+  },
+  {
+    "id": "fishing_stack_of_coins_414",
+    "type": "Fishing",
+    "source": "Fishing",
+    "detail": "Treasure Catch in Abyssalwaters",
+    "chanceText": "",
+    "amount": 2,
+    "icon": "minecraft:fishing_rod",
+    "notes": [],
+    "output": {
+      "id": "stack_of_coins",
+      "count": 2
+    }
+  },
+  {
+    "id": "fishing_santa_hat_420",
+    "type": "Fishing",
+    "source": "Fishing",
+    "detail": "Treasure Catch in Abyssalwaters",
+    "chanceText": "20%",
+    "amount": 1,
+    "icon": "minecraft:fishing_rod",
+    "notes": [
+      "Available during the winter event"
+    ],
+    "output": {
+      "id": "santa_hat",
+      "count": 1
+    }
+  },
+  {
+    "id": "fishing_stack_of_coins_425",
+    "type": "Fishing",
+    "source": "Fishing",
+    "detail": "Treasure Catch in Abyssalwaters",
+    "chanceText": "",
+    "amount": 5,
+    "icon": "minecraft:fishing_rod",
+    "notes": [],
+    "output": {
+      "id": "stack_of_coins",
+      "count": 5
+    }
+  },
+  {
+    "id": "fishing_present_429",
+    "type": "Fishing",
+    "source": "Fishing",
+    "detail": "Treasure Catch in Abyssalwaters",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:fishing_rod",
+    "notes": [],
+    "output": {
+      "id": "present",
+      "count": 1
+    }
+  },
+  {
+    "id": "fishing_tome_of_the_sea_433",
+    "type": "Fishing",
+    "source": "Fishing",
+    "detail": "Treasure Catch in Abyssalwaters",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:fishing_rod",
+    "notes": [],
+    "output": {
+      "id": "tome_of_the_sea",
+      "count": 1
+    }
+  },
+  {
+    "id": "fishing_santa_hat_440",
+    "type": "Fishing",
+    "source": "Fishing",
+    "detail": "Treasure Catch in Palegardens",
+    "chanceText": "20%",
+    "amount": 1,
+    "icon": "minecraft:fishing_rod",
+    "notes": [
+      "Available during the winter event"
+    ],
+    "output": {
+      "id": "santa_hat",
+      "count": 1
+    }
+  },
+  {
+    "id": "fishing_stack_of_coins_445",
+    "type": "Fishing",
+    "source": "Fishing",
+    "detail": "Treasure Catch in Palegardens",
+    "chanceText": "",
+    "amount": 2,
+    "icon": "minecraft:fishing_rod",
+    "notes": [],
+    "output": {
+      "id": "stack_of_coins",
+      "count": 2
+    }
+  },
+  {
+    "id": "fishing_stack_of_coins_449",
+    "type": "Fishing",
+    "source": "Fishing",
+    "detail": "Treasure Catch in Palegardens",
+    "chanceText": "",
+    "amount": 5,
+    "icon": "minecraft:fishing_rod",
+    "notes": [],
+    "output": {
+      "id": "stack_of_coins",
+      "count": 5
+    }
+  },
+  {
+    "id": "fishing_present_453",
+    "type": "Fishing",
+    "source": "Fishing",
+    "detail": "Treasure Catch in Palegardens",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:fishing_rod",
+    "notes": [],
+    "output": {
+      "id": "present",
+      "count": 1
+    }
+  },
+  {
+    "id": "fishing_murky_water_vines_458",
+    "type": "Fishing",
+    "source": "Fishing",
+    "detail": "Treasure Catch in Palegardens",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:fishing_rod",
+    "notes": [],
+    "output": {
+      "id": "murky_water_vines",
+      "count": 1
+    }
+  },
+  {
+    "id": "fishing_pale_water_orb_463",
+    "type": "Fishing",
+    "source": "Fishing",
+    "detail": "Treasure Catch in Palegardens",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:fishing_rod",
+    "notes": [],
+    "output": {
+      "id": "pale_water_orb",
+      "count": 1
+    }
+  },
+  {
+    "id": "fishing_rusty_anchor_468",
+    "type": "Fishing",
+    "source": "Fishing",
+    "detail": "Treasure Catch in Area1",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:fishing_rod",
+    "notes": [],
+    "output": {
+      "id": "rusty_anchor",
+      "count": 1
+    }
+  },
+  {
+    "id": "fishing_stack_of_coins_472",
+    "type": "Fishing",
+    "source": "Fishing",
+    "detail": "Treasure Catch in Area1",
+    "chanceText": "",
+    "amount": 2,
+    "icon": "minecraft:fishing_rod",
+    "notes": [],
+    "output": {
+      "id": "stack_of_coins",
+      "count": 2
+    }
+  },
+  {
+    "id": "fishing_present_476",
+    "type": "Fishing",
+    "source": "Fishing",
+    "detail": "Treasure Catch in Area1",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:fishing_rod",
+    "notes": [],
+    "output": {
+      "id": "present",
+      "count": 1
+    }
+  },
+  {
+    "id": "fishing_stack_of_coins_480",
+    "type": "Fishing",
+    "source": "Fishing",
+    "detail": "Treasure Catch in Area1",
+    "chanceText": "",
+    "amount": 5,
+    "icon": "minecraft:fishing_rod",
+    "notes": [],
+    "output": {
+      "id": "stack_of_coins",
+      "count": 5
+    }
+  },
+  {
+    "id": "fishing_size_two_fish_496",
+    "type": "Fishing",
+    "source": "Fishing",
+    "detail": "Fishing Catch in Area1",
+    "chanceText": "0.0001%",
+    "amount": 1,
+    "icon": "minecraft:fishing_rod",
+    "notes": [],
+    "output": {
+      "id": "size_two_fish",
+      "count": 1
+    }
+  },
+  {
+    "id": "fishing_anglerfish_502",
+    "type": "Fishing",
+    "source": "Fishing",
+    "detail": "Fishing Catch in Abyssalwaters",
+    "chanceText": "0.0001%",
+    "amount": 1,
+    "icon": "minecraft:fishing_rod",
+    "notes": [],
+    "output": {
+      "id": "anglerfish",
+      "count": 1
+    }
+  },
+  {
+    "id": "fishing_abyssalfish_505",
+    "type": "Fishing",
+    "source": "Fishing",
+    "detail": "Fishing Catch in Abyssalwaters",
+    "chanceText": "0.0001%",
+    "amount": 1,
+    "icon": "minecraft:fishing_rod",
+    "notes": [],
+    "output": {
+      "id": "abyssalfish",
+      "count": 1
+    }
+  },
+  {
+    "id": "fishing_blobfish_508",
+    "type": "Fishing",
+    "source": "Fishing",
+    "detail": "Fishing Catch in Abyssalwaters",
+    "chanceText": "0.0001%",
+    "amount": 1,
+    "icon": "minecraft:fishing_rod",
+    "notes": [],
+    "output": {
+      "id": "blobfish",
+      "count": 1
+    }
+  },
+  {
+    "id": "fishing_jellyfish_511",
+    "type": "Fishing",
+    "source": "Fishing",
+    "detail": "Fishing Catch in Abyssalwaters",
+    "chanceText": "0.0001%",
+    "amount": 1,
+    "icon": "minecraft:fishing_rod",
+    "notes": [],
+    "output": {
+      "id": "jellyfish",
+      "count": 1
+    }
+  },
+  {
+    "id": "fishing_murky_swimmer_516",
+    "type": "Fishing",
+    "source": "Fishing",
+    "detail": "Fishing Catch in Palegardens",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:fishing_rod",
+    "notes": [],
+    "output": {
+      "id": "murky_swimmer",
+      "count": 1
+    }
+  },
+  {
+    "id": "fishing_gill_splashed_tider_522",
+    "type": "Fishing",
+    "source": "Fishing",
+    "detail": "Fishing Catch in Palegardens",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:fishing_rod",
+    "notes": [],
+    "output": {
+      "id": "gill_splashed_tider",
+      "count": 1
+    }
+  },
+  {
+    "id": "fishing_pale_dream_fish_527",
+    "type": "Fishing",
+    "source": "Fishing",
+    "detail": "Fishing Catch in Palegardens",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:fishing_rod",
+    "notes": [],
+    "output": {
+      "id": "pale_dream_fish",
+      "count": 1
+    }
+  },
+  {
+    "id": "fishing_pale_ray_fish_530",
+    "type": "Fishing",
+    "source": "Fishing",
+    "detail": "Fishing Catch in Palegardens",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:fishing_rod",
+    "notes": [],
+    "output": {
+      "id": "pale_ray_fish",
+      "count": 1
+    }
+  },
+  {
+    "id": "fishing_raw_carp_534",
+    "type": "Fishing",
+    "source": "Fishing",
+    "detail": "Fishing Catch in Fardeltariver",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:fishing_rod",
+    "notes": [],
+    "output": {
+      "id": "raw_carp",
+      "count": 1
+    }
+  },
+  {
+    "id": "fishing_shrimp_537",
+    "type": "Fishing",
+    "source": "Fishing",
+    "detail": "Fishing Catch in Fardeltariver",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:fishing_rod",
+    "notes": [],
+    "output": {
+      "id": "shrimp",
+      "count": 1
+    }
+  },
+  {
+    "id": "fishing_raw_cod_545",
+    "type": "Fishing",
+    "source": "Fishing",
+    "detail": "Fishing Catch in Waterlake",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:fishing_rod",
+    "notes": [],
+    "output": {
+      "id": "raw_cod",
+      "count": 1
+    }
+  },
+  {
+    "id": "fishing_raw_chub_548",
+    "type": "Fishing",
+    "source": "Fishing",
+    "detail": "Fishing Catch in Waterlake",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:fishing_rod",
+    "notes": [],
+    "output": {
+      "id": "raw_chub",
+      "count": 1
+    }
+  },
+  {
+    "id": "fishing_raw_herring_551",
+    "type": "Fishing",
+    "source": "Fishing",
+    "detail": "Fishing Catch in Waterlake",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:fishing_rod",
+    "notes": [],
+    "output": {
+      "id": "raw_herring",
+      "count": 1
+    }
+  },
+  {
+    "id": "fishing_vampire_squid_555",
+    "type": "Fishing",
+    "source": "Fishing",
+    "detail": "Fishing Catch in Waterlake",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:fishing_rod",
+    "notes": [],
+    "output": {
+      "id": "vampire_squid",
+      "count": 1
+    }
+  },
+  {
+    "id": "fishing_sunfish_556",
+    "type": "Fishing",
+    "source": "Fishing",
+    "detail": "Fishing Catch in Waterlake",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:fishing_rod",
+    "notes": [],
+    "output": {
+      "id": "sunfish",
+      "count": 1
+    }
+  },
+  {
+    "id": "fishing_vampire_squid_560",
+    "type": "Fishing",
+    "source": "Fishing",
+    "detail": "Fishing Catch in Waterlake",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:fishing_rod",
+    "notes": [
+      "Catch may depend on the time of day"
+    ],
+    "output": {
+      "id": "vampire_squid",
+      "count": 1
+    }
+  },
+  {
+    "id": "fishing_sunfish_562",
+    "type": "Fishing",
+    "source": "Fishing",
+    "detail": "Fishing Catch in Waterlake",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:fishing_rod",
+    "notes": [
+      "Catch may depend on the time of day"
+    ],
+    "output": {
+      "id": "sunfish",
+      "count": 1
+    }
+  },
+  {
+    "id": "foraging_spruce_bark",
+    "type": "Foraging",
+    "source": "Foraging",
+    "detail": "Break: Spruce Logs",
+    "chanceText": "0.02%",
+    "amount": 1,
+    "icon": "minecraft:iron_axe",
+    "notes": [
+      "Expert chance: 0.05%",
+      "Pity: 5000 blocks",
+      "Expert pity: 2000 blocks"
+    ],
+    "output": {
+      "id": "spruce_bark",
+      "count": 1
+    }
+  },
+  {
+    "id": "foraging_dark_oak_bark",
+    "type": "Foraging",
+    "source": "Foraging",
+    "detail": "Break: Dark Oak Logs",
+    "chanceText": "0.02%",
+    "amount": 1,
+    "icon": "minecraft:iron_axe",
+    "notes": [
+      "Expert chance: 0.05%",
+      "Pity: 5000 blocks",
+      "Expert pity: 2000 blocks",
+      "Requires Foraging Power 3"
+    ],
+    "output": {
+      "id": "dark_oak_bark",
+      "count": 1
+    }
+  },
+  {
+    "id": "foraging_magic_bark",
+    "type": "Foraging",
+    "source": "Foraging",
+    "detail": "Break: Acacia Logs",
+    "chanceText": "0.02%",
+    "amount": 1,
+    "icon": "minecraft:iron_axe",
+    "notes": [
+      "Expert chance: 0.05%",
+      "Pity: 5000 blocks",
+      "Expert pity: 2000 blocks",
+      "Requires Foraging Power 5"
+    ],
+    "output": {
+      "id": "magic_bark",
+      "count": 1
+    }
+  },
+  {
+    "id": "foraging_pale_oak_bark",
+    "type": "Foraging",
+    "source": "Foraging",
+    "detail": "Break: Pale Oak Logs",
+    "chanceText": "0.02%",
+    "amount": 1,
+    "icon": "minecraft:iron_axe",
+    "notes": [
+      "Expert chance: 0.05%",
+      "Pity: 5000 blocks",
+      "Expert pity: 2000 blocks",
+      "Requires Foraging Power 7"
+    ],
+    "output": {
+      "id": "pale_oak_bark",
+      "count": 1
+    }
+  },
+  {
+    "id": "foraging_compression_spruce_log",
+    "type": "Foraging",
+    "source": "Spruce Trees",
+    "detail": "Chop Spruce trees",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:iron_axe",
+    "notes": [
+      "Base foraging drop",
+      "Affected by Foraging Fortune"
+    ],
+    "output": {
+      "id": "spruce_log",
+      "count": 1
+    }
+  },
+  {
+    "id": "foraging_compression_spruce_wood",
+    "type": "Foraging",
+    "source": "Spruce Trees",
+    "detail": "Compress Spruce logs",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:iron_axe",
+    "notes": [
+      "Automatic compressor output",
+      "9 logs per wood"
+    ],
+    "output": {
+      "id": "spruce_wood",
+      "count": 1
+    }
+  },
+  {
+    "id": "foraging_compression_enchanted_spruce_wood",
+    "type": "Foraging",
+    "source": "Spruce Trees",
+    "detail": "Compress Spruce wood",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:iron_axe",
+    "notes": [
+      "Automatic compressor output",
+      "9 wood per enchanted wood"
+    ],
+    "output": {
+      "id": "enchanted_spruce_wood",
+      "count": 1
+    }
+  },
+  {
+    "id": "foraging_compression_spruce_singularity",
+    "type": "Foraging",
+    "source": "Spruce Trees",
+    "detail": "Compress Enchanted Spruce Wood",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:iron_axe",
+    "notes": [
+      "Automatic compressor output",
+      "64 enchanted wood per singularity"
+    ],
+    "output": {
+      "id": "spruce_singularity",
+      "count": 1
+    }
+  },
+  {
+    "id": "foraging_compression_dark_oak_log",
+    "type": "Foraging",
+    "source": "Dark Oak Trees",
+    "detail": "Chop Dark Oak trees",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:iron_axe",
+    "notes": [
+      "Base foraging drop",
+      "Affected by Foraging Fortune"
+    ],
+    "output": {
+      "id": "dark_oak_log",
+      "count": 1
+    }
+  },
+  {
+    "id": "foraging_compression_dark_oak_wood",
+    "type": "Foraging",
+    "source": "Dark Oak Trees",
+    "detail": "Compress Dark Oak logs",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:iron_axe",
+    "notes": [
+      "Automatic compressor output",
+      "9 logs per wood"
+    ],
+    "output": {
+      "id": "dark_oak_wood",
+      "count": 1
+    }
+  },
+  {
+    "id": "foraging_compression_enchanted_dark_oak_wood",
+    "type": "Foraging",
+    "source": "Dark Oak Trees",
+    "detail": "Compress Dark Oak wood",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:iron_axe",
+    "notes": [
+      "Automatic compressor output",
+      "9 wood per enchanted wood"
+    ],
+    "output": {
+      "id": "enchanted_dark_oak_wood",
+      "count": 1
+    }
+  },
+  {
+    "id": "foraging_compression_dark_oak_singularity",
+    "type": "Foraging",
+    "source": "Dark Oak Trees",
+    "detail": "Compress Enchanted Dark Oak Wood",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:iron_axe",
+    "notes": [
+      "Automatic compressor output",
+      "64 enchanted wood per singularity"
+    ],
+    "output": {
+      "id": "dark_oak_singularity",
+      "count": 1
+    }
+  },
+  {
+    "id": "foraging_compression_magical_log",
+    "type": "Foraging",
+    "source": "Magical Trees",
+    "detail": "Chop Magical trees",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:iron_axe",
+    "notes": [
+      "Base foraging drop",
+      "Affected by Foraging Fortune"
+    ],
+    "output": {
+      "id": "magical_log",
+      "count": 1
+    }
+  },
+  {
+    "id": "foraging_compression_magical_wood",
+    "type": "Foraging",
+    "source": "Magical Trees",
+    "detail": "Compress Magical logs",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:iron_axe",
+    "notes": [
+      "Automatic compressor output",
+      "9 logs per wood"
+    ],
+    "output": {
+      "id": "magical_wood",
+      "count": 1
+    }
+  },
+  {
+    "id": "foraging_compression_enchanted_magical_wood",
+    "type": "Foraging",
+    "source": "Magical Trees",
+    "detail": "Compress Magical wood",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:iron_axe",
+    "notes": [
+      "Automatic compressor output",
+      "9 wood per enchanted wood"
+    ],
+    "output": {
+      "id": "enchanted_magical_wood",
+      "count": 1
+    }
+  },
+  {
+    "id": "foraging_compression_magical_singularity",
+    "type": "Foraging",
+    "source": "Magical Trees",
+    "detail": "Compress Enchanted Magical Wood",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:iron_axe",
+    "notes": [
+      "Automatic compressor output",
+      "64 enchanted wood per singularity"
+    ],
+    "output": {
+      "id": "magical_singularity",
+      "count": 1
+    }
+  },
+  {
+    "id": "foraging_compression_pale_oak_log",
+    "type": "Foraging",
+    "source": "Pale Oak Trees",
+    "detail": "Chop Pale Oak trees",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:iron_axe",
+    "notes": [
+      "Base foraging drop",
+      "Affected by Foraging Fortune"
+    ],
+    "output": {
+      "id": "pale_oak_log",
+      "count": 1
+    }
+  },
+  {
+    "id": "foraging_compression_pale_oak_wood",
+    "type": "Foraging",
+    "source": "Pale Oak Trees",
+    "detail": "Compress Pale Oak logs",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:iron_axe",
+    "notes": [
+      "Automatic compressor output",
+      "9 logs per wood"
+    ],
+    "output": {
+      "id": "pale_oak_wood",
+      "count": 1
+    }
+  },
+  {
+    "id": "foraging_compression_enchanted_pale_oak_wood",
+    "type": "Foraging",
+    "source": "Pale Oak Trees",
+    "detail": "Compress Pale Oak wood",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:iron_axe",
+    "notes": [
+      "Automatic compressor output",
+      "9 wood per enchanted wood"
+    ],
+    "output": {
+      "id": "enchanted_pale_oak_wood",
+      "count": 1
+    }
+  },
+  {
+    "id": "foraging_compression_pale_oak_singularity",
+    "type": "Foraging",
+    "source": "Pale Oak Trees",
+    "detail": "Compress Enchanted Pale Oak Wood",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:iron_axe",
+    "notes": [
+      "Automatic compressor output",
+      "64 enchanted wood per singularity"
+    ],
+    "output": {
+      "id": "pale_oak_singularity",
+      "count": 1
+    }
+  },
+  {
+    "id": "foraging_twine_204",
+    "type": "Foraging",
+    "source": "Foraging",
+    "detail": "Obtained while chopping trees",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:iron_axe",
+    "notes": [
+      "Affected by Foraging Fortune"
+    ],
+    "output": {
+      "id": "twine",
+      "count": 1
+    }
+  },
+  {
+    "id": "foraging_wood_sheet_229",
+    "type": "Foraging",
+    "source": "Foraging",
+    "detail": "Obtained while chopping trees",
+    "chanceText": "{_chance}%",
+    "amount": 1,
+    "icon": "minecraft:iron_axe",
+    "notes": [
+      "Affected by Foraging Fortune"
+    ],
+    "output": {
+      "id": "wood_sheet",
+      "count": 1
+    }
+  },
+  {
+    "id": "quest_costengatekeeper_the_supreme_final_item_18",
+    "type": "Quest Reward",
+    "source": "Costengatekeeper",
+    "detail": "Rewarded during Costengatekeeper's quest",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:filled_map",
+    "notes": [
+      "Complete the NPC's quest requirements"
+    ],
+    "output": {
+      "id": "the_supreme_final_item",
+      "count": 1
+    }
+  },
+  {
+    "id": "quest_costenguard_used_and_worn_down_bow_15",
+    "type": "Quest Reward",
+    "source": "Costenguard",
+    "detail": "Rewarded during Costenguard's quest",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:filled_map",
+    "notes": [
+      "Complete the NPC's quest requirements"
+    ],
+    "output": {
+      "id": "used_and_worn_down_bow",
+      "count": 1
+    }
+  },
+  {
+    "id": "quest_founder_table_of_supreme_knowledge_19",
+    "type": "Quest Reward",
+    "source": "Founder",
+    "detail": "Rewarded during Founder's quest",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:filled_map",
+    "notes": [
+      "Complete the NPC's quest requirements"
+    ],
+    "output": {
+      "id": "table_of_supreme_knowledge",
+      "count": 1
+    }
+  },
+  {
+    "id": "quest_griffith_imperials_bandana_53",
+    "type": "Quest Reward",
+    "source": "Griffith",
+    "detail": "Rewarded during Griffith's quest",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:filled_map",
+    "notes": [
+      "Complete the NPC's quest requirements",
+      "Item use requirement: Melee Level 11"
+    ],
+    "output": {
+      "id": "imperials_bandana",
+      "count": 1
+    }
+  },
+  {
+    "id": "quest_imkas_error_cube_19",
+    "type": "Quest Reward",
+    "source": "Imkas",
+    "detail": "Rewarded during Imkas's quest",
+    "chanceText": "",
+    "amount": 64,
+    "icon": "minecraft:filled_map",
+    "notes": [
+      "Complete the NPC's quest requirements"
+    ],
+    "output": {
+      "id": "error_cube",
+      "count": 64
+    }
+  },
+  {
+    "id": "quest_iqtz_xp_lamp_64",
+    "type": "Quest Reward",
+    "source": "Iqtz",
+    "detail": "Rewarded during Iqtz's quest",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:filled_map",
+    "notes": [
+      "Complete the NPC's quest requirements"
+    ],
+    "output": {
+      "id": "xp_lamp",
+      "count": 1
+    }
+  },
+  {
+    "id": "quest_jeremiah_speedy_sword_56",
+    "type": "Quest Reward",
+    "source": "Jeremiah",
+    "detail": "Rewarded during Jeremiah's quest",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:filled_map",
+    "notes": [
+      "Complete the NPC's quest requirements"
+    ],
+    "output": {
+      "id": "speedy_sword",
+      "count": 1
+    }
+  },
+  {
+    "id": "quest_jeremiah_magical_phone_61",
+    "type": "Quest Reward",
+    "source": "Jeremiah",
+    "detail": "Rewarded during Jeremiah's quest",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:filled_map",
+    "notes": [
+      "Complete the NPC's quest requirements"
+    ],
+    "output": {
+      "id": "magical_phone",
+      "count": 1
+    }
+  },
+  {
+    "id": "quest_jeremy_developers_scroll_22",
+    "type": "Quest Reward",
+    "source": "Jeremy",
+    "detail": "Rewarded during Jeremy's quest",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:filled_map",
+    "notes": [
+      "Complete the NPC's quest requirements"
+    ],
+    "output": {
+      "id": "developers_scroll",
+      "count": 1
+    }
+  },
+  {
+    "id": "quest_lonely_fisherman_a_medallion_of_war_122",
+    "type": "Quest Reward",
+    "source": "Lonely Fisherman",
+    "detail": "Rewarded during Lonely Fisherman's quest",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:filled_map",
+    "notes": [
+      "Complete the NPC's quest requirements",
+      "Item use requirement: Fishing Level 15"
+    ],
+    "output": {
+      "id": "a_medallion_of_war",
+      "count": 1
+    }
+  },
+  {
+    "id": "quest_mythron_mythrons_deciphered_clue_28",
+    "type": "Quest Reward",
+    "source": "Mythron",
+    "detail": "Rewarded during Mythron's quest",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:filled_map",
+    "notes": [
+      "Complete the NPC's quest requirements"
+    ],
+    "output": {
+      "id": "mythrons_deciphered_clue",
+      "count": 1
+    }
+  },
+  {
+    "id": "quest_mythron_???_brain_30",
+    "type": "Quest Reward",
+    "source": "Mythron",
+    "detail": "Rewarded during Mythron's quest",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:filled_map",
+    "notes": [
+      "Complete the NPC's quest requirements"
+    ],
+    "output": {
+      "id": "???_brain",
+      "count": 1
+    }
+  },
+  {
+    "id": "quest_mythron_cheat_sheet_47",
+    "type": "Quest Reward",
+    "source": "Mythron",
+    "detail": "Rewarded during Mythron's quest",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:filled_map",
+    "notes": [
+      "Complete the NPC's quest requirements"
+    ],
+    "output": {
+      "id": "cheat_sheet",
+      "count": 1
+    }
+  },
+  {
+    "id": "quest_mythron_???_plans_63",
+    "type": "Quest Reward",
+    "source": "Mythron",
+    "detail": "Rewarded during Mythron's quest",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:filled_map",
+    "notes": [
+      "Complete the NPC's quest requirements"
+    ],
+    "output": {
+      "id": "???_plans",
+      "count": 1
+    }
+  },
+  {
+    "id": "quest_nick_chain_strap_24",
+    "type": "Quest Reward",
+    "source": "Nick",
+    "detail": "Rewarded during Nick's quest",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:filled_map",
+    "notes": [
+      "Complete the NPC's quest requirements"
+    ],
+    "output": {
+      "id": "chain_strap",
+      "count": 1
+    }
+  },
+  {
+    "id": "quest_nick_alpha_bread_61",
+    "type": "Quest Reward",
+    "source": "Nick",
+    "detail": "Rewarded during Nick's quest",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:filled_map",
+    "notes": [
+      "Complete the NPC's quest requirements"
+    ],
+    "output": {
+      "id": "alpha_bread",
+      "count": 1
+    }
+  },
+  {
+    "id": "quest_nicole_broken_dagger_53",
+    "type": "Quest Reward",
+    "source": "Nicole",
+    "detail": "Rewarded during Nicole's quest",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:filled_map",
+    "notes": [
+      "Complete the NPC's quest requirements"
+    ],
+    "output": {
+      "id": "broken_dagger",
+      "count": 1
+    }
+  },
+  {
+    "id": "quest_nicole_old_pants_83",
+    "type": "Quest Reward",
+    "source": "Nicole",
+    "detail": "Rewarded during Nicole's quest",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:filled_map",
+    "notes": [
+      "Complete the NPC's quest requirements"
+    ],
+    "output": {
+      "id": "old_pants",
+      "count": 1
+    }
+  },
+  {
+    "id": "quest_noblequeen_royal_miners_crown_66",
+    "type": "Quest Reward",
+    "source": "Noblequeen",
+    "detail": "Rewarded during Noblequeen's quest",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:filled_map",
+    "notes": [
+      "Complete the NPC's quest requirements",
+      "Item use requirement: Mining Level 35"
+    ],
+    "output": {
+      "id": "royal_miners_crown",
+      "count": 1
+    }
+  },
+  {
+    "id": "shop_noblequeen_royal_gold_72",
+    "type": "Shop",
+    "source": "Noblequeen Shop",
+    "detail": "Purchased from Noblequeen",
+    "chanceText": "Guaranteed shop purchase",
+    "amount": 1,
+    "icon": "minecraft:emerald",
+    "notes": [
+      "Available from Noblequeen's shop"
+    ],
+    "output": {
+      "id": "royal_gold",
+      "count": 1
+    }
+  },
+  {
+    "id": "quest_onyx_broken_pickaxe_49",
+    "type": "Quest Reward",
+    "source": "Onyx",
+    "detail": "Rewarded during Onyx's quest",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:filled_map",
+    "notes": [
+      "Complete the NPC's quest requirements"
+    ],
+    "output": {
+      "id": "broken_pickaxe",
+      "count": 1
+    }
+  },
+  {
+    "id": "quest_onyx_broken_axe_50",
+    "type": "Quest Reward",
+    "source": "Onyx",
+    "detail": "Rewarded during Onyx's quest",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:filled_map",
+    "notes": [
+      "Complete the NPC's quest requirements"
+    ],
+    "output": {
+      "id": "broken_axe",
+      "count": 1
+    }
+  },
+  {
+    "id": "quest_onyx_stone_pickaxe_82",
+    "type": "Quest Reward",
+    "source": "Onyx",
+    "detail": "Rewarded during Onyx's quest",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:filled_map",
+    "notes": [
+      "Complete the NPC's quest requirements"
+    ],
+    "output": {
+      "id": "stone_pickaxe",
+      "count": 1
+    }
+  },
+  {
+    "id": "quest_shelly_boring_fishing_rod_29",
+    "type": "Quest Reward",
+    "source": "Shelly",
+    "detail": "Rewarded during Shelly's quest",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:filled_map",
+    "notes": [
+      "Complete the NPC's quest requirements"
+    ],
+    "output": {
+      "id": "boring_fishing_rod",
+      "count": 1
+    }
+  },
+  {
+    "id": "quest_thalia_wooden_shortbow_21",
+    "type": "Quest Reward",
+    "source": "Thalia",
+    "detail": "Rewarded during Thalia's quest",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:filled_map",
+    "notes": [
+      "Complete the NPC's quest requirements"
+    ],
+    "output": {
+      "id": "wooden_shortbow",
+      "count": 1
+    }
+  },
+  {
+    "id": "quest_titanbo_the_hunt_ii_shard_18",
+    "type": "Quest Reward",
+    "source": "Titanbo",
+    "detail": "Rewarded during Titanbo's quest",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:filled_map",
+    "notes": [
+      "Complete the NPC's quest requirements"
+    ],
+    "output": {
+      "id": "the_hunt_ii_shard",
+      "count": 1
+    }
+  },
+  {
+    "id": "boss_ancientcolossal_godly_fragment_418",
+    "type": "Boss Drop",
+    "source": "Ancient Colossal",
+    "detail": "Defeat Ancient Colossal",
+    "chanceText": "Guaranteed clear reward",
+    "amount": 1,
+    "icon": "minecraft:nether_star",
+    "notes": [],
+    "output": {
+      "id": "godly_fragment",
+      "count": 1
+    }
+  },
+  {
+    "id": "boss_ancientcolossal_godly_fragment_420",
+    "type": "Boss Drop",
+    "source": "Ancient Colossal",
+    "detail": "Defeat Ancient Colossal",
+    "chanceText": "4%",
+    "amount": 1,
+    "icon": "minecraft:nether_star",
+    "notes": [
+      "Bonus drop in addition to the normal clear reward"
+    ],
+    "output": {
+      "id": "godly_fragment",
+      "count": 1
+    }
+  },
+  {
+    "id": "boss_ancientcolossal_bloody_talisman_424",
+    "type": "Boss Drop",
+    "source": "Ancient Colossal",
+    "detail": "Defeat Ancient Colossal",
+    "chanceText": "4%",
+    "amount": 1,
+    "icon": "minecraft:nether_star",
+    "notes": [
+      "Bonus drop in addition to the normal clear reward"
+    ],
+    "output": {
+      "id": "bloody_talisman",
+      "count": 1
+    }
+  },
+  {
+    "id": "boss_ancientcolossal_bloody_talisman_427",
+    "type": "Boss Drop",
+    "source": "Ancient Colossal",
+    "detail": "Defeat Ancient Colossal",
+    "chanceText": "Guaranteed every 25 clears",
+    "amount": 1,
+    "icon": "minecraft:nether_star",
+    "notes": [],
+    "output": {
+      "id": "bloody_talisman",
+      "count": 1
+    }
+  },
+  {
+    "id": "boss_arachnidhybrid_old_silk_7",
+    "type": "Boss Drop",
+    "source": "Arachnid Hybrid",
+    "detail": "Defeat Arachnid Hybrid",
+    "chanceText": "Guaranteed clear reward",
+    "amount": 1,
+    "icon": "minecraft:nether_star",
+    "notes": [],
+    "output": {
+      "id": "old_silk",
+      "count": 1
+    }
+  },
+  {
+    "id": "corrupt_rift_expert_clear_56",
+    "type": "Dungeon Reward",
+    "source": "Corrupt Rift",
+    "detail": "Complete the full Corrupt Rift in Expert Mode",
+    "chanceText": "Guaranteed Expert clear reward",
+    "amount": 1,
+    "icon": "minecraft:ender_eye",
+    "notes": [
+      "Expert Mode only",
+      "Awarded after the Corrupt Rift is completed"
+    ],
+    "output": {
+      "id": "corrupt_rift_expert_bag",
+      "count": 1
+    }
+  },
+  {
+    "id": "boss_astralbeing_corrupt_fragment_62",
+    "type": "Boss Drop",
+    "source": "Astral Being",
+    "detail": "Defeat Astral Being",
+    "chanceText": "Guaranteed clear reward",
+    "amount": 2,
+    "icon": "minecraft:nether_star",
+    "notes": [],
+    "output": {
+      "id": "corrupt_fragment",
+      "count": 2
+    }
+  },
+  {
+    "id": "boss_astralbeing_corrupt_fragment_68",
+    "type": "Boss Drop",
+    "source": "Astral Being",
+    "detail": "Defeat Astral Being",
+    "chanceText": "Guaranteed clear reward",
+    "amount": 1,
+    "icon": "minecraft:nether_star",
+    "notes": [],
+    "output": {
+      "id": "corrupt_fragment",
+      "count": 1
+    }
+  },
+  {
+    "id": "boss_clockboss_time_keeper_key_27",
+    "type": "Boss Drop",
+    "source": "Clockwork Boss",
+    "detail": "Defeat Clockwork Boss",
+    "chanceText": "Guaranteed clear reward",
+    "amount": 1,
+    "icon": "minecraft:nether_star",
+    "notes": [],
+    "output": {
+      "id": "time_keeper_key",
+      "count": 1
+    }
+  },
+  {
+    "id": "boss_undeadbandit_wooden_wand_58",
+    "type": "Boss Drop",
+    "source": "Undead Bandit",
+    "detail": "Defeat Undead Bandit",
+    "chanceText": "Guaranteed clear reward",
+    "amount": 1,
+    "icon": "minecraft:nether_star",
+    "notes": [],
+    "output": {
+      "id": "wooden_wand",
+      "count": 1
+    }
+  },
+  {
+    "id": "boss_undeadbandit_magical_chestplate_59",
+    "type": "Boss Drop",
+    "source": "Undead Bandit",
+    "detail": "Defeat Undead Bandit",
+    "chanceText": "Guaranteed clear reward",
+    "amount": 1,
+    "icon": "minecraft:nether_star",
+    "notes": [],
+    "output": {
+      "id": "magical_chestplate",
+      "count": 1
+    }
+  },
+  {
+    "id": "boss_undeadbandit_undead_bandit_mage_helmet_61",
+    "type": "Boss Drop",
+    "source": "Undead Bandit",
+    "detail": "Defeat Undead Bandit",
+    "chanceText": "Guaranteed clear reward",
+    "amount": 1,
+    "icon": "minecraft:nether_star",
+    "notes": [
+      "Expert Mode only"
+    ],
+    "output": {
+      "id": "undead_bandit_mage_helmet",
+      "count": 1
+    }
+  },
+  {
+    "id": "boss_undeadbandit_undead_bandit_mage_boots_62",
+    "type": "Boss Drop",
+    "source": "Undead Bandit",
+    "detail": "Defeat Undead Bandit",
+    "chanceText": "Guaranteed clear reward",
+    "amount": 1,
+    "icon": "minecraft:nether_star",
+    "notes": [
+      "Expert Mode only"
+    ],
+    "output": {
+      "id": "undead_bandit_mage_boots",
+      "count": 1
+    }
+  },
+  {
+    "id": "container_corrupt_rift_expert_bag_corrupt_fragment_5",
+    "type": "Container Reward",
+    "source": "Corrupt Rift Expert Bag",
+    "detail": "Open Corrupt Rift Expert Bag",
+    "chanceText": "Guaranteed when opened",
+    "amount": 2,
+    "icon": "corrupt_rift_expert_bag",
+    "notes": [
+      "Expert Mode only"
+    ],
+    "output": {
+      "id": "corrupt_fragment",
+      "count": 2
+    }
+  },
+  {
+    "id": "container_corrupt_rift_expert_bag_frosted_over_dagger_8",
+    "type": "Container Reward",
+    "source": "Corrupt Rift Expert Bag",
+    "detail": "Open Corrupt Rift Expert Bag",
+    "chanceText": "Guaranteed when opened",
+    "amount": 1,
+    "icon": "corrupt_rift_expert_bag",
+    "notes": [
+      "First-time reward only",
+      "Expert Mode only",
+      "Item use requirement: Melee Level 6"
+    ],
+    "output": {
+      "id": "frosted_over_dagger",
+      "count": 1
+    }
+  },
+  {
+    "id": "present_winter_holly_38",
+    "type": "Gift Reward",
+    "source": "Present",
+    "detail": "Open a Present with another player",
+    "chanceText": "33%",
+    "amount": 1,
+    "icon": "present",
+    "notes": [
+      "The giver and receiver each roll their own reward"
+    ],
+    "output": {
+      "id": "winter_holly",
+      "count": 1
+    }
+  },
+  {
+    "id": "present_ice_shortbow_41",
+    "type": "Gift Reward",
+    "source": "Present",
+    "detail": "Open a Present with another player",
+    "chanceText": "2%",
+    "amount": 1,
+    "icon": "present",
+    "notes": [
+      "The giver and receiver each roll their own reward",
+      "Item use requirement: Ranged Level 13"
+    ],
+    "output": {
+      "id": "ice_shortbow",
+      "count": 1
+    }
+  },
+  {
+    "id": "present_ice_wand_44",
+    "type": "Gift Reward",
+    "source": "Present",
+    "detail": "Open a Present with another player",
+    "chanceText": "2%",
+    "amount": 1,
+    "icon": "present",
+    "notes": [
+      "The giver and receiver each roll their own reward",
+      "Item use requirement: Magic Level 13"
+    ],
+    "output": {
+      "id": "ice_wand",
+      "count": 1
+    }
+  },
+  {
+    "id": "present_candy_cane_47",
+    "type": "Gift Reward",
+    "source": "Present",
+    "detail": "Open a Present with another player",
+    "chanceText": "2%",
+    "amount": 1,
+    "icon": "present",
+    "notes": [
+      "The giver and receiver each roll their own reward",
+      "Item use requirement: Melee Level 13"
+    ],
+    "output": {
+      "id": "candy_cane",
+      "count": 1
+    }
+  },
+  {
+    "id": "present_santa_hat_50",
+    "type": "Gift Reward",
+    "source": "Present",
+    "detail": "Open a Present with another player",
+    "chanceText": "1%",
+    "amount": 1,
+    "icon": "present",
+    "notes": [
+      "The giver and receiver each roll their own reward"
+    ],
+    "output": {
+      "id": "santa_hat",
+      "count": 1
+    }
+  },
+  {
+    "id": "dungeon_keran_depth_fragment_115",
+    "type": "Dungeon Reward",
+    "source": "Keran",
+    "detail": "Open Keran",
+    "chanceText": "Chest reward",
+    "amount": 1,
+    "icon": "minecraft:chest",
+    "notes": [],
+    "output": {
+      "id": "depth_fragment",
+      "count": 1
+    }
+  },
+  {
+    "id": "dungeon_underwaterabysschest_clockpiece_6",
+    "type": "Dungeon Reward",
+    "source": "Time Keeper Chest",
+    "detail": "Open Time Keeper Chest",
+    "chanceText": "Chest reward",
+    "amount": 1,
+    "icon": "minecraft:chest",
+    "notes": [
+      "Requires Time Keeper Key",
+      "Clock Armor conversion setting affects the reward pool"
+    ],
+    "output": {
+      "id": "clockpiece",
+      "count": 1
+    }
+  },
+  {
+    "id": "dungeon_underwaterabysschest_clock_helmet_10",
+    "type": "Dungeon Reward",
+    "source": "Time Keeper Chest",
+    "detail": "Open Time Keeper Chest",
+    "chanceText": "25%",
+    "amount": 1,
+    "icon": "minecraft:chest",
+    "notes": [
+      "Requires Time Keeper Key",
+      "Clock Armor conversion setting affects the reward pool",
+      "Item use requirement: Ranged Level 20"
+    ],
+    "output": {
+      "id": "clock_helmet",
+      "count": 1
+    }
+  },
+  {
+    "id": "dungeon_underwaterabysschest_clock_chestplate_12",
+    "type": "Dungeon Reward",
+    "source": "Time Keeper Chest",
+    "detail": "Open Time Keeper Chest",
+    "chanceText": "25%",
+    "amount": 1,
+    "icon": "minecraft:chest",
+    "notes": [
+      "Requires Time Keeper Key",
+      "Clock Armor conversion setting affects the reward pool",
+      "Item use requirement: Ranged Level 20"
+    ],
+    "output": {
+      "id": "clock_chestplate",
+      "count": 1
+    }
+  },
+  {
+    "id": "dungeon_underwaterabysschest_clock_leggings_14",
+    "type": "Dungeon Reward",
+    "source": "Time Keeper Chest",
+    "detail": "Open Time Keeper Chest",
+    "chanceText": "25%",
+    "amount": 1,
+    "icon": "minecraft:chest",
+    "notes": [
+      "Requires Time Keeper Key",
+      "Clock Armor conversion setting affects the reward pool",
+      "Item use requirement: Ranged Level 20"
+    ],
+    "output": {
+      "id": "clock_leggings",
+      "count": 1
+    }
+  },
+  {
+    "id": "dungeon_underwaterabysschest_clock_boots_16",
+    "type": "Dungeon Reward",
+    "source": "Time Keeper Chest",
+    "detail": "Open Time Keeper Chest",
+    "chanceText": "25%",
+    "amount": 1,
+    "icon": "minecraft:chest",
+    "notes": [
+      "Requires Time Keeper Key",
+      "Clock Armor conversion setting affects the reward pool",
+      "Item use requirement: Ranged Level 20"
+    ],
+    "output": {
+      "id": "clock_boots",
+      "count": 1
+    }
+  },
+  {
+    "id": "dungeon_underwaterabysschest_skeleton_king_key_18",
+    "type": "Dungeon Reward",
+    "source": "Time Keeper Chest",
+    "detail": "Open Time Keeper Chest",
+    "chanceText": "12.5%",
+    "amount": 1,
+    "icon": "minecraft:chest",
+    "notes": [
+      "Requires Time Keeper Key",
+      "Clock Armor conversion setting affects the reward pool"
+    ],
+    "output": {
+      "id": "skeleton_king_key",
+      "count": 1
+    }
+  },
+  {
+    "id": "production_honey_jar_793",
+    "type": "Apiary",
+    "source": "Kimi's Apiary",
+    "detail": "Collect a completed apiary production cycle",
+    "chanceText": "Guaranteed after the production timer",
+    "amount": 1,
+    "icon": "minecraft:beehive",
+    "notes": [
+      "Production speed depends on the relevant greenhouse upgrades"
+    ],
+    "output": {
+      "id": "honey_jar",
+      "count": 1
+    }
+  },
+  {
+    "id": "clipping_azalea_petals_5",
+    "type": "Gathering",
+    "source": "Flower Clippers",
+    "detail": "Use the matching clippers on Flowering Azalea",
+    "chanceText": "Guaranteed",
+    "amount": 1,
+    "icon": "minecraft:shears",
+    "notes": [
+      "The clipped block regrows shortly after"
+    ],
+    "output": {
+      "id": "azalea_petals",
+      "count": 1
+    }
+  },
+  {
+    "id": "clipping_dandelion_petals_11",
+    "type": "Gathering",
+    "source": "Flower Clippers",
+    "detail": "Use the matching clippers on Dandelion",
+    "chanceText": "Guaranteed",
+    "amount": 1,
+    "icon": "minecraft:shears",
+    "notes": [
+      "The clipped block regrows shortly after"
+    ],
+    "output": {
+      "id": "dandelion_petals",
+      "count": 1
+    }
+  },
+  {
+    "id": "event_dailies_xp_booster__t1_368",
+    "type": "Event Reward",
+    "source": "Daily Rewards",
+    "detail": "Claim the matching daily reward milestone",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:firework_star",
+    "notes": [],
+    "output": {
+      "id": "xp_booster__t1",
+      "count": 1
+    }
+  },
+  {
+    "id": "event_negativeclaus_winter_holly_175",
+    "type": "Event Reward",
+    "source": "Negative Claus",
+    "detail": "Participate in the Negative Claus winter event",
+    "chanceText": "",
+    "amount": 1,
+    "icon": "minecraft:firework_star",
+    "notes": [
+      "Seasonal winter-event reward"
+    ],
+    "output": {
+      "id": "winter_holly",
+      "count": 1
+    }
+  },
+  {
+    "id": "event_negativeclaus_winter_holly_179",
+    "type": "Event Reward",
+    "source": "Negative Claus",
+    "detail": "Participate in the Negative Claus winter event",
+    "chanceText": "",
+    "amount": 2,
+    "icon": "minecraft:firework_star",
+    "notes": [
+      "Seasonal winter-event reward"
+    ],
+    "output": {
+      "id": "winter_holly",
+      "count": 2
+    }
+  },
+  {
+    "id": "daily_common_block_of_coal_44",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Common daily loot pool",
+    "chanceText": "54.4% pool roll; 1 of 27 pool entries",
+    "amount": 8,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "block_of_coal",
+      "count": 8
+    }
+  },
+  {
+    "id": "daily_common_iron_block_44",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Common daily loot pool",
+    "chanceText": "54.4% pool roll; 1 of 27 pool entries",
+    "amount": 6,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "iron_block",
+      "count": 6
+    }
+  },
+  {
+    "id": "daily_common_copper_block_44",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Common daily loot pool",
+    "chanceText": "54.4% pool roll; 1 of 27 pool entries",
+    "amount": 6,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "copper_block",
+      "count": 6
+    }
+  },
+  {
+    "id": "daily_common_block_of_steel_44",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Common daily loot pool",
+    "chanceText": "54.4% pool roll; 1 of 27 pool entries",
+    "amount": 4,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "block_of_steel",
+      "count": 4
+    }
+  },
+  {
+    "id": "daily_common_tungsten_block_44",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Common daily loot pool",
+    "chanceText": "54.4% pool roll; 1 of 27 pool entries",
+    "amount": 3,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "tungsten_block",
+      "count": 3
+    }
+  },
+  {
+    "id": "daily_common_block_of_cobalt_44",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Common daily loot pool",
+    "chanceText": "54.4% pool roll; 1 of 27 pool entries",
+    "amount": 2,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "block_of_cobalt",
+      "count": 2
+    }
+  },
+  {
+    "id": "daily_common_gold_block_44",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Common daily loot pool",
+    "chanceText": "54.4% pool roll; 1 of 27 pool entries",
+    "amount": 2,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "gold_block",
+      "count": 2
+    }
+  },
+  {
+    "id": "daily_common_enchanted_spruce_wood_44",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Common daily loot pool",
+    "chanceText": "54.4% pool roll; 1 of 27 pool entries",
+    "amount": 4,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "enchanted_spruce_wood",
+      "count": 4
+    }
+  },
+  {
+    "id": "daily_common_enchanted_dark_oak_wood_44",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Common daily loot pool",
+    "chanceText": "54.4% pool roll; 1 of 27 pool entries",
+    "amount": 3,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "enchanted_dark_oak_wood",
+      "count": 3
+    }
+  },
+  {
+    "id": "daily_common_bucket_of_raw_cod_44",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Common daily loot pool",
+    "chanceText": "54.4% pool roll; 1 of 27 pool entries",
+    "amount": 3,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "bucket_of_raw_cod",
+      "count": 3
+    }
+  },
+  {
+    "id": "daily_common_bucket_of_raw_chub_44",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Common daily loot pool",
+    "chanceText": "54.4% pool roll; 1 of 27 pool entries",
+    "amount": 3,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "bucket_of_raw_chub",
+      "count": 3
+    }
+  },
+  {
+    "id": "daily_common_bucket_of_raw_carp_44",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Common daily loot pool",
+    "chanceText": "54.4% pool roll; 1 of 27 pool entries",
+    "amount": 3,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "bucket_of_raw_carp",
+      "count": 3
+    }
+  },
+  {
+    "id": "daily_common_bucket_of_raw_herring_44",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Common daily loot pool",
+    "chanceText": "54.4% pool roll; 1 of 27 pool entries",
+    "amount": 3,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "bucket_of_raw_herring",
+      "count": 3
+    }
+  },
+  {
+    "id": "daily_common_bucket_of_sunfish_44",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Common daily loot pool",
+    "chanceText": "54.4% pool roll; 1 of 27 pool entries",
+    "amount": 2,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "bucket_of_sunfish",
+      "count": 2
+    }
+  },
+  {
+    "id": "daily_common_bucket_of_shrimp_44",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Common daily loot pool",
+    "chanceText": "54.4% pool roll; 1 of 27 pool entries",
+    "amount": 2,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "bucket_of_shrimp",
+      "count": 2
+    }
+  },
+  {
+    "id": "daily_common_bucket_of_vampire_squid_44",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Common daily loot pool",
+    "chanceText": "54.4% pool roll; 1 of 27 pool entries",
+    "amount": 2,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "bucket_of_vampire_squid",
+      "count": 2
+    }
+  },
+  {
+    "id": "daily_common_riverbed_material_44",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Common daily loot pool",
+    "chanceText": "54.4% pool roll; 1 of 27 pool entries",
+    "amount": 8,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "riverbed_material",
+      "count": 8
+    }
+  },
+  {
+    "id": "daily_common_riptide_scale_44",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Common daily loot pool",
+    "chanceText": "54.4% pool roll; 1 of 27 pool entries",
+    "amount": 12,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "riptide_scale",
+      "count": 12
+    }
+  },
+  {
+    "id": "daily_common_refractal_shard_44",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Common daily loot pool",
+    "chanceText": "54.4% pool roll; 1 of 27 pool entries",
+    "amount": 12,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "refractal_shard",
+      "count": 12
+    }
+  },
+  {
+    "id": "daily_common_enchanted_vampiric_tooth_44",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Common daily loot pool",
+    "chanceText": "54.4% pool roll; 1 of 27 pool entries",
+    "amount": 4,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "enchanted_vampiric_tooth",
+      "count": 4
+    }
+  },
+  {
+    "id": "daily_common_enchanted_stone_tablet_44",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Common daily loot pool",
+    "chanceText": "54.4% pool roll; 1 of 27 pool entries",
+    "amount": 3,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "enchanted_stone_tablet",
+      "count": 3
+    }
+  },
+  {
+    "id": "daily_common_fossilized_flesh_44",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Common daily loot pool",
+    "chanceText": "54.4% pool roll; 1 of 27 pool entries",
+    "amount": 16,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "fossilized_flesh",
+      "count": 16
+    }
+  },
+  {
+    "id": "daily_common_knitted_white_wool_44",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Common daily loot pool",
+    "chanceText": "54.4% pool roll; 1 of 27 pool entries",
+    "amount": 6,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "knitted_white_wool",
+      "count": 6
+    }
+  },
+  {
+    "id": "daily_common_mutton_block_44",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Common daily loot pool",
+    "chanceText": "54.4% pool roll; 1 of 27 pool entries",
+    "amount": 6,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "mutton_block",
+      "count": 6
+    }
+  },
+  {
+    "id": "daily_common_goblin_iron_44",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Common daily loot pool",
+    "chanceText": "54.4% pool roll; 1 of 27 pool entries",
+    "amount": 12,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "goblin_iron",
+      "count": 12
+    }
+  },
+  {
+    "id": "daily_common_goblin_soul_44",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Common daily loot pool",
+    "chanceText": "54.4% pool roll; 1 of 27 pool entries",
+    "amount": 12,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "goblin_soul",
+      "count": 12
+    }
+  },
+  {
+    "id": "daily_common_unspindled_string_44",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Common daily loot pool",
+    "chanceText": "54.4% pool roll; 1 of 27 pool entries",
+    "amount": 16,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "unspindled_string",
+      "count": 16
+    }
+  },
+  {
+    "id": "daily_rare_enchanted_coal_block_46",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Rare daily loot pool",
+    "chanceText": "39.6% pool roll; 1 of 27 pool entries",
+    "amount": 1,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "enchanted_coal_block",
+      "count": 1
+    }
+  },
+  {
+    "id": "daily_rare_pure_carbon_mixture_46",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Rare daily loot pool",
+    "chanceText": "39.6% pool roll; 1 of 27 pool entries",
+    "amount": 24,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "pure_carbon_mixture",
+      "count": 24
+    }
+  },
+  {
+    "id": "daily_rare_pure_redstone_46",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Rare daily loot pool",
+    "chanceText": "39.6% pool roll; 1 of 27 pool entries",
+    "amount": 16,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "pure_redstone",
+      "count": 16
+    }
+  },
+  {
+    "id": "daily_rare_gemstone_ingot_46",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Rare daily loot pool",
+    "chanceText": "39.6% pool roll; 1 of 27 pool entries",
+    "amount": 16,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "gemstone_ingot",
+      "count": 16
+    }
+  },
+  {
+    "id": "daily_rare_nickel_ingot_46",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Rare daily loot pool",
+    "chanceText": "39.6% pool roll; 1 of 27 pool entries",
+    "amount": 12,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "nickel_ingot",
+      "count": 12
+    }
+  },
+  {
+    "id": "daily_rare_lapis_ingot_46",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Rare daily loot pool",
+    "chanceText": "39.6% pool roll; 1 of 27 pool entries",
+    "amount": 10,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "lapis_ingot",
+      "count": 10
+    }
+  },
+  {
+    "id": "daily_rare_mithril_ingot_46",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Rare daily loot pool",
+    "chanceText": "39.6% pool roll; 1 of 27 pool entries",
+    "amount": 8,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "mithril_ingot",
+      "count": 8
+    }
+  },
+  {
+    "id": "daily_rare_enchanted_hardened_stone_46",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Rare daily loot pool",
+    "chanceText": "39.6% pool roll; 1 of 27 pool entries",
+    "amount": 8,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "enchanted_hardened_stone",
+      "count": 8
+    }
+  },
+  {
+    "id": "daily_rare_enchanted_compact_deepslate_46",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Rare daily loot pool",
+    "chanceText": "39.6% pool roll; 1 of 27 pool entries",
+    "amount": 6,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "enchanted_compact_deepslate",
+      "count": 6
+    }
+  },
+  {
+    "id": "daily_rare_enchanted_magical_wood_46",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Rare daily loot pool",
+    "chanceText": "39.6% pool roll; 1 of 27 pool entries",
+    "amount": 8,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "enchanted_magical_wood",
+      "count": 8
+    }
+  },
+  {
+    "id": "daily_rare_enchanted_pale_oak_wood_46",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Rare daily loot pool",
+    "chanceText": "39.6% pool roll; 1 of 27 pool entries",
+    "amount": 4,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "enchanted_pale_oak_wood",
+      "count": 4
+    }
+  },
+  {
+    "id": "daily_rare_enchanted_vampiric_tooth_46",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Rare daily loot pool",
+    "chanceText": "39.6% pool roll; 1 of 27 pool entries",
+    "amount": 8,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "enchanted_vampiric_tooth",
+      "count": 8
+    }
+  },
+  {
+    "id": "daily_rare_vampiric_soul_46",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Rare daily loot pool",
+    "chanceText": "39.6% pool roll; 1 of 27 pool entries",
+    "amount": 2,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "vampiric_soul",
+      "count": 2
+    }
+  },
+  {
+    "id": "daily_rare_energetic_core_46",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Rare daily loot pool",
+    "chanceText": "39.6% pool roll; 1 of 27 pool entries",
+    "amount": 2,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "energetic_core",
+      "count": 2
+    }
+  },
+  {
+    "id": "daily_rare_enriched_fossilized_flesh_46",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Rare daily loot pool",
+    "chanceText": "39.6% pool roll; 1 of 27 pool entries",
+    "amount": 4,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "enriched_fossilized_flesh",
+      "count": 4
+    }
+  },
+  {
+    "id": "daily_rare_vial_of_frost_46",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Rare daily loot pool",
+    "chanceText": "39.6% pool roll; 1 of 27 pool entries",
+    "amount": 3,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "vial_of_frost",
+      "count": 3
+    }
+  },
+  {
+    "id": "daily_rare_soul_string_46",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Rare daily loot pool",
+    "chanceText": "39.6% pool roll; 1 of 27 pool entries",
+    "amount": 6,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "soul_string",
+      "count": 6
+    }
+  },
+  {
+    "id": "daily_rare_spunup_string_46",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Rare daily loot pool",
+    "chanceText": "39.6% pool roll; 1 of 27 pool entries",
+    "amount": 4,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "spunup_string",
+      "count": 4
+    }
+  },
+  {
+    "id": "daily_rare_riptide_prism_46",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Rare daily loot pool",
+    "chanceText": "39.6% pool roll; 1 of 27 pool entries",
+    "amount": 4,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "riptide_prism",
+      "count": 4
+    }
+  },
+  {
+    "id": "daily_rare_refractal_light_46",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Rare daily loot pool",
+    "chanceText": "39.6% pool roll; 1 of 27 pool entries",
+    "amount": 4,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "refractal_light",
+      "count": 4
+    }
+  },
+  {
+    "id": "daily_rare_anglerfish_46",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Rare daily loot pool",
+    "chanceText": "39.6% pool roll; 1 of 27 pool entries",
+    "amount": 10,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "anglerfish",
+      "count": 10
+    }
+  },
+  {
+    "id": "daily_rare_abyssalfish_46",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Rare daily loot pool",
+    "chanceText": "39.6% pool roll; 1 of 27 pool entries",
+    "amount": 8,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "abyssalfish",
+      "count": 8
+    }
+  },
+  {
+    "id": "daily_rare_blobfish_46",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Rare daily loot pool",
+    "chanceText": "39.6% pool roll; 1 of 27 pool entries",
+    "amount": 6,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "blobfish",
+      "count": 6
+    }
+  },
+  {
+    "id": "daily_rare_jellyfish_46",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Rare daily loot pool",
+    "chanceText": "39.6% pool roll; 1 of 27 pool entries",
+    "amount": 4,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "jellyfish",
+      "count": 4
+    }
+  },
+  {
+    "id": "daily_rare_murky_swimmer_46",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Rare daily loot pool",
+    "chanceText": "39.6% pool roll; 1 of 27 pool entries",
+    "amount": 6,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "murky_swimmer",
+      "count": 6
+    }
+  },
+  {
+    "id": "daily_rare_dark_obelisk_46",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Rare daily loot pool",
+    "chanceText": "39.6% pool roll; 1 of 27 pool entries",
+    "amount": 3,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "dark_obelisk",
+      "count": 3
+    }
+  },
+  {
+    "id": "daily_rare_mossy_lakegrass_46",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Rare daily loot pool",
+    "chanceText": "39.6% pool roll; 1 of 27 pool entries",
+    "amount": 3,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount",
+      "Item use requirement: Fishing Level 5"
+    ],
+    "output": {
+      "id": "mossy_lakegrass",
+      "count": 3
+    }
+  },
+  {
+    "id": "daily_epic_gemstone_ingot_48",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Epic daily loot pool",
+    "chanceText": "5.9% pool roll; 1 of 26 pool entries",
+    "amount": 32,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "gemstone_ingot",
+      "count": 32
+    }
+  },
+  {
+    "id": "daily_epic_nickel_ingot_48",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Epic daily loot pool",
+    "chanceText": "5.9% pool roll; 1 of 26 pool entries",
+    "amount": 24,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "nickel_ingot",
+      "count": 24
+    }
+  },
+  {
+    "id": "daily_epic_lapis_ingot_48",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Epic daily loot pool",
+    "chanceText": "5.9% pool roll; 1 of 26 pool entries",
+    "amount": 20,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "lapis_ingot",
+      "count": 20
+    }
+  },
+  {
+    "id": "daily_epic_mithril_ingot_48",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Epic daily loot pool",
+    "chanceText": "5.9% pool roll; 1 of 26 pool entries",
+    "amount": 16,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "mithril_ingot",
+      "count": 16
+    }
+  },
+  {
+    "id": "daily_epic_diamond_ingot_48",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Epic daily loot pool",
+    "chanceText": "5.9% pool roll; 1 of 26 pool entries",
+    "amount": 12,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "diamond_ingot",
+      "count": 12
+    }
+  },
+  {
+    "id": "daily_epic_infernal_ingot_48",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Epic daily loot pool",
+    "chanceText": "5.9% pool roll; 1 of 26 pool entries",
+    "amount": 8,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "infernal_ingot",
+      "count": 8
+    }
+  },
+  {
+    "id": "daily_epic_fiery_shard_48",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Epic daily loot pool",
+    "chanceText": "5.9% pool roll; 1 of 26 pool entries",
+    "amount": 16,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "fiery_shard",
+      "count": 16
+    }
+  },
+  {
+    "id": "daily_epic_molten_shard_48",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Epic daily loot pool",
+    "chanceText": "5.9% pool roll; 1 of 26 pool entries",
+    "amount": 16,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "molten_shard",
+      "count": 16
+    }
+  },
+  {
+    "id": "daily_epic_enchanted_magical_wood_48",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Epic daily loot pool",
+    "chanceText": "5.9% pool roll; 1 of 26 pool entries",
+    "amount": 5,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "enchanted_magical_wood",
+      "count": 5
+    }
+  },
+  {
+    "id": "daily_epic_enchanted_pale_oak_wood_48",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Epic daily loot pool",
+    "chanceText": "5.9% pool roll; 1 of 26 pool entries",
+    "amount": 5,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "enchanted_pale_oak_wood",
+      "count": 5
+    }
+  },
+  {
+    "id": "daily_epic_energetic_core_48",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Epic daily loot pool",
+    "chanceText": "5.9% pool roll; 1 of 26 pool entries",
+    "amount": 24,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "energetic_core",
+      "count": 24
+    }
+  },
+  {
+    "id": "daily_epic_ruined_plating_48",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Epic daily loot pool",
+    "chanceText": "5.9% pool roll; 1 of 26 pool entries",
+    "amount": 3,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "ruined_plating",
+      "count": 3
+    }
+  },
+  {
+    "id": "daily_epic_underwater_soul_48",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Epic daily loot pool",
+    "chanceText": "5.9% pool roll; 1 of 26 pool entries",
+    "amount": 4,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "underwater_soul",
+      "count": 4
+    }
+  },
+  {
+    "id": "daily_epic_hallucinogenic_core_48",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Epic daily loot pool",
+    "chanceText": "5.9% pool roll; 1 of 26 pool entries",
+    "amount": 12,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "hallucinogenic_core",
+      "count": 12
+    }
+  },
+  {
+    "id": "daily_epic_depth_fragment_48",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Epic daily loot pool",
+    "chanceText": "5.9% pool roll; 1 of 26 pool entries",
+    "amount": 12,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "depth_fragment",
+      "count": 12
+    }
+  },
+  {
+    "id": "daily_epic_corrupt_fragment_48",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Epic daily loot pool",
+    "chanceText": "5.9% pool roll; 1 of 26 pool entries",
+    "amount": 6,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "corrupt_fragment",
+      "count": 6
+    }
+  },
+  {
+    "id": "daily_epic_pale_vines_48",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Epic daily loot pool",
+    "chanceText": "5.9% pool roll; 1 of 26 pool entries",
+    "amount": 1,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "pale_vines",
+      "count": 1
+    }
+  },
+  {
+    "id": "daily_epic_pale_heart_48",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Epic daily loot pool",
+    "chanceText": "5.9% pool roll; 1 of 26 pool entries",
+    "amount": 8,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "pale_heart",
+      "count": 8
+    }
+  },
+  {
+    "id": "daily_epic_pale_mossy_bone_48",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Epic daily loot pool",
+    "chanceText": "5.9% pool roll; 1 of 26 pool entries",
+    "amount": 8,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "pale_mossy_bone",
+      "count": 8
+    }
+  },
+  {
+    "id": "daily_epic_fragment_of_the_abyss_48",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Epic daily loot pool",
+    "chanceText": "5.9% pool roll; 1 of 26 pool entries",
+    "amount": 4,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "fragment_of_the_abyss",
+      "count": 4
+    }
+  },
+  {
+    "id": "daily_epic_murky_water_vines_48",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Epic daily loot pool",
+    "chanceText": "5.9% pool roll; 1 of 26 pool entries",
+    "amount": 1,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "murky_water_vines",
+      "count": 1
+    }
+  },
+  {
+    "id": "daily_epic_pale_water_orb_48",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Epic daily loot pool",
+    "chanceText": "5.9% pool roll; 1 of 26 pool entries",
+    "amount": 2,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "pale_water_orb",
+      "count": 2
+    }
+  },
+  {
+    "id": "daily_epic_tome_of_the_sea_48",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Epic daily loot pool",
+    "chanceText": "5.9% pool roll; 1 of 26 pool entries",
+    "amount": 5,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "tome_of_the_sea",
+      "count": 5
+    }
+  },
+  {
+    "id": "daily_epic_gill_splashed_tider_48",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Epic daily loot pool",
+    "chanceText": "5.9% pool roll; 1 of 26 pool entries",
+    "amount": 16,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "gill_splashed_tider",
+      "count": 16
+    }
+  },
+  {
+    "id": "daily_epic_pale_dream_fish_48",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Epic daily loot pool",
+    "chanceText": "5.9% pool roll; 1 of 26 pool entries",
+    "amount": 16,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "pale_dream_fish",
+      "count": 16
+    }
+  },
+  {
+    "id": "daily_epic_pale_ray_fish_48",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Epic daily loot pool",
+    "chanceText": "5.9% pool roll; 1 of 26 pool entries",
+    "amount": 12,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "pale_ray_fish",
+      "count": 12
+    }
+  },
+  {
+    "id": "daily_epic_shattered_locket_49",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Epic daily loot pool",
+    "chanceText": "5.9% pool roll; 1 of 6 pool entries",
+    "amount": 1,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount",
+      "Item use requirement: Mining Level 38"
+    ],
+    "output": {
+      "id": "shattered_locket",
+      "count": 1
+    }
+  },
+  {
+    "id": "daily_epic_royal_gold_49",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Epic daily loot pool",
+    "chanceText": "5.9% pool roll; 1 of 6 pool entries",
+    "amount": 2,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "royal_gold",
+      "count": 2
+    }
+  },
+  {
+    "id": "daily_epic_godly_fragment_49",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Epic daily loot pool",
+    "chanceText": "5.9% pool roll; 1 of 6 pool entries",
+    "amount": 3,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "godly_fragment",
+      "count": 3
+    }
+  },
+  {
+    "id": "daily_epic_bloody_talisman_49",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Epic daily loot pool",
+    "chanceText": "5.9% pool roll; 1 of 6 pool entries",
+    "amount": 1,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "bloody_talisman",
+      "count": 1
+    }
+  },
+  {
+    "id": "daily_epic_weapon_plating_49",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Epic daily loot pool",
+    "chanceText": "5.9% pool roll; 1 of 6 pool entries",
+    "amount": 3,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "weapon_plating",
+      "count": 3
+    }
+  },
+  {
+    "id": "daily_epic_xp_booster__t1_49",
+    "type": "Daily Reward",
+    "source": "Daily Rewards",
+    "detail": "Random item from the Epic daily loot pool",
+    "chanceText": "5.9% pool roll; 1 of 6 pool entries",
+    "amount": 1,
+    "icon": "minecraft:clock",
+    "notes": [
+      "Claim through /rewards",
+      "Daily streak bonuses affect the reward amount"
+    ],
+    "output": {
+      "id": "xp_booster__t1",
+      "count": 1
+    }
+  },
+  {
+    "id": "package_xp_booster__t3_101",
+    "type": "Package Reward",
+    "source": "July 4th Bundle",
+    "detail": "Claim the purchased July 4th Tebex bundle from /packages",
+    "chanceText": "One-time package claim",
+    "amount": 3,
+    "icon": "minecraft:ender_chest",
+    "notes": [
+      "Requires the matching purchased-package permission",
+      "Can only be claimed once"
+    ],
+    "output": {
+      "id": "xp_booster__t3",
+      "count": 3
+    }
+  },
+  {
+    "id": "package_animated_july_4th_2026_dye_102",
+    "type": "Package Reward",
+    "source": "July 4th Bundle",
+    "detail": "Claim the purchased July 4th Tebex bundle from /packages",
+    "chanceText": "One-time package claim",
+    "amount": 12,
+    "icon": "minecraft:ender_chest",
+    "notes": [
+      "Requires the matching purchased-package permission",
+      "Can only be claimed once"
+    ],
+    "output": {
+      "id": "animated_july_4th_2026_dye",
+      "count": 12
+    }
+  },
+  {
+    "id": "secret_the_holy_helmet",
+    "type": "Secret Discovery",
+    "source": "Holy Message",
+    "detail": "Discover and enter the hidden holy chat phrase",
+    "chanceText": "One-time discovery reward",
+    "amount": 1,
+    "icon": "minecraft:echo_shard",
+    "notes": [
+      "Requires the matching hidden progression flag"
+    ],
+    "output": {
+      "id": "the_holy_helmet",
+      "count": 1
+    }
+  },
+  {
+    "id": "secret_long_lost_fragment",
+    "type": "Secret Discovery",
+    "source": "Orchestrated Dance",
+    "detail": "Discover and enter the hidden chat phrase",
+    "chanceText": "One-time discovery reward",
+    "amount": 1,
+    "icon": "minecraft:echo_shard",
+    "notes": [
+      "Used to begin Mythron's quest"
+    ],
+    "output": {
+      "id": "long_lost_fragment",
+      "count": 1
+    }
+  },
+  {
+    "id": "story_quest_tracker",
+    "type": "Quest Reward",
+    "source": "Hawn",
+    "detail": "Complete Charmel's Guidance and choose a starter weapon",
+    "chanceText": "Guaranteed quest reward",
+    "amount": 1,
+    "icon": "minecraft:filled_map",
+    "notes": [
+      "The first tracker is awarded alongside the starter weapon",
+      "Replacement copies are sold by Thalia"
+    ],
+    "output": {
+      "id": "quest_tracker",
+      "count": 1
+    }
+  },
+  {
+    "id": "disabled_recipe_underwater_abyss_key_96",
+    "type": "Disabled Recipe",
+    "source": "Legacy Crafting",
+    "detail": "Not currently craftable on the live server",
+    "chanceText": "Disabled",
+    "amount": 1,
+    "icon": "minecraft:barrier",
+    "notes": [
+      "This recipe exists in the codebase but is commented out and disabled",
+      "Former recipe: 2x Refractal Light, 3x Refractal Shard, 4x Cobalt Ingot"
+    ],
+    "output": {
+      "id": "underwater_abyss_key",
+      "count": 1
+    }
+  },
+  {
+    "id": "disabled_recipe_unbreakable_underwater_abyss_key_97",
+    "type": "Disabled Recipe",
+    "source": "Legacy Crafting",
+    "detail": "Not currently craftable on the live server",
+    "chanceText": "Disabled",
+    "amount": 1,
+    "icon": "minecraft:barrier",
+    "notes": [
+      "This recipe exists in the codebase but is commented out and disabled",
+      "Former recipe: 6x Underwater Abyss Key, 2x Energetic Core, 1x Depth Block"
+    ],
+    "output": {
+      "id": "unbreakable_underwater_abyss_key",
+      "count": 1
+    }
+  },
+  {
+    "id": "npc_reward_ryan_iqtzs_house_papers_27",
+    "type": "Quest Reward",
+    "source": "Ryan",
+    "detail": "Received during Ryan's quest dialogue",
+    "chanceText": "Guaranteed at the matching quest step",
+    "amount": 1,
+    "icon": "minecraft:filled_map",
+    "notes": [
+      "Complete the required quest step"
+    ],
+    "output": {
+      "id": "iqtzs_house_papers",
+      "count": 1
+    }
+  },
+  {
+    "id": "coming_soon_reinforced_apiary_1138",
+    "type": "Coming Soon",
+    "source": "Kimi's Greenhouse",
+    "detail": "This configured item is displayed as a future greenhouse/apiary upgrade",
+    "chanceText": "Not currently obtainable",
+    "amount": 1,
+    "icon": "minecraft:clock",
+    "notes": [
+      "The live GUI marks this item as Coming Soon"
+    ],
+    "output": {
+      "id": "reinforced_apiary",
+      "count": 1
+    }
+  },
+  {
+    "id": "coming_soon_oozing_apiary_1139",
+    "type": "Coming Soon",
+    "source": "Kimi's Greenhouse",
+    "detail": "This configured item is displayed as a future greenhouse/apiary upgrade",
+    "chanceText": "Not currently obtainable",
+    "amount": 1,
+    "icon": "minecraft:clock",
+    "notes": [
+      "The live GUI marks this item as Coming Soon"
+    ],
+    "output": {
+      "id": "oozing_apiary",
+      "count": 1
+    }
+  },
+  {
+    "id": "coming_soon_mystical_apiary_1140",
+    "type": "Coming Soon",
+    "source": "Kimi's Greenhouse",
+    "detail": "This configured item is displayed as a future greenhouse/apiary upgrade",
+    "chanceText": "Not currently obtainable",
+    "amount": 1,
+    "icon": "minecraft:clock",
+    "notes": [
+      "The live GUI marks this item as Coming Soon"
+    ],
+    "output": {
+      "id": "mystical_apiary",
+      "count": 1
+    }
+  },
+  {
+    "id": "coming_soon_beautiful_apiary_1141",
+    "type": "Coming Soon",
+    "source": "Kimi's Greenhouse",
+    "detail": "This configured item is displayed as a future greenhouse/apiary upgrade",
+    "chanceText": "Not currently obtainable",
+    "amount": 1,
+    "icon": "minecraft:clock",
+    "notes": [
+      "The live GUI marks this item as Coming Soon"
+    ],
+    "output": {
+      "id": "beautiful_apiary",
+      "count": 1
+    }
+  },
+  {
+    "id": "coming_soon_crimson_apiary_1142",
+    "type": "Coming Soon",
+    "source": "Kimi's Greenhouse",
+    "detail": "This configured item is displayed as a future greenhouse/apiary upgrade",
+    "chanceText": "Not currently obtainable",
+    "amount": 1,
+    "icon": "minecraft:clock",
+    "notes": [
+      "The live GUI marks this item as Coming Soon"
+    ],
+    "output": {
+      "id": "crimson_apiary",
+      "count": 1
+    }
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "enabled": true,
+  "channel": "STABLE",
+  "stableManifestUrl": "https://raw.githubusercontent.com/bostonstuddard/LegendsRPG-JEI-Releases/main/update.json",
+  "devManifestUrl": "https://raw.githubusercontent.com/bostonstuddard/LegendsRPG-JEI-Releases/main/update-dev.json",
+  "manifestUrl": "https://raw.githubusercontent.com/bostonstuddard/LegendsRPG-JEI-Releases/main/update.json"
+}

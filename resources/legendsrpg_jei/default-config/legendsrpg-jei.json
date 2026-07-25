@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "rawRecipesEnabled": true,
+  "abbreviatePinnedAmounts": true,
+  "showJeiButtons": false,
+  "pinnedHudSide": "LEFT",
+  "pinnedHudScale": 0.9,
+  "theme": "CRIMSON",
+  "defaultRecipePage": "SHOP_FIRST",
+  "favoriteRecipes": [],
+  "pinnedRecipe": null
+}

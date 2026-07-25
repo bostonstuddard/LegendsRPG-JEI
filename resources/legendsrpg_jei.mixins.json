@@ -1,0 +1,24 @@
+{
+  "required": true,
+  "package": "com.legendsrpg.jei.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "JeiItemStackHelperMixin",
+    "JeiStarterMixin",
+    "JeiScalableDrawableMixin",
+    "JeiRecipeGuiTabMixin",
+    "JeiButtonSpritesMixin",
+    "JeiFocusedRecipesMixin",
+    "JeiIngredientLookupStateMixin",
+    "JeiIconButtonMixin",
+    "JeiOverlayButtonControllerMixin",
+    "JeiIngredientSorterComparatorsMixin",
+    "TitleScreenMixin",
+    "jei.JeiConfigButtonControllerMixin",
+    "ContainerScreenButtonsMixin",
+    "JeiCenteredSearchMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

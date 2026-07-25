@@ -1,0 +1,2115 @@
+[
+  {
+    "id": "iron_ore_to_raw_iron_block",
+    "group": "mining_ore_compress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "iron_ore",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "raw_iron_block",
+      "count": 1
+    }
+  },
+  {
+    "id": "iron_ore_from_raw_iron_block",
+    "group": "mining_ore_decompress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "raw_iron_block",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "iron_ore",
+      "count": 9
+    }
+  },
+  {
+    "id": "copper_ore_to_raw_copper_block",
+    "group": "mining_ore_compress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "copper_ore",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "raw_copper_block",
+      "count": 1
+    }
+  },
+  {
+    "id": "copper_ore_from_raw_copper_block",
+    "group": "mining_ore_decompress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "raw_copper_block",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "copper_ore",
+      "count": 9
+    }
+  },
+  {
+    "id": "cobalt_ore_to_raw_cobalt_block",
+    "group": "mining_ore_compress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "cobalt_ore",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "raw_cobalt_block",
+      "count": 1
+    }
+  },
+  {
+    "id": "cobalt_ore_from_raw_cobalt_block",
+    "group": "mining_ore_decompress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "raw_cobalt_block",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "cobalt_ore",
+      "count": 9
+    }
+  },
+  {
+    "id": "gold_ore_to_raw_gold_block",
+    "group": "mining_ore_compress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "gold_ore",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "raw_gold_block",
+      "count": 1
+    }
+  },
+  {
+    "id": "gold_ore_from_raw_gold_block",
+    "group": "mining_ore_decompress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "raw_gold_block",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "gold_ore",
+      "count": 9
+    }
+  },
+  {
+    "id": "tungsten_ore_to_raw_tungsten_block",
+    "group": "mining_ore_compress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "tungsten_ore",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "raw_tungsten_block",
+      "count": 1
+    }
+  },
+  {
+    "id": "tungsten_ore_from_raw_tungsten_block",
+    "group": "mining_ore_decompress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "raw_tungsten_block",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "tungsten_ore",
+      "count": 9
+    }
+  },
+  {
+    "id": "raw_redstone_to_raw_redstone_block",
+    "group": "mining_ore_compress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "raw_redstone",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "raw_redstone_block",
+      "count": 1
+    }
+  },
+  {
+    "id": "raw_redstone_from_raw_redstone_block",
+    "group": "mining_ore_decompress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "raw_redstone_block",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "raw_redstone",
+      "count": 9
+    }
+  },
+  {
+    "id": "gemstone_ore_to_raw_gemstone_block",
+    "group": "mining_ore_compress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "gemstone_ore",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "raw_gemstone_block",
+      "count": 1
+    }
+  },
+  {
+    "id": "gemstone_ore_from_raw_gemstone_block",
+    "group": "mining_ore_decompress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "raw_gemstone_block",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "gemstone_ore",
+      "count": 9
+    }
+  },
+  {
+    "id": "nickel_ore_to_raw_nickel_block",
+    "group": "mining_ore_compress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "nickel_ore",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "raw_nickel_block",
+      "count": 1
+    }
+  },
+  {
+    "id": "nickel_ore_from_raw_nickel_block",
+    "group": "mining_ore_decompress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "raw_nickel_block",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "nickel_ore",
+      "count": 9
+    }
+  },
+  {
+    "id": "lapis_ore_to_raw_lapis_block",
+    "group": "mining_ore_compress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "lapis_ore",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "raw_lapis_block",
+      "count": 1
+    }
+  },
+  {
+    "id": "lapis_ore_from_raw_lapis_block",
+    "group": "mining_ore_decompress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "raw_lapis_block",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "lapis_ore",
+      "count": 9
+    }
+  },
+  {
+    "id": "raw_diamond_to_raw_diamond_block",
+    "group": "mining_ore_compress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "raw_diamond",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "raw_diamond_block",
+      "count": 1
+    }
+  },
+  {
+    "id": "raw_diamond_from_raw_diamond_block",
+    "group": "mining_ore_decompress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "raw_diamond_block",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "raw_diamond",
+      "count": 9
+    }
+  },
+  {
+    "id": "infernal_ore_to_raw_infernal_block",
+    "group": "mining_ore_compress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "infernal_ore",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "raw_infernal_block",
+      "count": 1
+    }
+  },
+  {
+    "id": "infernal_ore_from_raw_infernal_block",
+    "group": "mining_ore_decompress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "raw_infernal_block",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "infernal_ore",
+      "count": 9
+    }
+  },
+  {
+    "id": "coal_to_block_of_coal",
+    "group": "mining_ingot_compress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "coal",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "block_of_coal",
+      "count": 1
+    }
+  },
+  {
+    "id": "coal_from_block_of_coal",
+    "group": "mining_ingot_decompress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "block_of_coal",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "coal",
+      "count": 9
+    }
+  },
+  {
+    "id": "iron_ingot_to_iron_block",
+    "group": "mining_ingot_compress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "iron_ingot",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "iron_block",
+      "count": 1
+    }
+  },
+  {
+    "id": "iron_ingot_from_iron_block",
+    "group": "mining_ingot_decompress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "iron_block",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "iron_ingot",
+      "count": 9
+    }
+  },
+  {
+    "id": "copper_ingot_to_copper_block",
+    "group": "mining_ingot_compress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "copper_ingot",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "copper_block",
+      "count": 1
+    }
+  },
+  {
+    "id": "copper_ingot_from_copper_block",
+    "group": "mining_ingot_decompress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "copper_block",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "copper_ingot",
+      "count": 9
+    }
+  },
+  {
+    "id": "steel_to_block_of_steel",
+    "group": "mining_ingot_compress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "steel",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "block_of_steel",
+      "count": 1
+    }
+  },
+  {
+    "id": "steel_from_block_of_steel",
+    "group": "mining_ingot_decompress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "block_of_steel",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "steel",
+      "count": 9
+    }
+  },
+  {
+    "id": "cobalt_ingot_to_block_of_cobalt",
+    "group": "mining_ingot_compress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "cobalt_ingot",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "block_of_cobalt",
+      "count": 1
+    }
+  },
+  {
+    "id": "cobalt_ingot_from_block_of_cobalt",
+    "group": "mining_ingot_decompress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "block_of_cobalt",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "cobalt_ingot",
+      "count": 9
+    }
+  },
+  {
+    "id": "gold_ingot_to_gold_block",
+    "group": "mining_ingot_compress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "gold_ingot",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "gold_block",
+      "count": 1
+    }
+  },
+  {
+    "id": "gold_ingot_from_gold_block",
+    "group": "mining_ingot_decompress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "gold_block",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "gold_ingot",
+      "count": 9
+    }
+  },
+  {
+    "id": "tungsten_ingot_to_tungsten_block",
+    "group": "mining_ingot_compress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "tungsten_ingot",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "tungsten_block",
+      "count": 1
+    }
+  },
+  {
+    "id": "tungsten_ingot_from_tungsten_block",
+    "group": "mining_ingot_decompress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "tungsten_block",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "tungsten_ingot",
+      "count": 9
+    }
+  },
+  {
+    "id": "pure_redstone_to_pure_redstone_block",
+    "group": "mining_ingot_compress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "pure_redstone",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "pure_redstone_block",
+      "count": 1
+    }
+  },
+  {
+    "id": "pure_redstone_from_pure_redstone_block",
+    "group": "mining_ingot_decompress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "pure_redstone_block",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "pure_redstone",
+      "count": 9
+    }
+  },
+  {
+    "id": "gemstone_ingot_to_gemstone_block",
+    "group": "mining_ingot_compress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "gemstone_ingot",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "gemstone_block",
+      "count": 1
+    }
+  },
+  {
+    "id": "gemstone_ingot_from_gemstone_block",
+    "group": "mining_ingot_decompress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "gemstone_block",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "gemstone_ingot",
+      "count": 9
+    }
+  },
+  {
+    "id": "nickel_ingot_to_nickel_block",
+    "group": "mining_ingot_compress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "nickel_ingot",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "nickel_block",
+      "count": 1
+    }
+  },
+  {
+    "id": "nickel_ingot_from_nickel_block",
+    "group": "mining_ingot_decompress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "nickel_block",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "nickel_ingot",
+      "count": 9
+    }
+  },
+  {
+    "id": "lapis_ingot_to_lapis_block",
+    "group": "mining_ingot_compress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "lapis_ingot",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "lapis_block",
+      "count": 1
+    }
+  },
+  {
+    "id": "lapis_ingot_from_lapis_block",
+    "group": "mining_ingot_decompress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "lapis_block",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "lapis_ingot",
+      "count": 9
+    }
+  },
+  {
+    "id": "mithril_ingot_to_mithril_block",
+    "group": "mining_ingot_compress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "mithril_ingot",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "mithril_block",
+      "count": 1
+    }
+  },
+  {
+    "id": "mithril_ingot_from_mithril_block",
+    "group": "mining_ingot_decompress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "mithril_block",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "mithril_ingot",
+      "count": 9
+    }
+  },
+  {
+    "id": "diamond_ingot_to_diamond_block",
+    "group": "mining_ingot_compress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "diamond_ingot",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "diamond_block",
+      "count": 1
+    }
+  },
+  {
+    "id": "diamond_ingot_from_diamond_block",
+    "group": "mining_ingot_decompress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "diamond_block",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "diamond_ingot",
+      "count": 9
+    }
+  },
+  {
+    "id": "infernal_ingot_to_infernal_block",
+    "group": "mining_ingot_compress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "infernal_ingot",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "infernal_block",
+      "count": 1
+    }
+  },
+  {
+    "id": "infernal_ingot_from_infernal_block",
+    "group": "mining_ingot_decompress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "infernal_block",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "infernal_ingot",
+      "count": 9
+    }
+  },
+  {
+    "id": "enchanted_coal_block_to_coal_blocks",
+    "group": "mining_ingot_decompress_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "enchanted_coal_block",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "block_of_coal",
+      "count": 64
+    }
+  },
+  {
+    "id": "twine_web",
+    "group": "foraging_recipes",
+    "shapeless": false,
+    "inputs": [
+      {
+        "id": "twine",
+        "count": 1
+      },
+      {
+        "id": "twine",
+        "count": 1
+      },
+      {
+        "id": "twine",
+        "count": 1
+      },
+      {
+        "id": "twine",
+        "count": 1
+      },
+      {
+        "id": "twine",
+        "count": 1
+      },
+      {
+        "id": "twine",
+        "count": 1
+      },
+      {
+        "id": "twine",
+        "count": 1
+      },
+      {
+        "id": "twine",
+        "count": 1
+      },
+      {
+        "id": "twine",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "twine_web",
+      "count": 1
+    }
+  },
+  {
+    "id": "twine_from_web",
+    "group": "foraging_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "twine_web",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "twine",
+      "count": 9
+    }
+  },
+  {
+    "id": "spruce_planks",
+    "group": "spruce_wood_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "spruce_log",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "spruce_planks",
+      "count": 4
+    }
+  },
+  {
+    "id": "dark_oak_planks",
+    "group": "dark_oak_wood_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "dark_oak_log",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "dark_oak_planks",
+      "count": 4
+    }
+  },
+  {
+    "id": "dark_oak_wood_sheet",
+    "group": "dark_oak_wood_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "dark_oak_planks",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "wood_sheet",
+      "count": 8
+    }
+  },
+  {
+    "id": "spruce_wood_sheet",
+    "group": "spruce_wood_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "spruce_planks",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "wood_sheet",
+      "count": 4
+    }
+  },
+  {
+    "id": "spruce_wood",
+    "group": "spruce_wood_recipes",
+    "shapeless": false,
+    "inputs": [
+      {
+        "id": "spruce_log",
+        "count": 1
+      },
+      {
+        "id": "spruce_log",
+        "count": 1
+      },
+      {
+        "id": "spruce_log",
+        "count": 1
+      },
+      {
+        "id": "spruce_log",
+        "count": 1
+      },
+      {
+        "id": "spruce_log",
+        "count": 1
+      },
+      {
+        "id": "spruce_log",
+        "count": 1
+      },
+      {
+        "id": "spruce_log",
+        "count": 1
+      },
+      {
+        "id": "spruce_log",
+        "count": 1
+      },
+      {
+        "id": "spruce_log",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "spruce_wood",
+      "count": 1
+    }
+  },
+  {
+    "id": "spruce_wood_decompress",
+    "group": "spruce_wood_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "enchanted_spruce_wood",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "spruce_wood",
+      "count": 9
+    }
+  },
+  {
+    "id": "enc_spruce_wood",
+    "group": "spruce_wood_recipes",
+    "shapeless": false,
+    "inputs": [
+      {
+        "id": "spruce_wood",
+        "count": 1
+      },
+      {
+        "id": "spruce_wood",
+        "count": 1
+      },
+      {
+        "id": "spruce_wood",
+        "count": 1
+      },
+      {
+        "id": "spruce_wood",
+        "count": 1
+      },
+      {
+        "id": "spruce_wood",
+        "count": 1
+      },
+      {
+        "id": "spruce_wood",
+        "count": 1
+      },
+      {
+        "id": "spruce_wood",
+        "count": 1
+      },
+      {
+        "id": "spruce_wood",
+        "count": 1
+      },
+      {
+        "id": "spruce_wood",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "enchanted_spruce_wood",
+      "count": 1
+    }
+  },
+  {
+    "id": "spruce_log",
+    "group": "spruce_wood_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "spruce_wood",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "spruce_log",
+      "count": 9
+    }
+  },
+  {
+    "id": "magic_wood",
+    "group": "magic_wood_recipes",
+    "shapeless": false,
+    "inputs": [
+      {
+        "id": "magical_log",
+        "count": 1
+      },
+      {
+        "id": "magical_log",
+        "count": 1
+      },
+      {
+        "id": "magical_log",
+        "count": 1
+      },
+      {
+        "id": "magical_log",
+        "count": 1
+      },
+      {
+        "id": "magical_log",
+        "count": 1
+      },
+      {
+        "id": "magical_log",
+        "count": 1
+      },
+      {
+        "id": "magical_log",
+        "count": 1
+      },
+      {
+        "id": "magical_log",
+        "count": 1
+      },
+      {
+        "id": "magical_log",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "magical_wood",
+      "count": 1
+    }
+  },
+  {
+    "id": "magic_wood_decompress",
+    "group": "magic_wood_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "enchanted_magical_wood",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "magical_wood",
+      "count": 9
+    }
+  },
+  {
+    "id": "enc_magic_wood",
+    "group": "magic_wood_recipes",
+    "shapeless": false,
+    "inputs": [
+      {
+        "id": "magical_wood",
+        "count": 1
+      },
+      {
+        "id": "magical_wood",
+        "count": 1
+      },
+      {
+        "id": "magical_wood",
+        "count": 1
+      },
+      {
+        "id": "magical_wood",
+        "count": 1
+      },
+      {
+        "id": "magical_wood",
+        "count": 1
+      },
+      {
+        "id": "magical_wood",
+        "count": 1
+      },
+      {
+        "id": "magical_wood",
+        "count": 1
+      },
+      {
+        "id": "magical_wood",
+        "count": 1
+      },
+      {
+        "id": "magical_wood",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "enchanted_magical_wood",
+      "count": 1
+    }
+  },
+  {
+    "id": "magic_log",
+    "group": "magic_wood_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "magical_wood",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "magical_log",
+      "count": 9
+    }
+  },
+  {
+    "id": "magic_planks",
+    "group": "magic_wood_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "magical_log",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "magical_planks",
+      "count": 4
+    }
+  },
+  {
+    "id": "dark_oak_wood",
+    "group": "dark_oak_wood_recipes",
+    "shapeless": false,
+    "inputs": [
+      {
+        "id": "dark_oak_log",
+        "count": 1
+      },
+      {
+        "id": "dark_oak_log",
+        "count": 1
+      },
+      {
+        "id": "dark_oak_log",
+        "count": 1
+      },
+      {
+        "id": "dark_oak_log",
+        "count": 1
+      },
+      {
+        "id": "dark_oak_log",
+        "count": 1
+      },
+      {
+        "id": "dark_oak_log",
+        "count": 1
+      },
+      {
+        "id": "dark_oak_log",
+        "count": 1
+      },
+      {
+        "id": "dark_oak_log",
+        "count": 1
+      },
+      {
+        "id": "dark_oak_log",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "dark_oak_wood",
+      "count": 1
+    }
+  },
+  {
+    "id": "dark_oak_wood_decompress",
+    "group": "dark_oak_wood_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "enchanted_dark_oak_wood",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "dark_oak_wood",
+      "count": 9
+    }
+  },
+  {
+    "id": "enc_dark_oak_wood",
+    "group": "dark_oak_wood_recipes",
+    "shapeless": false,
+    "inputs": [
+      {
+        "id": "dark_oak_wood",
+        "count": 1
+      },
+      {
+        "id": "dark_oak_wood",
+        "count": 1
+      },
+      {
+        "id": "dark_oak_wood",
+        "count": 1
+      },
+      {
+        "id": "dark_oak_wood",
+        "count": 1
+      },
+      {
+        "id": "dark_oak_wood",
+        "count": 1
+      },
+      {
+        "id": "dark_oak_wood",
+        "count": 1
+      },
+      {
+        "id": "dark_oak_wood",
+        "count": 1
+      },
+      {
+        "id": "dark_oak_wood",
+        "count": 1
+      },
+      {
+        "id": "dark_oak_wood",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "enchanted_dark_oak_wood",
+      "count": 1
+    }
+  },
+  {
+    "id": "dark_oak_log",
+    "group": "dark_oak_wood_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "dark_oak_wood",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "dark_oak_log",
+      "count": 9
+    }
+  },
+  {
+    "id": "pale_wood",
+    "group": "pale_wood_recipes",
+    "shapeless": false,
+    "inputs": [
+      {
+        "id": "pale_oak_log",
+        "count": 1
+      },
+      {
+        "id": "pale_oak_log",
+        "count": 1
+      },
+      {
+        "id": "pale_oak_log",
+        "count": 1
+      },
+      {
+        "id": "pale_oak_log",
+        "count": 1
+      },
+      {
+        "id": "pale_oak_log",
+        "count": 1
+      },
+      {
+        "id": "pale_oak_log",
+        "count": 1
+      },
+      {
+        "id": "pale_oak_log",
+        "count": 1
+      },
+      {
+        "id": "pale_oak_log",
+        "count": 1
+      },
+      {
+        "id": "pale_oak_log",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "pale_oak_wood",
+      "count": 1
+    }
+  },
+  {
+    "id": "pale_wood_decompress",
+    "group": "pale_wood_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "enchanted_pale_oak_wood",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "pale_oak_wood",
+      "count": 9
+    }
+  },
+  {
+    "id": "enc_pale_wood",
+    "group": "pale_wood_recipes",
+    "shapeless": false,
+    "inputs": [
+      {
+        "id": "pale_oak_wood",
+        "count": 1
+      },
+      {
+        "id": "pale_oak_wood",
+        "count": 1
+      },
+      {
+        "id": "pale_oak_wood",
+        "count": 1
+      },
+      {
+        "id": "pale_oak_wood",
+        "count": 1
+      },
+      {
+        "id": "pale_oak_wood",
+        "count": 1
+      },
+      {
+        "id": "pale_oak_wood",
+        "count": 1
+      },
+      {
+        "id": "pale_oak_wood",
+        "count": 1
+      },
+      {
+        "id": "pale_oak_wood",
+        "count": 1
+      },
+      {
+        "id": "pale_oak_wood",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "enchanted_pale_oak_wood",
+      "count": 1
+    }
+  },
+  {
+    "id": "pale_log",
+    "group": "pale_wood_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "pale_oak_wood",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "pale_oak_log",
+      "count": 9
+    }
+  },
+  {
+    "id": "pale_planks",
+    "group": "pale_wood_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "pale_oak_log",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "pale_oak_planks",
+      "count": 4
+    }
+  },
+  {
+    "id": "twig",
+    "group": "foraging_recipes",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "wood_sheet",
+        "count": 3
+      }
+    ],
+    "output": {
+      "id": "twig",
+      "count": 1
+    }
+  },
+  {
+    "id": "raw_cod_bucket",
+    "group": "fishing_buckets",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "raw_cod",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "bucket_of_raw_cod",
+      "count": 1
+    }
+  },
+  {
+    "id": "raw_cod_from_bucket",
+    "group": "fishing_buckets",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "bucket_of_raw_cod",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "raw_cod",
+      "count": 9
+    }
+  },
+  {
+    "id": "raw_chub_bucket",
+    "group": "fishing_buckets",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "raw_chub",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "bucket_of_raw_chub",
+      "count": 1
+    }
+  },
+  {
+    "id": "raw_chub_from_bucket",
+    "group": "fishing_buckets",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "bucket_of_raw_chub",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "raw_chub",
+      "count": 9
+    }
+  },
+  {
+    "id": "raw_carp_bucket",
+    "group": "fishing_buckets",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "raw_carp",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "bucket_of_raw_carp",
+      "count": 1
+    }
+  },
+  {
+    "id": "raw_carp_from_bucket",
+    "group": "fishing_buckets",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "bucket_of_raw_carp",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "raw_carp",
+      "count": 9
+    }
+  },
+  {
+    "id": "raw_herring_bucket",
+    "group": "fishing_buckets",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "raw_herring",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "bucket_of_raw_herring",
+      "count": 1
+    }
+  },
+  {
+    "id": "raw_herring_from_bucket",
+    "group": "fishing_buckets",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "bucket_of_raw_herring",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "raw_herring",
+      "count": 9
+    }
+  },
+  {
+    "id": "sunfish_bucket",
+    "group": "fishing_buckets",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "sunfish",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "bucket_of_sunfish",
+      "count": 1
+    }
+  },
+  {
+    "id": "sunfish_from_bucket",
+    "group": "fishing_buckets",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "bucket_of_sunfish",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "sunfish",
+      "count": 9
+    }
+  },
+  {
+    "id": "shrimp_bucket",
+    "group": "fishing_buckets",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "shrimp",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "bucket_of_shrimp",
+      "count": 1
+    }
+  },
+  {
+    "id": "shrimp_from_bucket",
+    "group": "fishing_buckets",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "bucket_of_shrimp",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "shrimp",
+      "count": 9
+    }
+  },
+  {
+    "id": "vampire_squid_bucket",
+    "group": "fishing_buckets",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "vampire_squid",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "bucket_of_vampire_squid",
+      "count": 1
+    }
+  },
+  {
+    "id": "vampire_squid_from_bucket",
+    "group": "fishing_buckets",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "bucket_of_vampire_squid",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "vampire_squid",
+      "count": 9
+    }
+  },
+  {
+    "id": "refractal_light",
+    "group": "fishing_buckets",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "refractal_shard",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "refractal_light",
+      "count": 1
+    }
+  },
+  {
+    "id": "refractal_shard_from_light",
+    "group": "fishing_buckets",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "refractal_light",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "refractal_shard",
+      "count": 9
+    }
+  },
+  {
+    "id": "riptide_prism",
+    "group": "fishing_buckets",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "riptide_scale",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "riptide_prism",
+      "count": 1
+    }
+  },
+  {
+    "id": "riptide_scale_from_prism",
+    "group": "fishing_buckets",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "riptide_prism",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "riptide_scale",
+      "count": 9
+    }
+  },
+  {
+    "id": "knitted_white_wool",
+    "group": "combat_compression",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "white_wool",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "knitted_white_wool",
+      "count": 1
+    }
+  },
+  {
+    "id": "white_wool_from_block",
+    "group": "combat_compression",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "knitted_white_wool",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "white_wool",
+      "count": 9
+    }
+  },
+  {
+    "id": "mutton_block",
+    "group": "combat_compression",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "raw_mutton",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "mutton_block",
+      "count": 1
+    }
+  },
+  {
+    "id": "mutton_from_block",
+    "group": "combat_compression",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "mutton_block",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "raw_mutton",
+      "count": 9
+    }
+  },
+  {
+    "id": "enchanted_vamp_tooth",
+    "group": "vamp_crafts",
+    "shapeless": false,
+    "inputs": [
+      {
+        "id": "vampiric_tooth",
+        "count": 1
+      },
+      {
+        "id": "vampiric_tooth",
+        "count": 1
+      },
+      {
+        "id": "vampiric_tooth",
+        "count": 1
+      },
+      {
+        "id": "vampiric_tooth",
+        "count": 1
+      },
+      {
+        "id": "vampiric_tooth",
+        "count": 1
+      },
+      {
+        "id": "vampiric_tooth",
+        "count": 1
+      },
+      {
+        "id": "vampiric_tooth",
+        "count": 1
+      },
+      {
+        "id": "vampiric_tooth",
+        "count": 1
+      },
+      {
+        "id": "vampiric_tooth",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "enchanted_vampiric_tooth",
+      "count": 1
+    }
+  },
+  {
+    "id": "enchanted_vamp_tooth_to_non",
+    "group": "vamp_crafts",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "enchanted_vampiric_tooth",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "vampiric_tooth",
+      "count": 9
+    }
+  },
+  {
+    "id": "enchanted_stone_tablet",
+    "group": "combat_compression",
+    "shapeless": false,
+    "inputs": [
+      {
+        "id": "stone_tablet",
+        "count": 1
+      },
+      {
+        "id": "stone_tablet",
+        "count": 1
+      },
+      {
+        "id": "stone_tablet",
+        "count": 1
+      },
+      {
+        "id": "stone_tablet",
+        "count": 1
+      },
+      {
+        "id": "stone_tablet",
+        "count": 1
+      },
+      {
+        "id": "stone_tablet",
+        "count": 1
+      },
+      {
+        "id": "stone_tablet",
+        "count": 1
+      },
+      {
+        "id": "stone_tablet",
+        "count": 1
+      },
+      {
+        "id": "stone_tablet",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "enchanted_stone_tablet",
+      "count": 1
+    }
+  },
+  {
+    "id": "enchanted_stone_tablet_to_tablets",
+    "group": "combat_compression",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "enchanted_stone_tablet",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "stone_tablet",
+      "count": 9
+    }
+  },
+  {
+    "id": "depth_block",
+    "group": "combat_compression",
+    "shapeless": false,
+    "inputs": [
+      {
+        "id": "depth_fragment",
+        "count": 1
+      },
+      {
+        "id": "depth_fragment",
+        "count": 1
+      },
+      {
+        "id": "depth_fragment",
+        "count": 1
+      },
+      {
+        "id": "depth_fragment",
+        "count": 1
+      },
+      {
+        "id": "depth_fragment",
+        "count": 1
+      },
+      {
+        "id": "depth_fragment",
+        "count": 1
+      },
+      {
+        "id": "depth_fragment",
+        "count": 1
+      },
+      {
+        "id": "depth_fragment",
+        "count": 1
+      },
+      {
+        "id": "depth_fragment",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "depth_block",
+      "count": 1
+    }
+  },
+  {
+    "id": "depth_block_to_fragments",
+    "group": "combat_compression",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "depth_block",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "depth_fragment",
+      "count": 9
+    }
+  },
+  {
+    "id": "corrupt_block",
+    "group": "combat_compression",
+    "shapeless": false,
+    "inputs": [
+      {
+        "id": "corrupt_fragment",
+        "count": 1
+      },
+      {
+        "id": "corrupt_fragment",
+        "count": 1
+      },
+      {
+        "id": "corrupt_fragment",
+        "count": 1
+      },
+      {
+        "id": "corrupt_fragment",
+        "count": 1
+      },
+      {
+        "id": "corrupt_fragment",
+        "count": 1
+      },
+      {
+        "id": "corrupt_fragment",
+        "count": 1
+      },
+      {
+        "id": "corrupt_fragment",
+        "count": 1
+      },
+      {
+        "id": "corrupt_fragment",
+        "count": 1
+      },
+      {
+        "id": "corrupt_fragment",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "corrupt_block",
+      "count": 1
+    }
+  },
+  {
+    "id": "corrupt_block_to_fragments",
+    "group": "combat_compression",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "corrupt_block",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "corrupt_fragment",
+      "count": 9
+    }
+  },
+  {
+    "id": "weapon_plating_craft",
+    "group": "combat_crafts",
+    "shapeless": false,
+    "inputs": [
+      {
+        "id": "ruined_plating",
+        "count": 1
+      },
+      {
+        "id": "ruined_plating",
+        "count": 1
+      },
+      {
+        "id": "ruined_plating",
+        "count": 1
+      },
+      {
+        "id": "pure_redstone_block",
+        "count": 1
+      },
+      {
+        "id": "pure_redstone_block",
+        "count": 1
+      },
+      {
+        "id": "pure_redstone_block",
+        "count": 1
+      },
+      {
+        "id": "ruined_plating",
+        "count": 1
+      },
+      {
+        "id": "ruined_plating",
+        "count": 1
+      },
+      {
+        "id": "ruined_plating",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "weapon_plating",
+      "count": 1
+    }
+  },
+  {
+    "id": "snowballs_to_snow_block",
+    "group": "winter_event_snow",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "snowball",
+        "count": 4
+      }
+    ],
+    "output": {
+      "id": "compressed_snowballs",
+      "count": 1
+    }
+  },
+  {
+    "id": "snow_block_to_snowballs",
+    "group": "winter_event_snow",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "compressed_snowballs",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "snowball",
+      "count": 4
+    }
+  },
+  {
+    "id": "ice_compression",
+    "group": "winter_event_ice",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "solid_ice",
+        "count": 9
+      }
+    ],
+    "output": {
+      "id": "compressed_ice",
+      "count": 1
+    }
+  },
+  {
+    "id": "ice_decompression",
+    "group": "winter_event_ice",
+    "shapeless": true,
+    "inputs": [
+      {
+        "id": "compressed_ice",
+        "count": 1
+      }
+    ],
+    "output": {
+      "id": "solid_ice",
+      "count": 9
+    }
+  }
+]
